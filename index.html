@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Schlauarbeit – Smarte DIY & Nachhaltigkeit</title>
+  <meta name="description" content="DIY-Anleitungen, Energiespar-Rechner und eine lokale Tauschbörse – alles für nachhaltiges, schlaues Arbeiten zu Hause." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0f172a">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+  <!-- Header mit links angedocktem Brand -->
+  <header class="header glass">
+    <!-- fester Brand links am Rand -->
+    <div class="brand hard-left">
+      <img src="assets/img/logo.svg" alt="" class="logo" />
+      <span class="brand-text">Schlauarbeit</span>
+    </div>
+
+    <div class="container header-inner">
+      <div></div> <!-- Platzhalter, damit Nav zentriert bleibt -->
+
+      <nav class="nav" aria-label="Hauptnavigation">
+        <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="navMenu">
+          <span class="sr-only">Menü öffnen</span>
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <ul id="navMenu" class="nav-list">
+          <li><a href="#home">Start</a></li>
+          <li><a href="#guides">DIY</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="calculators.html">Rechner</a></li>
+          <li><a href="#market">Tauschbörse</a></li>
+          <li><a href="#about">Über</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <div id="authArea"></div>
+        <button id="themeToggle" class="btn icon" title="Thema wechseln" aria-label="Thema wechseln">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/></svg>
+        </button>
+        <button id="installBtn" class="btn ghost">App installieren</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- Hero -->
+    <section id="home" class="hero section">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <h1>Nachhaltig. Clever. <span class="grad">Schlauarbeit.</span></h1>
+          <p class="lead">Kostenlose DIY-Anleitungen, Energie- & CO₂-Rechner und eine lokale Tausch- & Leihbörse. Alles, um Ressourcen zu sparen und besser zu bauen.</p>
+          <div class="hero-cta">
+            <!-- alt: <button id="addGuideBtn" class="btn">Anleitung hinzufügen</button> -->
+<a href="guide-new.html" class="btn">Anleitung hinzufügen</a>
+
+            <a href="#market" class="btn">Zur Tauschbörse</a>
+          </div>
+          <ul class="ticks">
+            <li>100% kostenlos</li>
+            <li>Ohne Registrierung nutzbar</li>
+            <li>Community-betrieben</li>
+          </ul>
+        </div>
+        <div class="hero-art">
+          <img src="assets/img/hero-illustration.svg" alt="Illustration: Werkzeuge, Blatt, Zahnräder – nachhaltige DIY-Ideen" />
+        </div>
+      </div>
+    </section>
+
+    <!-- Guides -->
+    <section id="guides" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>DIY-Anleitungen</h2>
+          <div class="section-actions">
+            <input id="guideSearch" class="input" type="search" placeholder="Suche nach Projekt, z. B. Regenfass" />
+            <button id="addGuideBtn" class="btn">Anleitung hinzufügen</button>
+          </div>
+        </div>
+        <div id="guideGrid" class="grid cards"></div>
+      </div>
+    </section>
+
+    <!-- Marketplace -->
+    <section id="market" class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Tausch- & Leihbörse</h2>
+          <div class="section-actions">
+            <input id="marketSearch" class="input" type="search" placeholder="Suche nach Werkzeug, Material, Pflanzenablegern …" />
+            <button id="addOfferBtn" class="btn" disabled title="Bitte erst mit Google einloggen">Angebot einstellen</button>
+          </div>
+        </div>
+        <div class="filters">
+          <select id="filterCategory" class="input">
+            <option value="">Alle Kategorien</option>
+            <option>Werkzeug</option>
+            <option>Garten</option>
+            <option>Haushalt</option>
+            <option>Material</option>
+            <option>Sonstiges</option>
+          </select>
+          <select id="filterType" class="input">
+            <option value="">Alle Typen</option>
+            <option value="tausch">Tausch</option>
+            <option value="leihe">Leihe</option>
+            <option value="verschenken">Verschenken</option>
+          </select>
+        </div>
+        <div id="marketGrid" class="grid cards"></div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="section alt">
+      <div class="container narrow">
+        <h2>Über Schlauarbeit</h2>
+        <p>Schlauarbeit ist ein unabhängiges, community-getriebenes Projekt für nachhaltige DIY-Lösungen. Wir wollen Reparieren, Tauschen, Wiederverwenden und cleveres Bauen so einfach machen, dass es jede*r tut.</p>
+        <ul class="ticks">
+          <li>Open Source – Code frei nutzbar</li>
+          <li>Datenschutzfreundlich – lokale Speicherung</li>
+          <li>Barrierearm – zugänglich gestaltet</li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand small">
+          <img src="assets/img/logo.svg" alt="" class="logo" />
+          <span class="brand-text">Schlauarbeit</span>
+        </div>
+        <p class="muted">© <span id="year"></span> Schlauarbeit. Gemacht mit Herz, Schrauben & Verstand.</p>
+      </div>
+      <nav aria-label="Footer">
+        <ul class="footer-links">
+          <li><a href="#about">Über</a></li>
+          <li><a href="#" id="privacyOpen">Datenschutz</a></li>
+          <li><a href="#" id="imprintOpen">Impressum</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+
+  <!-- Modals -->
+  <dialog id="guideDialog" class="modal">
+    <form method="dialog" class="modal-card" id="guideForm">
+      <header class="modal-head"><h3>Anleitung hinzufügen</h3></header>
+      <div class="modal-body grid2">
+        <label>Titel<input required name="title" placeholder="z. B. Regenwassersammler bauen"></label>
+        <label>Kategorie<select name="category" required>
+          <option>Wasser & Garten</option>
+          <option>Energie sparen</option>
+          <option>Upcycling</option>
+          <option>Reparieren</option>
+          <option>Metall & Holz</option>
+        </select></label>
+        <label>Schwierigkeit<select name="difficulty" required>
+          <option>Einfach</option>
+          <option>Mittel</option>
+          <option>Fortgeschritten</option>
+        </select></label>
+        <label>Zeitaufwand (h)<input type="number" min="0" step="0.5" name="hours" placeholder="z. B. 2.5" required></label>
+        <label>Materialien (kommasepariert)<input name="materials" placeholder="z. B. Regenfass, Schlauch, Filter"></label>
+        <label>Schritte (Markdown erlaubt)<textarea name="steps" rows="6" placeholder="- Schritt 1: ..."></textarea></label>
+        <label>Vorschaubild <input type="file" accept="image/*" name="image"></label>
+      </div>
+      <footer class="modal-foot">
+        <button class="btn" value="cancel" type="button" onclick="document.getElementById('guideDialog').close()">Abbrechen</button>
+        <button class="btn primary" value="submit">Speichern</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <dialog id="offerDialog" class="modal">
+    <form method="dialog" class="modal-card" id="offerForm">
+      <header class="modal-head"><h3>Angebot einstellen</h3></header>
+      <div class="modal-body grid2">
+        <label>Titel<input required name="title" placeholder="z. B. Akkuschrauber 18V"></label>
+        <label>Kategorie<select name="category" required>
+          <option>Werkzeug</option>
+          <option>Garten</option>
+          <option>Haushalt</option>
+          <option>Material</option>
+          <option>Sonstiges</option>
+        </select></label>
+        <label>Typ<select name="type" required>
+          <option value="tausch">Tausch</option>
+          <option value="leihe">Leihe</option>
+          <option value="verschenken">Verschenken</option>
+        </select></label>
+        <label>Standort (PLZ, Ort)<input name="location" placeholder="z. B. 89542 Herbrechtingen" required></label>
+        <label>Kontakt (E-Mail oder Tel.)<input name="contact" placeholder="z. B. name@mail.de" required></label>
+        <label>Beschreibung<textarea name="desc" rows="4" placeholder="Zustand, Zubehör, Tauschgesuch …"></textarea></label>
+        <label>Bild <input type="file" accept="image/*" name="image"></label>
+      </div>
+      <footer class="modal-foot">
+        <button class="btn" value="cancel" type="button" onclick="document.getElementById('offerDialog').close()">Abbrechen</button>
+        <button class="btn primary" value="submit">Veröffentlichen</button>
+      </footer>
+    </form>
+  </dialog>
+
+  <dialog id="legalDialog" class="modal">
+    <div class="modal-card">
+      <header class="modal-head"><h3 id="legalTitle">Rechtliches</h3></header>
+      <div class="modal-body">
+        <div id="legalContent" class="prose"></div>
+      </div>
+      <footer class="modal-foot">
+        <button class="btn primary" onclick="this.closest('dialog').close()">Schließen</button>
+      </footer>
+    </div>
+  </dialog>
+
+  <!-- Scripts – calculators.js ist hier nicht mehr nötig -->
+<!-- Scripts -->
+<script src="assets/js/app.js" defer></script>
+<script src="assets/js/auth.js" defer></script>          <!-- zuerst Auth -->
+<script src="assets/js/guides.js" defer></script>        <!-- Liste & Suche -->
+<script src="assets/js/marketplace.js" defer></script>   <!-- Tauschbörse -->
+
+</body>
+</html>

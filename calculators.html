@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Schlauarbeit – Energie- & CO₂-Rechner</title>
+  <meta name="description" content="Strom-, Wasser- und CO₂-Rechner – nachhaltig planen und Kosten sparen." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0b1410">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt springen</a>
+  <header class="header glass">
+    <div class="brand hard-left">
+      <img src="assets/img/logo.svg" alt="" class="logo" />
+      <span class="brand-text">Schlauarbeit</span>
+    </div>
+    <div class="container header-inner">
+      <div></div>
+      <nav class="nav" aria-label="Hauptnavigation">
+        <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="navMenu">
+          <span class="sr-only">Menü öffnen</span>
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <ul id="navMenu" class="nav-list">
+          <li><a href="index.html#home">Start</a></li>
+          <li><a href="index.html#guides">DIY</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a aria-current="page" href="calculators.html">Rechner</a></li>
+          <li><a href="index.html#market">Tauschbörse</a></li>
+          <li><a href="index.html#about">Über</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <div id="authArea"></div>
+        <button id="themeToggle" class="btn icon" aria-label="Thema wechseln">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/></svg>
+        </button>
+        <button id="installBtn" class="btn ghost">App installieren</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <h1>Energie- & CO₂-Rechner</h1>
+          <div class="tabs" role="tablist">
+            <button class="tab active" data-tab="power" role="tab" aria-selected="true">Strom</button>
+            <button class="tab" data-tab="water" role="tab">Wasser</button>
+            <button class="tab" data-tab="co2" role="tab">CO₂ Fußabdruck</button>
+          </div>
+        </div>
+
+        <div class="tab-panels">
+          <div id="tab-power" class="tab-panel active">
+            <h3>Stromkosten-Rechner</h3>
+            <form class="form" id="powerForm">
+              <label>Leistung (Watt)<input type="number" id="powerWatts" min="0" placeholder="z. B. 800" required></label>
+              <label>Nutzungsdauer pro Tag (Stunden)<input type="number" id="powerHours" min="0" step="0.1" placeholder="z. B. 2.5" required></label>
+              <label>Strompreis (€/kWh)<input type="number" id="powerPrice" min="0" step="0.001" placeholder="z. B. 0.32" value="0.32" required></label>
+              <button class="btn primary" type="submit">Berechnen</button>
+            </form>
+            <div id="powerResult" class="result"></div>
+          </div>
+
+          <div id="tab-water" class="tab-panel">
+            <h3>Wasserverbrauch-Rechner</h3>
+            <form class="form" id="waterForm">
+              <label>Durchfluss (Liter/Minute)<input type="number" id="flowLpm" min="0" step="0.1" placeholder="z. B. 9" required></label>
+              <label>Dauer (Minuten)<input type="number" id="minutes" min="0" step="0.1" placeholder="z. B. 6" required></label>
+              <label>Preis (€/m³)<input type="number" id="waterPrice" min="0" step="0.01" placeholder="z. B. 6.5" value="6.50" required></label>
+              <button class="btn primary" type="submit">Berechnen</button>
+            </form>
+            <div id="waterResult" class="result"></div>
+          </div>
+
+          <div id="tab-co2" class="tab-panel">
+            <h3>Einfacher CO₂-Rechner (Haushalt)</h3>
+            <form class="form" id="co2Form">
+              <label>Stromverbrauch (kWh/Jahr)<input type="number" id="co2Power" min="0" placeholder="z. B. 2500" required></label>
+              <label>Heizung (kWh Erdgas/Jahr)<input type="number" id="co2Heat" min="0" placeholder="z. B. 8000" required></label>
+              <label>Kfz (km/Jahr)<input type="number" id="co2Km" min="0" placeholder="z. B. 10000" required></label>
+              <button class="btn primary" type="submit">Berechnen</button>
+            </form>
+            <div id="co2Result" class="result small"></div>
+            <p class="hint">Hinweis: Emissionsfaktoren sind Näherungen – regionale Faktoren liefern exaktere Ergebnisse.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand small">
+          <img src="assets/img/logo.svg" alt="" class="logo" />
+          <span class="brand-text">Schlauarbeit</span>
+        </div>
+        <p class="muted">© <span id="year"></span> Schlauarbeit.</p>
+      </div>
+      <nav aria-label="Footer">
+        <ul class="footer-links">
+          <li><a href="index.html#about">Über</a></li>
+          <li><a href="#" id="privacyOpen">Datenschutz</a></li>
+          <li><a href="#" id="imprintOpen">Impressum</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js" defer></script>
+  <script src="assets/js/auth.js" defer></script>
+  <script src="assets/js/calculators.js" defer></script>
+</body>
+</html>

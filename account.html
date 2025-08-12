@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mein Konto – Schlauarbeit</title>
+  <meta name="description" content="Profil, meine Beiträge, Datenexport und Konto löschen." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#f5f7f4">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+  <header class="header glass">
+    <div class="brand hard-left">
+      <img src="assets/img/logo.svg" alt="" class="logo" />
+      <span class="brand-text">Schlauarbeit</span>
+    </div>
+    <div class="container header-inner">
+      <div></div>
+      <nav class="nav" aria-label="Hauptnavigation">
+        <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="navMenu">
+          <span class="sr-only">Menü öffnen</span>
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+        <ul id="navMenu" class="nav-list">
+          <li><a href="index.html#home">Start</a></li>
+          <li><a href="index.html#guides">DIY</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="calculators.html">Rechner</a></li>
+          <li><a href="index.html#market">Tauschbörse</a></li>
+          <li><a href="index.html#about">Über</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <div id="authArea"></div>
+        <button id="themeToggle" class="btn icon" aria-label="Thema wechseln">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/></svg>
+        </button>
+        <button id="installBtn" class="btn ghost">App installieren</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <h1>Mein Konto</h1>
+        </div>
+
+        <!-- Profil -->
+        <div class="card" style="margin-bottom:16px">
+          <div class="body" id="profileBox">
+            <!-- wird via JS gefüllt -->
+          </div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="tabs" role="tablist" style="margin-bottom:12px">
+          <button class="tab active" data-tab="mine" role="tab" aria-selected="true">Meine Beiträge</button>
+          <button class="tab" data-tab="export" role="tab">Daten exportieren</button>
+          <button class="tab" data-tab="danger" role="tab">Konto löschen</button>
+        </div>
+
+        <!-- Panels -->
+        <div id="tab-mine" class="tab-panel active">
+          <h3>Meine Beiträge</h3>
+          <p class="muted">Nur Inhalte, die du auf diesem Gerät erstellt hast (lokal gespeichert).</p>
+          <div class="grid cards" id="myGuides"></div>
+          <div class="grid cards" id="myOffers" style="margin-top:16px"></div>
+        </div>
+
+        <div id="tab-export" class="tab-panel" style="display:none">
+          <h3>Daten exportieren</h3>
+          <p class="muted">Lädt deine Profildaten und lokalen Inhalte (Anleitungen & Angebote) als JSON herunter.</p>
+          <button id="exportBtn" class="btn">JSON herunterladen</button>
+        </div>
+
+        <div id="tab-danger" class="tab-panel" style="display:none">
+          <h3>Gefahrenzone</h3>
+          <p class="muted">Das Löschen deines Kontos entfernt deinen Login. Lokale Inhalte auf diesem Gerät kannst du optional mitentfernen.</p>
+          <label class="badge" style="margin-right:8px"><input id="alsoWipeLocal" type="checkbox" style="margin-right:8px">Lokale Inhalte löschen</label>
+          <div style="margin-top:10px">
+            <button id="deleteAccountBtn" class="btn" style="margin-right:8px">Konto löschen</button>
+            <button id="logoutBtn" class="btn ghost">Abmelden</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div class="brand small"><img src="assets/img/logo.svg" alt="" class="logo" /><span class="brand-text">Schlauarbeit</span></div>
+      <nav aria-label="Footer">
+        <ul class="footer-links">
+          <li><a href="index.html#about">Über</a></li>
+          <li><a href="#" id="privacyOpen">Datenschutz</a></li>
+          <li><a href="#" id="imprintOpen">Impressum</a></li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js" defer></script>
+  <script src="assets/js/auth.js" defer></script>
+  <script src="assets/js/account.js" defer></script>
+</body>
+</html>

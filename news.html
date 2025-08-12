@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Schlauarbeit – Klima & Nachhaltigkeits-News</title>
+  <meta name="description" content="Automatisch kuratierte Nachrichten zu Klima, Energie und Nachhaltigkeit. Aktualisiert alle 2 Stunden." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#f5f7f4">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Zum Inhalt springen</a>
+
+  <header class="header glass">
+    <!-- Brand fix links angedockt -->
+    <div class="brand hard-left">
+      <img src="assets/img/logo.svg" alt="" class="logo" />
+      <span class="brand-text">Schlauarbeit</span>
+    </div>
+
+    <div class="container header-inner">
+      <div></div> <!-- Platzhalter für zentrierte Nav -->
+
+      <nav class="nav" aria-label="Hauptnavigation">
+        <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="navMenu">
+          <span class="sr-only">Menü öffnen</span>
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+            <path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <ul class="nav-list" id="navMenu">
+          <li><a href="index.html#home">Start</a></li>
+          <li><a href="index.html#guides">DIY</a></li>
+          <li><a aria-current="page" href="news.html">News</a></li>
+          <li><a href="calculators.html">Rechner</a></li>
+          <li><a href="index.html#market">Tauschbörse</a></li>
+          <li><a href="index.html#about">Über</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-actions">
+        <div id="authArea"></div>
+        <button id="themeToggle" class="btn icon" title="Thema wechseln" aria-label="Thema wechseln">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+            <path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/>
+          </svg>
+        </button>
+        <button id="installBtn" class="btn ghost">App installieren</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <h2>Klima & Nachhaltigkeits-News</h2>
+          <div class="section-actions" style="gap:8px;flex-wrap:wrap">
+            <input id="newsSearch" class="input" type="search" placeholder="Suche in News (z. B. Solar, Heizung, Verkehr)">
+            <select id="sourceFilter" class="input">
+              <option value="">Alle Quellen</option>
+            </select>
+            <button id="refreshBtn" class="btn">Jetzt aktualisieren</button>
+          </div>
+        </div>
+
+        <div id="newsGrid" class="grid cards"></div>
+        <p class="muted" id="updatedTxt"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/js/app.js" defer></script>
+  <script src="assets/js/news.js" defer></script>
+  <script src="assets/js/auth.js" defer></script>
+</body>
+</html>

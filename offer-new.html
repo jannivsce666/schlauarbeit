@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Angebot einstellen – Schlauarbeit</title>
+  <meta name="description" content="Neues Angebot in der Tausch- & Leihbörse einstellen." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#f5f7f4">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <style>
+    .editor-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:16px}
+    @media (max-width: 900px){ .editor-grid{grid-template-columns:1fr} }
+    .dropzone{border:1px dashed var(--stroke);border-radius:12px;padding:14px;text-align:center;background:var(--card)}
+    .preview-sticky{position:sticky;top:88px}
+  </style>
+</head>
+<body>
+<header class="header glass">
+  <div class="brand hard-left">
+    <img src="assets/img/logo.svg" alt="" class="logo" />
+    <span class="brand-text">Schlauarbeit</span>
+  </div>
+  <div class="container header-inner">
+    <div></div>
+    <nav class="nav" aria-label="Hauptnavigation">
+      <ul id="navMenu" class="nav-list">
+        <li><a href="index.html#home">Start</a></li>
+        <li><a href="index.html#guides">DIY</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="calculators.html">Rechner</a></li>
+        <li><a href="index.html#market">Tauschbörse</a></li>
+        <li><a href="account.html">Mein Konto</a></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <div id="authArea"></div>
+      <button id="themeToggle" class="btn icon" aria-label="Thema wechseln">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="section" id="main">
+  <div class="container">
+    <div class="section-head"><h1>Angebot einstellen</h1></div>
+
+    <div id="loginBlock" class="card" style="display:none"><div class="body">
+      <p>Bitte melde dich an, um ein Angebot einzustellen.</p>
+      <button class="btn primary" onclick="window.authSignIn?.()">Mit Google einloggen</button>
+    </div></div>
+
+    <div id="editor" class="editor-grid" style="display:none">
+      <!-- Formular -->
+      <form class="card" id="offerForm">
+        <div class="body" style="display:grid;gap:12px">
+          <label>Titel
+            <input class="input" name="title" placeholder="z. B. Akkuschrauber 18V" required>
+          </label>
+          <div class="grid2">
+            <label>Kategorie
+              <select class="input" name="category" required>
+                <option>Werkzeug</option>
+                <option>Garten</option>
+                <option>Haushalt</option>
+                <option>Material</option>
+                <option>Sonstiges</option>
+              </select>
+            </label>
+            <label>Typ
+              <select class="input" name="type" required>
+                <option value="tausch">Tausch</option>
+                <option value="leihe">Leihe</option>
+                <option value="verschenken">Verschenken</option>
+              </select>
+            </label>
+          </div>
+          <div class="grid2">
+            <label>Standort (PLZ, Ort)
+              <input class="input" name="location" placeholder="z. B. 89542 Herbrechtingen" required>
+            </label>
+            <label>Kontakt
+              <input class="input" name="contact" placeholder="z. B. name@mail.de oder tel:0151-..." required>
+            </label>
+          </div>
+          <label>Beschreibung
+            <textarea class="input" name="desc" rows="5" placeholder="Zustand, Zubehör, Tauschgesuch …"></textarea>
+          </label>
+
+          <div class="dropzone" id="dz">
+            <input type="file" accept="image/*" id="image" style="display:none">
+            <p style="margin:6px 0">Bild hierher ziehen oder <button class="btn" type="button" id="pick">Datei auswählen</button></p>
+            <img id="preview" alt="" style="max-height:160px;margin:8px auto;display:none;border-radius:10px;border:1px solid var(--stroke)">
+          </div>
+
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+            <button class="btn primary" type="submit">Veröffentlichen</button>
+            <button class="btn" type="button" id="saveDraft">Entwurf speichern</button>
+            <button class="btn ghost" type="button" id="cancel">Abbrechen</button>
+          </div>
+        </div>
+      </form>
+
+      <!-- Vorschau -->
+      <aside class="preview-sticky">
+        <div class="card">
+          <div class="media"><img id="pv_img" alt="" style="display:none"></div>
+          <div class="body">
+            <div class="badge" id="pv_meta">Kategorie • Typ</div>
+            <h3 id="pv_title">Titel deines Angebots</h3>
+            <div class="muted" id="pv_owner"></div>
+            <p class="muted" id="pv_desc"></p>
+            <div class="muted" id="pv_loc">📍 </div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<script src="assets/js/app.js" defer></script>
+<script src="assets/js/auth.js" defer></script>
+<script src="assets/js/offer-new.js" defer></script>
+</body>
+</html>

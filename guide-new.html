@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Anleitung erstellen – Schlauarbeit</title>
+  <meta name="description" content="Schöne Oberfläche zum Schreiben von DIY-Anleitungen mit Live-Vorschau." />
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#f5f7f4">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <style>
+    .editor-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:16px}
+    @media (max-width: 900px){ .editor-grid{grid-template-columns:1fr} }
+    .toolbar{display:flex;gap:8px;flex-wrap:wrap}
+    .dropzone{border:1px dashed var(--stroke);border-radius:12px;padding:14px;text-align:center;background:var(--card)}
+    .preview-sticky{position:sticky;top:88px}
+    .prose h3{margin:10px 0 6px}
+  </style>
+</head>
+<body>
+<header class="header glass">
+  <div class="brand hard-left">
+    <img src="assets/img/logo.svg" alt="" class="logo" />
+    <span class="brand-text">Schlauarbeit</span>
+  </div>
+  <div class="container header-inner">
+    <div></div>
+    <nav class="nav" aria-label="Hauptnavigation">
+      <ul id="navMenu" class="nav-list">
+        <li><a href="index.html#home">Start</a></li>
+        <li><a href="index.html#guides">DIY</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="calculators.html">Rechner</a></li>
+        <li><a href="account.html">Mein Konto</a></li>
+      </ul>
+    </nav>
+    <div class="header-actions">
+      <div id="authArea"></div>
+      <button id="themeToggle" class="btn icon" aria-label="Thema wechseln">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3a9 9 0 0 0 0 18 9 9 0 0 1 0-18z" fill="currentColor"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="section" id="main">
+  <div class="container">
+    <div class="section-head"><h1>Anleitung erstellen</h1></div>
+
+    <div id="loginBlock" class="card" style="display:none"><div class="body">
+      <p>Bitte melde dich an, um eine Anleitung zu erstellen.</p>
+      <button class="btn primary" onclick="window.authSignIn?.()">Mit Google einloggen</button>
+    </div></div>
+
+    <div id="editor" class="editor-grid" style="display:none">
+      <!-- Formular -->
+      <form class="card" id="guideForm">
+        <div class="body" style="display:grid;gap:12px">
+          <label>Titel
+            <input class="input" name="title" placeholder="z. B. Regenwassersammler bauen" required>
+          </label>
+          <div class="grid2">
+            <label>Kategorie
+              <select class="input" name="category" required>
+                <option>Wasser & Garten</option>
+                <option>Energie sparen</option>
+                <option>Upcycling</option>
+                <option>Reparieren</option>
+                <option>Metall & Holz</option>
+              </select>
+            </label>
+            <label>Schwierigkeit
+              <select class="input" name="difficulty" required>
+                <option>Einfach</option>
+                <option>Mittel</option>
+                <option>Fortgeschritten</option>
+              </select>
+            </label>
+          </div>
+          <div class="grid2">
+            <label>Zeitaufwand (h)
+              <input class="input" type="number" min="0" step="0.5" name="hours" placeholder="z. B. 2.5" required>
+            </label>
+            <label>Materialien (kommasepariert)
+              <input class="input" name="materials" placeholder="z. B. Regenfass, Schlauch, Filter">
+            </label>
+          </div>
+
+          <!-- kleine Toolbar fürs Markdown -->
+          <div class="toolbar">
+            <button class="btn" type="button" data-md="h3">H3</button>
+            <button class="btn" type="button" data-md="- ">Liste</button>
+            <button class="btn" type="button" data-md="**bold**">Fett</button>
+          </div>
+
+          <label>Schritte (Markdown)
+            <textarea class="input" name="steps" rows="10" placeholder="- Schritt 1: ..."></textarea>
+          </label>
+
+          <div class="dropzone" id="dz">
+            <input type="file" accept="image/*" id="image" style="display:none">
+            <p style="margin:6px 0">Bild hierher ziehen oder <button class="btn" type="button" id="pick">Datei auswählen</button></p>
+            <img id="preview" alt="" style="max-height:160px;margin:8px auto;display:none;border-radius:10px;border:1px solid var(--stroke)">
+          </div>
+
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px">
+            <button class="btn primary" type="submit">Veröffentlichen</button>
+            <button class="btn" type="button" id="saveDraft">Entwurf speichern</button>
+            <button class="btn ghost" type="button" id="cancel">Abbrechen</button>
+          </div>
+        </div>
+      </form>
+
+      <!-- Vorschau -->
+      <aside class="preview-sticky">
+        <div class="card">
+          <div class="media"><img id="pv_img" alt="" style="display:none"></div>
+          <div class="body">
+            <div class="badge" id="pv_meta">Kategorie • Schwierigkeit</div>
+            <h3 id="pv_title">Titel deiner Anleitung</h3>
+            <div class="muted" id="pv_owner"></div>
+            <div class="prose" id="pv_content"></div>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<script src="assets/js/app.js" defer></script>
+<script src="assets/js/auth.js" defer></script>
+<script src="assets/js/guide-new.js" defer></script>
+</body>
+</html>
