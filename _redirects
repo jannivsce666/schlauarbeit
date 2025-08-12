@@ -1,0 +1,3 @@
+http://*                         https://:splat                      301!
+https://www.schlauarbeit.de/*   https://schlauarbeit.de/:splat      301!
+https://schlauarbeit.netlify.app/*  https://schlauarbeit.de/:splat  301!
