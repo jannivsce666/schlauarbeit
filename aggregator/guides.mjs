@@ -1,108 +1,122 @@
 // aggregator/guides.mjs
-import Parser from 'rss-parser';
-import fs from 'fs/promises';
+// Holt DIY-Guides aus RSS-Feeds, filtert grob auf "grüne" Themen und schreibt assets/data/guides.json
+
+import fs from "fs/promises";
+import path from "path";
+import Parser from "rss-parser";
+import { fetch } from "undici";
+import { JSDOM } from "jsdom";
+
+const OUT_FILE = path.resolve("assets/data/guides.json");
+
+// Quellen (ergänzbar)
+const FEEDS = [
+  { source: "IKEA Hackers", url: "https://www.ikeahackers.net/feed" },
+  { source: "Make: Workshop", url: "https://makezine.com/category/workshop/feed/" },
+  { source: "Lifehacker DIY", url: "https://lifehacker.com/tag/diy/rss" },
+  { source: "Low-tech Magazine", url: "https://solar.lowtechmagazine.com/atom.xml" },
+];
+
+// einfache Themen-Filter (DE/EN)
+const KEYWORDS = [
+  "solar","photovoltaik","regen","rain","rain barrel","wasser","water",
+  "isol","insulat","heizung","wärme","däm","kompost","compost","upcycl",
+  "repar","repair","recycle","holz","wood","garten","bike","fahrrad",
+  "strom","energie","nachhalt","sustainable"
+];
 
 const parser = new Parser({
-  headers: { 'User-Agent': 'SchlauarbeitBot/1.0 (+https://schlauarbeit.de)' }
+  headers: { "User-Agent": "schlauarbeit-guides-bot/1.0 (+https://schlauarbeit.de)" }
 });
 
-// Quellen (du kannst später erweitern/ändern)
-const FEEDS = [
-  { url: 'https://makezine.com/feed/', source: 'Make:' },
-  { url: 'https://lowtechmagazine.com/feeds/all.atom.xml', source: 'Low-tech Magazine' },
-  { url: 'https://www.treehugger.com/rss.xml', source: 'Treehugger' },
-  { url: 'https://www.instructables.com/tag/type-id/category-workshop/rss', source: 'Instructables (Workshop)' },
-  // Beispiel YouTube-Kanäle (Atom-Feed)
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCfMJ2MchTSW2kWaT0kK94Yw', source: 'I Like To Make Stuff' },
-  { url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA', source: 'This Old House' }
-];
-
-const KEYWORDS = [
-  'diy','how to','build','reparieren','repair','upcycling','holz','wood',
-  'garden','garten','kompost','insulation','dämm','regen','rain',
-  'solar','photovoltaic','pv','energie','effizienz','re-use','recycle','kreislauf'
-];
-
-function matchesKeywords(text) {
-  const t = (text || '').toLowerCase();
+function hasKeyword(s) {
+  const t = (s || "").toLowerCase();
   return KEYWORDS.some(k => t.includes(k));
+}
+
+function strip(html) {
+  if (!html) return "";
+  return String(html).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+}
+
+async function fetchOGImage(url) {
+  try {
+    const r = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" }, timeout: 15000 });
+    if (!r.ok) return null;
+    const html = await r.text();
+    const dom = new JSDOM(html);
+    const d = dom.window.document;
+    const og = d.querySelector('meta[property="og:image"],meta[name="og:image"]');
+    const tw = d.querySelector('meta[name="twitter:image"]');
+    const link = og?.getAttribute("content") || tw?.getAttribute("content");
+    return link || null;
+  } catch { return null; }
+}
+
+function cleanItem(it, source) {
+  const title = it.title || "";
+  const link = it.link || it.guid || "";
+  const date = it.isoDate || it.pubDate || "";
+  const summary = strip(it.contentSnippet || it.content || it["content:encoded"] || "");
+  const enclosureUrl = it.enclosure?.url || it["media:content"]?.url;
+
+  return {
+    id: link || title,
+    title, link, date,
+    summary,
+    image: enclosureUrl || null,
+    source
+  };
 }
 
 function dedupe(items) {
   const seen = new Set();
-  const out = [];
-  for (const it of items) {
-    const key = (it.link || '') + (it.title || '');
-    if (!seen.has(key)) {
-      seen.add(key);
-      out.push(it);
-    }
-  }
-  return out;
+  return items.filter(x => {
+    const key = (x.title || "") + "::" + (x.link || "");
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
-function trimText(str, n = 240) {
-  if (!str) return '';
-  const s = str.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
-  return s.length > n ? s.slice(0, n - 1) + '…' : s;
-}
+async function run() {
+  let all = [];
 
-function extractImage(it) {
-  // enclosure
-  if (it.enclosure && it.enclosure.url) return it.enclosure.url;
-  // media:thumbnail / media:content
-  const mediaThumb = it['media:thumbnail']?.url || it['media:content']?.url;
-  if (mediaThumb) return mediaThumb;
-  // aus content HTML
-  const html = it['content:encoded'] || it.content || '';
-  const m = html && html.match(/<img[^>]+src=["']([^"']+)["']/i);
-  if (m) return m[1];
-  return null;
-}
-
-async function parseOne(f) {
-  try {
-    const feed = await parser.parseURL(f.url);
-    const items = [];
-    for (const it of feed.items || []) {
-      const date = new Date(it.isoDate || it.pubDate || Date.now()).toISOString();
-      const item = {
-        title: it.title || '',
-        link: it.link || '',
-        date,
-        source: f.source,
-        summary: trimText(it.contentSnippet || it.content || it.summary || ''),
-        image: extractImage(it)
-      };
-      if (matchesKeywords(`${item.title} ${item.summary}`)) {
-        items.push(item);
-      }
-    }
-    return items;
-  } catch (e) {
-    // Quelle fehlgeschlagen -> ignoriere
-    return [];
-  }
-}
-
-async function main() {
-  const all = [];
   for (const f of FEEDS) {
-    const got = await parseOne(f);
-    all.push(...got);
+    try {
+      const feed = await parser.parseURL(f.url);
+      const mapped = (feed.items || []).map(it => cleanItem(it, f.source));
+      all.push(...mapped);
+      console.log(`OK: ${f.source} → ${mapped.length} Einträge`);
+    } catch (e) {
+      console.warn(`Feed fehlgeschlagen: ${f.url} → ${e.message}`);
+    }
   }
-  const items = dedupe(all)
-    .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 48);
 
-  const payload = {
-    generatedAt: new Date().toISOString(),
-    items
-  };
+  // filtern (wenn kein Treffer → alles durchlassen)
+  const filtered = all.filter(it => hasKeyword(it.title + " " + it.summary)) || all;
 
-  await fs.mkdir('assets/data', { recursive: true });
-  await fs.writeFile('assets/data/guides.json', JSON.stringify(payload, null, 2), 'utf-8');
-  console.log(`OK: ${items.length} DIY-Guides → ${process.cwd()}/assets/data/guides.json`);
+  // fehlende Bilder via OG scrapen (sanft, nur wenige)
+  const enriched = [];
+  for (const it of filtered.slice(0, 120)) {
+    if (!it.image && it.link) {
+      it.image = await fetchOGImage(it.link);
+    }
+    enriched.push(it);
+  }
+
+  const out = dedupe(enriched)
+    .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
+    .slice(0, 60);
+
+  await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
+  await fs.writeFile(
+    OUT_FILE,
+    JSON.stringify({ generatedAt: new Date().toISOString(), items: out }, null, 2),
+    "utf8"
+  );
+
+  console.log(`OK: ${out.length} Guides → ${OUT_FILE}`);
 }
 
-main();
+run().catch(e => { console.error(e); process.exit(1); });
