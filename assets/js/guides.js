@@ -1,11 +1,14 @@
-// assets/js/guides.js  — kombiniert lokal + remote
+// assets/js/guides.js  — kombiniert lokale + entfernte Guides
 (() => {
   const KEY = 'schlau_guides_v1';
 
   const $ = (s, r = document) => r.querySelector(s);
-  const grid = $('#guideGrid');
+  const grid   = $('#guideGrid');
   const search = $('#guideSearch');
   const addBtn = $('#addGuideBtn');
+
+  // Falls diese Datei versehentlich auf einer Seite ohne Grid geladen wird → sauber beenden
+  if (!grid) return;
 
   addBtn?.addEventListener('click', (e) => {
     e.preventDefault();
@@ -18,11 +21,12 @@
     catch { return []; }
   }
 
-  // Remote Guides
+  // Entfernte Guides
   let remote = [];
   async function loadRemote() {
     try {
-      const res = await fetch('assets/data/guides.json', { cache: 'no-store' });
+      // Cache-Bust + no-store gegen SW/Proxy-Caches
+      const res = await fetch('assets/data/guides.json?ts=' + Date.now(), { cache: 'no-store' });
       if (!res.ok) throw new Error(res.statusText);
       const data = await res.json();
       remote = Array.isArray(data.items) ? data.items : [];
