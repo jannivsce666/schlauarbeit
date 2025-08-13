@@ -288,3 +288,16 @@ html.theme-dark .modal-card{
 @media (prefers-reduced-motion: reduce){
   *{ animation: none !important; transition: none !important; }
 }
+/* --- Mobile Header/Navigation Fixes --- */
+@media (max-width: 700px){
+  .brand-text{ display:none; }              /* Logo-Text ausblenden */
+  #installBtn{ display:none; }              /* Install-Button ausblenden */
+  .header .container{ padding-left:56px; }  /* etwas schmaler wegen hard-left Brand */
+  .header-actions{ gap:6px; flex-wrap:nowrap; }
+  .header-actions .btn{ padding:8px 10px; }
+}
+
+/* Sicherstellen, dass das Offcanvas-Menü zuverlässig überdeckt */
+.nav-list{
+  z-index: 60;
+}

@@ -1,78 +1,97 @@
-// auth.js – Firebase optional; sonst Mock-Login
-(() => {
-  const ADMIN_EMAILS = []; // optional
-  const MOCK_KEY = 'mock_user';
-  const $ = (s, r = document) => r.querySelector(s);
+// assets/js/auth.js
+// Firebase Login (Popup + iOS/Safari-Redirect Fallback) + schlanke Header-UI
 
-  function renderAuth() {
-    const area = $('#authArea');
-    if (!area) return;
-    if (window.__authUser) {
-      area.innerHTML = `
-        <a href="account.html" class="btn">Mein Konto</a>
-        <button class="btn ghost" id="logoutBtn">Logout</button>`;
-      $('#logoutBtn')?.addEventListener('click', logout);
+const authArea = document.getElementById("authArea");
+
+// --- Deine Firebase-Config ---
+const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyAucvfbAI9s10ak99I7YLAPb5VskQoOlNI",
+  authDomain: "schlauarbeitneu.firebaseapp.com",
+  projectId: "schlauarbeitneu",
+  storageBucket: "schlauarbeitneu.appspot.com",
+  messagingSenderId: "332216695076",
+  appId: "1:332216695076:web:ed24bc7d079b8dcef92a71",
+  measurementId: "G-Q2L5L6K4BW"
+};
+
+window.__authUser = null;
+window.authSignIn = null;
+window.authDeleteMe = null;
+
+function isIOS() {
+  const ua = navigator.userAgent || navigator.vendor || window.opera;
+  const iOS = /iPad|iPhone|iPod/.test(ua);
+  const iPadOS13 = navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1;
+  return iOS || iPadOS13;
+}
+
+(async function initAuth() {
+  if (!FIREBASE_CONFIG?.apiKey) {
+    if (authArea) authArea.innerHTML = '<span class="badge">Login optional</span>';
+    return;
+  }
+
+  const { initializeApp } =
+    await import('https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js');
+  const {
+    getAuth, GoogleAuthProvider, signInWithPopup, signInWithRedirect,
+    getRedirectResult, onAuthStateChanged, signOut, deleteUser
+  } = await import('https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js');
+
+  const app = initializeApp(FIREBASE_CONFIG);
+  const auth = getAuth(app);
+  const provider = new GoogleAuthProvider();
+  provider.setCustomParameters({ prompt: 'select_account' });
+
+  // Login-Funktion mit Fallback
+  window.authSignIn = async () => {
+    try {
+      if (isIOS()) {
+        await signInWithRedirect(auth, provider);
+      } else {
+        await signInWithPopup(auth, provider);
+      }
+    } catch (e) {
+      // Fallback auf Redirect, wenn Popup blockiert wurde
+      try { await signInWithRedirect(auth, provider); } catch {}
+    }
+  };
+
+  // Konto endgültig löschen (inkl. lokale Inhalte entfernen, falls Export nicht gewünscht)
+  window.authDeleteMe = async () => {
+    if (!auth.currentUser) return;
+    try {
+      const uid = auth.currentUser.uid;
+      if (typeof window.removeAllOffersByUid === "function") {
+        window.removeAllOffersByUid(uid);
+      }
+      await deleteUser(auth.currentUser);
+      alert("Dein Konto wurde gelöscht.");
+    } catch (e) {
+      alert("Konto konnte nicht gelöscht werden. Bitte nach erneutem Login erneut versuchen.");
+    }
+  };
+
+  // Nach Redirect das Ergebnis einsammeln (iOS)
+  try { await getRedirectResult(auth); } catch {}
+
+  function render(user) {
+    window.__authUser = user || null;
+    window.dispatchEvent(new CustomEvent('auth-changed', { detail: window.__authUser }));
+
+    if (!authArea) return;
+    if (user) {
+      // Schlanke UI für Mobile: nur "Mein Konto" + Logout
+      authArea.innerHTML = `
+        <a class="btn" href="account.html">Mein Konto</a>
+        <button class="btn" id="logoutBtn">Logout</button>
+      `;
+      document.getElementById("logoutBtn")?.addEventListener("click", () => signOut(auth));
     } else {
-      area.innerHTML = `<button class="btn primary" id="loginBtn">Mit Google einloggen</button>`;
-      $('#loginBtn')?.addEventListener('click', login);
+      authArea.innerHTML = `<button class="btn primary" id="loginBtn">Mit Google einloggen</button>`;
+      document.getElementById("loginBtn")?.addEventListener("click", () => window.authSignIn());
     }
   }
 
-  function emit(user) {
-    window.__authUser = user;
-    window.__isAdmin = !!(user && ADMIN_EMAILS.includes(user.email));
-    window.dispatchEvent(new CustomEvent('auth-changed', { detail: user }));
-    renderAuth();
-  }
-
-  async function ensureFirebase() {
-    if (window.firebase?.apps?.length) return true;
-    if (!window.__FIREBASE_CONFIG) return false;
-    const add = (src) => new Promise((res, rej) => {
-      const s = document.createElement('script'); s.src = src; s.onload = res; s.onerror = rej; document.head.appendChild(s);
-    });
-    await add('https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js');
-    await add('https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js');
-    firebase.initializeApp(window.__FIREBASE_CONFIG);
-    return true;
-  }
-
-  async function login() {
-    if (await ensureFirebase()) {
-      try {
-        const provider = new firebase.auth.GoogleAuthProvider();
-        const cred = await firebase.auth().signInWithPopup(provider);
-        const u = cred.user;
-        emit({ uid: u.uid, displayName: u.displayName || 'User', email: u.email || '', photoURL: u.photoURL || '' });
-        return;
-      } catch (e) { alert('Login fehlgeschlagen: ' + (e?.message || e)); }
-    }
-    // Mock
-    const u = { uid: crypto.randomUUID(), displayName: 'Demo User', email: '' };
-    sessionStorage.setItem(MOCK_KEY, JSON.stringify(u));
-    emit(u);
-  }
-
-  async function logout() {
-    if (window.firebase?.auth) { try { await firebase.auth().signOut(); } catch {} }
-    sessionStorage.removeItem(MOCK_KEY);
-    emit(null);
-  }
-
-  (async () => {
-    if (await ensureFirebase()) {
-      firebase.auth().onAuthStateChanged((u) => {
-        emit(u ? { uid: u.uid, displayName: u.displayName || 'User', email: u.email || '', photoURL: u.photoURL || '' } : null);
-      });
-    } else {
-      let u = null; try { u = JSON.parse(sessionStorage.getItem(MOCK_KEY) || 'null'); } catch {}
-      emit(u);
-    }
-  })();
-
-  // Für Buttons in deinen Seiten:
-  window.authSignIn = login;
-  window.authSignOut = logout;
-
-  renderAuth();
+  onAuthStateChanged(auth, render);
 })();

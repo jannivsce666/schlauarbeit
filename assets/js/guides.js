@@ -1,32 +1,28 @@
-// assets/js/guides.js  — kombiniert lokale + entfernte Guides
+// assets/js/guides.js — lokale + externe Guides
 (() => {
   const KEY = 'schlau_guides_v1';
 
   const $ = (s, r = document) => r.querySelector(s);
-  const grid   = $('#guideGrid');
+  const grid = $('#guideGrid');
   const search = $('#guideSearch');
   const addBtn = $('#addGuideBtn');
-
-  // Falls diese Datei versehentlich auf einer Seite ohne Grid geladen wird → sauber beenden
-  if (!grid) return;
 
   addBtn?.addEventListener('click', (e) => {
     e.preventDefault();
     location.href = 'guide-new.html';
   });
 
-  // Lokale Guides (wie gehabt)
+  // Lokale Guides
   function readLocal() {
     try { return JSON.parse(localStorage.getItem(KEY) || '[]'); }
     catch { return []; }
   }
 
-  // Entfernte Guides
+  // Remote Guides
   let remote = [];
   async function loadRemote() {
     try {
-      // Cache-Bust + no-store gegen SW/Proxy-Caches
-      const res = await fetch('assets/data/guides.json?ts=' + Date.now(), { cache: 'no-store' });
+      const res = await fetch('assets/data/guides.json', { cache: 'no-store' });
       if (!res.ok) throw new Error(res.statusText);
       const data = await res.json();
       remote = Array.isArray(data.items) ? data.items : [];
@@ -42,7 +38,6 @@
     if (it._origin === 'remote') {
       return [it.title, it.summary, it.source].filter(Boolean).join(' ').toLowerCase().includes(t);
     }
-    // local
     return [it.title, it.category, it.desc, it.materials].filter(Boolean).join(' ').toLowerCase().includes(t);
   }
 
@@ -81,8 +76,7 @@
     const local = readLocal().map(x => ({...x, _origin: 'local'}));
     const ext   = remote.map(x => ({...x, _origin: 'remote'}));
 
-    // Reihenfolge: externe zuerst, dann lokale
-    let all = [...ext, ...local];
+    let all = [...ext, ...local]; // Externe zuerst
     if (q) all = all.filter(it => matches(it, q));
 
     grid.innerHTML = all.length
@@ -92,7 +86,6 @@
 
   search?.addEventListener('input', render);
 
-  // Init
   (async () => {
     await loadRemote();
     render();

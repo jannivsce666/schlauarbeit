@@ -1,66 +1,56 @@
-// app.js
-(() => {
-  const y = document.getElementById('year');
-  if (y) y.textContent = new Date().getFullYear();
+// assets/js/app.js
+(function () {
+  const $ = (s, r = document) => r.querySelector(s);
+  const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
 
+  // --- Mobile Nav ---
+  const navToggle = $('#navToggle');
+  const navMenu   = $('#navMenu');
+
+  function closeNav(){ navMenu?.classList.remove('open'); navToggle?.setAttribute('aria-expanded','false'); }
+  function openNav(){  navMenu?.classList.add('open');    navToggle?.setAttribute('aria-expanded','true'); }
+
+  navToggle?.addEventListener('click', () => {
+    const isOpen = navMenu?.classList.contains('open');
+    isOpen ? closeNav() : openNav();
+  });
+
+  // Links schließen das Menü am Handy
+  $$('#navMenu a').forEach(a => a.addEventListener('click', closeNav));
+  // ESC schließt
+  window.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeNav(); });
+
+  // --- Theme Toggle ---
+  const themeBtn = $('#themeToggle');
+  const root = document.documentElement;
   const THEME_KEY = 'schlau_theme';
-  const html = document.documentElement;
   const saved = localStorage.getItem(THEME_KEY);
-  if (saved === 'dark') html.classList.add('theme-dark');
-  const themeBtn = document.getElementById('themeToggle');
-  themeBtn && themeBtn.addEventListener('click', () => {
-    html.classList.toggle('theme-dark');
-    localStorage.setItem(THEME_KEY, html.classList.contains('theme-dark') ? 'dark' : 'light');
+  if (saved === 'dark') root.classList.add('theme-dark');
+
+  themeBtn?.addEventListener('click', () => {
+    root.classList.toggle('theme-dark');
+    localStorage.setItem(THEME_KEY, root.classList.contains('theme-dark') ? 'dark' : 'light');
   });
 
-  const navToggle = document.getElementById('navToggle');
-  const navMenu = document.getElementById('navMenu');
-  navToggle && navMenu && navToggle.addEventListener('click', () => {
-    const open = navMenu.classList.toggle('open');
-    navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
-  });
-
-  let deferredPrompt;
-  const installBtn = document.getElementById('installBtn');
+  // --- PWA Installation ---
+  const installBtn = $('#installBtn');
+  let deferredPrompt = null;
   window.addEventListener('beforeinstallprompt', (e) => {
-    e.preventDefault(); deferredPrompt = e;
-    installBtn && (installBtn.style.display = '');
+    e.preventDefault();
+    deferredPrompt = e;
+    installBtn?.classList.remove('ghost'); // einfache Sichtbarkeit
+    installBtn?.removeAttribute('disabled');
   });
-  installBtn && installBtn.addEventListener('click', async () => {
+  installBtn?.addEventListener('click', async () => {
     if (!deferredPrompt) return;
-    deferredPrompt.prompt(); await deferredPrompt.userChoice;
-    deferredPrompt = null; installBtn.style.display = 'none';
+    deferredPrompt.prompt();
+    await deferredPrompt.userChoice.catch(()=>{});
+    deferredPrompt = null;
+    installBtn?.setAttribute('disabled', 'true');
   });
 
+  // Service Worker (falls vorhanden)
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js').catch(console.warn);
+    navigator.serviceWorker.register('sw.js').catch(()=>{});
   }
 })();
-// Service Worker Registrierung + Auto-Update
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').then((reg) => {
-      // Bei neuer Version sofort aktivieren
-      reg.addEventListener('updatefound', () => {
-        const nw = reg.installing;
-        nw && nw.addEventListener('statechange', () => {
-          if (nw.state === 'installed' && navigator.serviceWorker.controller) {
-            // sage dem SW: skipWaiting
-            nw.postMessage({ type: 'SKIP_WAITING' });
-          }
-        });
-      });
-
-      // Wenn der Controller wechselt -> einmal neu laden (holt neue CSS/JS)
-      let refreshing = false;
-      navigator.serviceWorker.addEventListener('controllerchange', () => {
-        if (refreshing) return;
-        refreshing = true;
-        window.location.reload();
-      });
-
-      // beim Start schon mal nach Updates schauen
-      reg.update();
-    }).catch(() => {});
-  });
-}
