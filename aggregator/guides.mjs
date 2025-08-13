@@ -1,122 +1,91 @@
-// aggregator/guides.mjs
-// Holt DIY-Guides aus RSS-Feeds, filtert grob auf "grüne" Themen und schreibt assets/data/guides.json
+/**
+ * Schlauarbeit – DIY-Guides Aggregator
+ * Liest ein paar zuverlässige RSS-/Atom-Feeds ein, normalisiert sie
+ * und schreibt assets/data/guides.json
+ */
+import Parser from 'rss-parser';
+import { writeFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-import fs from "fs/promises";
-import path from "path";
-import Parser from "rss-parser";
-import { fetch } from "undici";
-import { JSDOM } from "jsdom";
-
-const OUT_FILE = path.resolve("assets/data/guides.json");
-
-// Quellen (ergänzbar)
-const FEEDS = [
-  { source: "IKEA Hackers", url: "https://www.ikeahackers.net/feed" },
-  { source: "Make: Workshop", url: "https://makezine.com/category/workshop/feed/" },
-  { source: "Lifehacker DIY", url: "https://lifehacker.com/tag/diy/rss" },
-  { source: "Low-tech Magazine", url: "https://solar.lowtechmagazine.com/atom.xml" },
-];
-
-// einfache Themen-Filter (DE/EN)
-const KEYWORDS = [
-  "solar","photovoltaik","regen","rain","rain barrel","wasser","water",
-  "isol","insulat","heizung","wärme","däm","kompost","compost","upcycl",
-  "repar","repair","recycle","holz","wood","garten","bike","fahrrad",
-  "strom","energie","nachhalt","sustainable"
-];
+const __dirname = fileURLToPath(new URL('.', import.meta.url));
+const OUT = resolve(__dirname, '../assets/data/guides.json');
 
 const parser = new Parser({
-  headers: { "User-Agent": "schlauarbeit-guides-bot/1.0 (+https://schlauarbeit.de)" }
+  timeout: 20000,
+  customFields: {
+    item: [
+      ['content:encoded', 'contentEncoded'],
+      ['media:content', 'mediaContent'],
+      ['media:thumbnail', 'mediaThumb']
+    ]
+  }
 });
 
-function hasKeyword(s) {
-  const t = (s || "").toLowerCase();
-  return KEYWORDS.some(k => t.includes(k));
-}
+// Quellen (stabil)
+const FEEDS = [
+  { source: 'IKEA Hackers', url: 'https://www.ikeahackers.net/feed', limit: 20 },
+  { source: 'Make: Workshop', url: 'https://makezine.com/category/workshop/feed', limit: 12 },
+  { source: 'Low-tech Magazine', url: 'https://solar.lowtechmagazine.com/feeds/all.atom.xml', limit: 8 }
+];
 
-function strip(html) {
-  if (!html) return "";
-  return String(html).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-}
+// Utility
+const strip = (html = '') =>
+  html
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 
-async function fetchOGImage(url) {
-  try {
-    const r = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0" }, timeout: 15000 });
-    if (!r.ok) return null;
-    const html = await r.text();
-    const dom = new JSDOM(html);
-    const d = dom.window.document;
-    const og = d.querySelector('meta[property="og:image"],meta[name="og:image"]');
-    const tw = d.querySelector('meta[name="twitter:image"]');
-    const link = og?.getAttribute("content") || tw?.getAttribute("content");
-    return link || null;
-  } catch { return null; }
-}
+const pickImage = (it) => {
+  // 1) enclosure / media
+  if (it.enclosure?.url) return it.enclosure.url;
+  if (it.mediaContent?.$.url) return it.mediaContent.$.url;
+  if (it.mediaThumb?.$.url) return it.mediaThumb.$.url;
+  // 2) aus content
+  const html = it.contentEncoded || it['content:encoded'] || it.content || '';
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m ? m[1] : '';
+};
 
-function cleanItem(it, source) {
-  const title = it.title || "";
-  const link = it.link || it.guid || "";
-  const date = it.isoDate || it.pubDate || "";
-  const summary = strip(it.contentSnippet || it.content || it["content:encoded"] || "");
-  const enclosureUrl = it.enclosure?.url || it["media:content"]?.url;
-
-  return {
-    id: link || title,
-    title, link, date,
-    summary,
-    image: enclosureUrl || null,
-    source
-  };
-}
-
-function dedupe(items) {
-  const seen = new Set();
-  return items.filter(x => {
-    const key = (x.title || "") + "::" + (x.link || "");
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-}
+const normalize = (raw, source) => {
+  const title = raw.title || '';
+  const link  = raw.link || raw.guid || '';
+  const published = raw.isoDate || raw.pubDate || '';
+  const summary = strip(raw.contentSnippet || raw.summary || raw.contentEncoded || raw.content || '');
+  const image = pickImage(raw);
+  return { title, link, summary, image, source, published };
+};
 
 async function run() {
-  let all = [];
+  const items = [];
 
   for (const f of FEEDS) {
     try {
       const feed = await parser.parseURL(f.url);
-      const mapped = (feed.items || []).map(it => cleanItem(it, f.source));
-      all.push(...mapped);
-      console.log(`OK: ${f.source} → ${mapped.length} Einträge`);
+      const take = (feed.items || []).slice(0, f.limit || 10);
+      const norm = take.map((x) => normalize(x, f.source));
+      console.log(`OK: ${f.source} → ${norm.length} Einträge`);
+      items.push(...norm);
     } catch (e) {
-      console.warn(`Feed fehlgeschlagen: ${f.url} → ${e.message}`);
+      console.error(`Feed fehlgeschlagen: ${f.url} → ${e.message || e}`);
     }
   }
 
-  // filtern (wenn kein Treffer → alles durchlassen)
-  const filtered = all.filter(it => hasKeyword(it.title + " " + it.summary)) || all;
+  // leichte Sortierung: neu zuerst
+  items.sort((a, b) => (Date.parse(b.published) || 0) - (Date.parse(a.published) || 0));
 
-  // fehlende Bilder via OG scrapen (sanft, nur wenige)
-  const enriched = [];
-  for (const it of filtered.slice(0, 120)) {
-    if (!it.image && it.link) {
-      it.image = await fetchOGImage(it.link);
-    }
-    enriched.push(it);
-  }
+  const data = {
+    generatedAt: new Date().toISOString(),
+    items
+  };
 
-  const out = dedupe(enriched)
-    .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0))
-    .slice(0, 60);
-
-  await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
-  await fs.writeFile(
-    OUT_FILE,
-    JSON.stringify({ generatedAt: new Date().toISOString(), items: out }, null, 2),
-    "utf8"
-  );
-
-  console.log(`OK: ${out.length} Guides → ${OUT_FILE}`);
+  await writeFile(OUT, JSON.stringify(data, null, 2));
+  console.log(`OK: ${items.length} Guides → ${OUT}`);
 }
 
-run().catch(e => { console.error(e); process.exit(1); });
+run().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
