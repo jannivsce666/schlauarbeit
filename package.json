@@ -2,12 +2,14 @@
   "name": "schlauarbeit-news-aggregator",
   "private": true,
   "type": "module",
-  "version": "0.1.0",
-  "engines": { "node": ">=18" },
+  "version": "0.2.0",
   "scripts": {
-    "update": "node aggregator/index.mjs"
+    "update:news": "node aggregator/index.mjs",
+    "update:guides": "node aggregator/guides.mjs",
+    "update": "npm run update:news && npm run update:guides"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0"
+    "rss-parser": "^3.13.0",
+    "node-fetch": "^3.3.2"
   }
 }

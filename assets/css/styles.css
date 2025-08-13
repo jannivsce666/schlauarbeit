@@ -2,31 +2,31 @@
 /* ----------------------------------------------------- */
 /* Farb-Design */
 :root{
-  /* Eco Light (Default) */
-  --bg:#f5f7f4;
-  --bg-alt:#eef3ee;
-  --text:#0f1f14;
-  --muted:#5a6f62;
-  --brand:#22c55e;     /* leaf */
-  --brand-2:#14b8a6;   /* water */
-  --card:#ffffff;
-  --stroke:rgba(10,30,20,.10);
-  --ring:0 0 0 4px rgba(34,197,94,.28);
+  /* Eco Light (Default) – mehr Grün, softer als reines Weiß */
+  --bg:#F2FBF5;          /* mint background */
+  --bg-alt:#E8F7EE;      /* Sektionen */
+  --text:#0F241A;        /* sehr dunkles Grün */
+  --muted:#5B7A68;       /* gedämpft */
+  --brand:#16A34A;       /* primary green */
+  --brand-2:#22C55E;     /* zweiter Grünton */
+  --card:#FCFFFD;        /* leicht getönt statt Weiß */
+  --stroke:rgba(9,41,24,.08);
+  --ring:0 0 0 4px rgba(22,163,74,.28);
   --radius:16px;
-  --glow:0 12px 36px rgba(20,184,166,.12);
-  --glow-soft:0 8px 20px rgba(34,197,94,.10);
+  --glow:0 12px 36px rgba(34,197,94,.12);
+  --glow-soft:0 8px 20px rgba(22,163,74,.10);
 }
 
 /* Eco Dark (per <html class="theme-dark">) */
 html.theme-dark{
-  --bg:#0b1410;
-  --bg-alt:#0f1d17;
-  --text:#e9f3ec;
-  --muted:#a4b8ac;
-  --brand:#22c55e;
-  --brand-2:#14b8a6;
-  --card:#0e1914;
-  --stroke:#1a2a23;
+  --bg:#0B1410;
+  --bg-alt:#0F1D17;
+  --text:#E9F3EC;
+  --muted:#A4B8AC;
+  --brand:#22C55E;
+  --brand-2:#16A34A;
+  --card:#0E1914;
+  --stroke:#1A2A23;
   --ring:0 0 0 4px rgba(34,197,94,.28);
   --glow:0 12px 36px rgba(20,184,166,.22), 0 6px 20px rgba(34,197,94,.20);
   --glow-soft:0 10px 28px rgba(34,197,94,.12);
@@ -36,6 +36,8 @@ html.theme-dark{
 /* Base */
 *{ box-sizing:border-box }
 html,body{ height:100% }
+
+/* Heller grüne Wellen + Glows */
 body{
   margin:0;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
@@ -43,20 +45,20 @@ body{
   color:var(--text);
   /* prettier-ignore */
   background:
-    radial-gradient(1200px 600px at 10% -10%, rgba(34,197,94,.12), transparent 40%),
-    radial-gradient(1200px 600px at 110% 10%, rgba(20,184,166,.12), transparent 40%),
-    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'><g fill='none' stroke='rgba(15,31,20,0.06)' stroke-width='1'><path d='M0,110 C40,90 80,90 110,110 140,130 180,130 220,110'/><path d='M0,55 C55,35 110,35 165,55'/><path d='M0,165 C55,185 110,185 165,165'/></g></svg>") repeat,
+    radial-gradient(1200px 600px at 8% -10%, rgba(22,163,74,.14), transparent 40%),
+    radial-gradient(1200px 600px at 112% 5%, rgba(34,197,94,.12), transparent 40%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='140' viewBox='0 0 240 140'><g fill='none' stroke='rgba(22,163,74,0.12)' stroke-width='1'><path d='M0 20c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/><path d='M0 60c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/><path d='M0 100c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/></g></svg>") repeat,
     var(--bg);
   background-attachment: fixed;
 }
 
-/* Dark: gleiche Struktur, dunklere Linien */
+/* Dark: gleiche Struktur, grüne Wellen dezenter */
 /* prettier-ignore */
 html.theme-dark body{
   background:
-    radial-gradient(1200px 600px at 10% -10%, rgba(34,197,94,.14), transparent 40%),
-    radial-gradient(1200px 600px at 110% 10%, rgba(20,184,166,.14), transparent 40%),
-    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'><g fill='none' stroke='rgba(255,255,255,0.05)' stroke-width='1'><path d='M0,110 C40,90 80,90 110,110 140,130 180,130 220,110'/><path d='M0,55 C55,35 110,35 165,55'/><path d='M0,165 C55,185 110,185 165,165'/></g></svg>") repeat,
+    radial-gradient(1200px 600px at 8% -10%, rgba(34,197,94,.14), transparent 40%),
+    radial-gradient(1200px 600px at 112% 5%, rgba(22,163,74,.14), transparent 40%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='140' viewBox='0 0 240 140'><g fill='none' stroke='rgba(34,197,94,0.10)' stroke-width='1'><path d='M0 20c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/><path d='M0 60c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/><path d='M0 100c30 20 60 20 90 0s60-20 90 0 60 20 90 0'/></g></svg>") repeat,
     var(--bg);
 }
 
@@ -74,8 +76,8 @@ a, button, .btn, .card, .nav a, .tab, input, select, textarea, .badge {
 /* ----------------------------------------------------- */
 /* Header + Brand hart links */
 .header{ position:sticky; top:0; z-index:50; border-bottom:1px solid var(--stroke); backdrop-filter: blur(10px); }
-.glass{ background:linear-gradient(180deg,rgba(255,255,255,.65),rgba(255,255,255,.35)) }
-html.theme-dark .glass{ background:linear-gradient(180deg,rgba(9,17,38,.8),rgba(9,17,38,.5)) }
+.glass{ background:linear-gradient(180deg,rgba(255,255,255,.80),rgba(255,255,255,.48)) }
+html.theme-dark .glass{ background:linear-gradient(180deg,rgba(9,17,38,.8),rgba(9,17,38,.55)) }
 
 .header-inner{ display:flex; align-items:center; gap:16px; justify-content:space-between; position:relative }
 .brand{ display:flex; align-items:center; gap:10px }
@@ -129,10 +131,10 @@ html.theme-dark .glass{ background:linear-gradient(180deg,rgba(9,17,38,.8),rgba(
   background:linear-gradient(135deg,var(--brand),var(--brand-2));
   border-color:transparent; color:#fff;
   background-size:200% 100%; animation: gradientShift 12s linear infinite;
-  box-shadow: 0 6px 16px rgba(20,184,166,.18);
+  box-shadow: 0 6px 16px rgba(34,197,94,.18);
 }
 .btn.primary:hover{ filter: brightness(1.04); box-shadow: var(--glow); }
-.btn.ghost{ background:rgba(0,0,0,.03) }
+.btn.ghost{ background:rgba(22,163,74,.06) }
 html.theme-dark .btn.ghost{ background:rgba(255,255,255,.06) }
 .btn.icon{ display:grid; place-items:center; padding:8px; width:40px; height:40px }
 
@@ -168,7 +170,7 @@ html.theme-dark .input, html.theme-dark .form input, html.theme-dark .form selec
 .grad{
   background:linear-gradient(135deg,var(--brand),var(--brand-2));
   -webkit-background-clip:text; background-clip:text; color:transparent;
-  filter: drop-shadow(0 2px 10px rgba(34,197,94,.16));
+  filter: drop-shadow(0 2px 10px rgba(22,163,74,.18));
 }
 
 /* ----------------------------------------------------- */
@@ -189,7 +191,7 @@ html.theme-dark .card{
 html.theme-dark .card:hover{ box-shadow: var(--glow); }
 
 .card .media{
-  height:180px; background: #eef3ee;
+  height:180px; background:#EAF7EF;   /* helles Grün */
   display:flex; align-items:center; justify-content:center;
   overflow:hidden;
 }
@@ -218,7 +220,7 @@ html.theme-dark .result{ background:#0a1328 }
 
 .tabs{ display:flex; gap:8px; background:var(--card); padding:6px; border:1px solid var(--stroke); border-radius:12px }
 .tab{ border:none; background:transparent; color:var(--muted); padding:8px 12px; border-radius:10px; cursor:pointer }
-.tab:hover{ box-shadow: inset 0 0 0 2px rgba(34,197,94,.22); color:#21382c; }
+.tab:hover{ box-shadow: inset 0 0 0 2px rgba(22,163,74,.22); color:#21382c; }
 html.theme-dark .tab:hover{ color:#cfe9da; }
 .tab.active{ color:var(--text); background:var(--bg-alt); border:1px solid var(--stroke) }
 

@@ -8,14 +8,13 @@
   <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
   <meta name="theme-color" content="#0f172a">
-  <link rel="stylesheet" href="assets/css/styles.css" />
+<link rel="stylesheet" href="assets/css/styles.css?v=6" />
 </head>
 <body>
   <a class="skip-link" href="#main">Zum Inhalt springen</a>
 
   <!-- Header mit links angedocktem Brand -->
   <header class="header glass">
-    <!-- fester Brand links am Rand -->
     <div class="brand hard-left">
       <img src="assets/img/logo.svg" alt="" class="logo" />
       <span class="brand-text">Schlauarbeit</span>
@@ -57,9 +56,7 @@
           <h1>Nachhaltig. Clever. <span class="grad">Schlauarbeit.</span></h1>
           <p class="lead">Kostenlose DIY-Anleitungen, Energie- & CO₂-Rechner und eine lokale Tausch- & Leihbörse. Alles, um Ressourcen zu sparen und besser zu bauen.</p>
           <div class="hero-cta">
-            <!-- alt: <button id="addGuideBtn" class="btn">Anleitung hinzufügen</button> -->
-<a href="guide-new.html" class="btn">Anleitung hinzufügen</a>
-
+            <a href="guide-new.html" class="btn">Anleitung hinzufügen</a>
             <a href="#market" class="btn">Zur Tauschbörse</a>
           </div>
           <ul class="ticks">
@@ -81,7 +78,7 @@
           <h2>DIY-Anleitungen</h2>
           <div class="section-actions">
             <input id="guideSearch" class="input" type="search" placeholder="Suche nach Projekt, z. B. Regenfass" />
-            <button id="addGuideBtn" class="btn">Anleitung hinzufügen</button>
+            <button id="addGuideBtn" class="btn" onclick="location.href='guide-new.html'">Anleitung hinzufügen</button>
           </div>
         </div>
         <div id="guideGrid" class="grid cards"></div>
@@ -151,7 +148,7 @@
     </div>
   </footer>
 
-  <!-- Modals -->
+  <!-- Modals: Quick-Add bleiben; großer Editor ist guide-new.html / offer-new.html -->
   <dialog id="guideDialog" class="modal">
     <form method="dialog" class="modal-card" id="guideForm">
       <header class="modal-head"><h3>Anleitung hinzufügen</h3></header>
@@ -210,24 +207,12 @@
     </form>
   </dialog>
 
-  <dialog id="legalDialog" class="modal">
-    <div class="modal-card">
-      <header class="modal-head"><h3 id="legalTitle">Rechtliches</h3></header>
-      <div class="modal-body">
-        <div id="legalContent" class="prose"></div>
-      </div>
-      <footer class="modal-foot">
-        <button class="btn primary" onclick="this.closest('dialog').close()">Schließen</button>
-      </footer>
-    </div>
-  </dialog>
-
-  <!-- Scripts – calculators.js ist hier nicht mehr nötig -->
-<!-- Scripts -->
-<script src="assets/js/app.js" defer></script>
-<script src="assets/js/auth.js" defer></script>          <!-- zuerst Auth -->
-<script src="assets/js/guides.js" defer></script>        <!-- Liste & Suche -->
-<script src="assets/js/marketplace.js" defer></script>   <!-- Tauschbörse -->
-
+  <!-- Scripts -->
+  <script src="assets/js/app.js" defer></script>
+  <script src="assets/js/guides.js" defer></script>
+  <script src="assets/js/auth.js" defer></script>
+  <!-- Universelles Confirm (muss VOR marketplace.js geladen sein) -->
+  <script src="assets/js/confirm.js" defer></script>
+  <script src="assets/js/marketplace.js" defer></script>
 </body>
 </html>

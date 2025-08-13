@@ -36,3 +36,31 @@
     navigator.serviceWorker.register('./sw.js').catch(console.warn);
   }
 })();
+// Service Worker Registrierung + Auto-Update
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/sw.js').then((reg) => {
+      // Bei neuer Version sofort aktivieren
+      reg.addEventListener('updatefound', () => {
+        const nw = reg.installing;
+        nw && nw.addEventListener('statechange', () => {
+          if (nw.state === 'installed' && navigator.serviceWorker.controller) {
+            // sage dem SW: skipWaiting
+            nw.postMessage({ type: 'SKIP_WAITING' });
+          }
+        });
+      });
+
+      // Wenn der Controller wechselt -> einmal neu laden (holt neue CSS/JS)
+      let refreshing = false;
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
+
+      // beim Start schon mal nach Updates schauen
+      reg.update();
+    }).catch(() => {});
+  });
+}

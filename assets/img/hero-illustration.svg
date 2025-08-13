@@ -1,22 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<!-- assets/img/hero-illustration.svg -->
+<svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title>Schlauarbeit – Hero Illustration</title>
+  <desc>Haus mit Solarpanel, Blatt im Hintergrund, dezente grüne Wellen und Technik-Details</desc>
+
   <defs>
-    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#7c3aed"/>
-      <stop offset="1" stop-color="#06b6d4"/>
+    <linearGradient id="leafGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#16A34A"/>
     </linearGradient>
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFF9DA"/>
+      <stop offset="1" stop-color="#A7F3C6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="rgba(22,163,74,.18)"/>
+    </filter>
   </defs>
-  <rect width="600" height="420" rx="20" fill="#0a1328" stroke="#1c2445"/>
-  <g stroke="url(#g2)" stroke-width="6" fill="none" stroke-linecap="round">
-    <path d="M100 310c40-120 360-120 400 0"/>
-    <path d="M140 280c35-80 285-80 320 0"/>
+
+  <!-- dezente Wellen / Linien (sehr leicht) -->
+  <g fill="none" stroke="rgba(22,163,74,0.09)" stroke-width="2">
+    <path d="M-50,120 C150,60 350,60 550,120 750,180 950,180 1150,120" />
+    <path d="M-50,200 C150,140 350,140 550,200 750,260 950,260 1150,200" />
+    <path d="M-50,280 C150,220 350,220 550,280 750,340 950,340 1150,280" />
+    <path d="M-50,360 C150,300 350,300 550,360 750,420 950,420 1150,360" />
   </g>
-  <g fill="url(#g2)">
-    <rect x="80" y="80" width="60" height="60" rx="10"/>
-    <rect x="150" y="70" width="60" height="60" rx="10"/>
-    <rect x="220" y="60" width="60" height="60" rx="10"/>
+
+  <!-- großes Blatt im Hintergrund links -->
+  <g transform="translate(140,80) rotate(-10)">
+    <path d="M0,220 C40,120 140,40 260,20 C360,10 420,60 450,120 C490,200 430,300 340,340 C220,400 120,360 60,300 C20,260 -10,260 0,220 Z"
+          fill="url(#leafGrad)" opacity="0.18"/>
+    <path d="M80,260 C180,200 260,140 330,80"
+          stroke="#16A34A" stroke-width="4" stroke-linecap="round" opacity=".25"/>
   </g>
-  <g fill="#101a36">
-    <circle cx="420" cy="170" r="38"/>
-    <rect x="380" y="110" width="80" height="20" rx="6" fill="url(#g2)"/>
+
+  <!-- Hauskörper -->
+  <g transform="translate(520,190)" filter="url(#soft)">
+    <!-- Dach -->
+    <polygon points="0,120 140,20 280,120" fill="#E8F7EE" stroke="#0F241A" stroke-opacity=".15" stroke-width="2" />
+    <!-- Panel auf dem Dach -->
+    <g transform="translate(70,38)">
+      <rect x="0" y="0" width="140" height="66" rx="6" fill="url(#panelGrad)" stroke="#16A34A" stroke-opacity=".35"/>
+      <!-- Gitterlinien -->
+      <g stroke="#16A34A" stroke-opacity=".25" stroke-width="1">
+        <path d="M0,22 H140"/>
+        <path d="M0,44 H140"/>
+        <path d="M28,0 V66"/>
+        <path d="M56,0 V66"/>
+        <path d="M84,0 V66"/>
+        <path d="M112,0 V66"/>
+      </g>
+      <!-- Sonne / Blitz-Icon klein -->
+      <circle cx="120" cy="-14" r="10" fill="url(#accent)" opacity=".9"/>
+      <path d="M118,-18 l6,0 -4,6 6,0 -8,12 2,-8 -6,0 4,-10z" fill="#FCFFFD" opacity=".95"/>
+    </g>
+
+    <!-- Wände -->
+    <rect x="30" y="120" width="220" height="150" rx="8" fill="#FCFFFD" stroke="#0F241A" stroke-opacity=".12" />
+    <!-- Tür + Fenster -->
+    <rect x="70" y="170" width="46" height="100" rx="6" fill="#E8F7EE" stroke="#0F241A" stroke-opacity=".12"/>
+    <rect x="150" y="160" width="70" height="40" rx="6" fill="#E8F7EE" stroke="#0F241A" stroke-opacity=".12"/>
+    <line x1="185" y1="160" x2="185" y2="200" stroke="#0F241A" stroke-opacity=".08"/>
+    <line x1="150" y1="180" x2="220" y2="180" stroke="#0F241A" stroke-opacity=".08"/>
+
+    <!-- Boden -->
+    <rect x="-30" y="270" width="340" height="10" rx="5" fill="#E8F7EE"/>
+  </g>
+
+  <!-- kleines “Gear” rechts als Technik-Note -->
+  <g transform="translate(980,260)">
+    <circle cx="0" cy="0" r="38" fill="#E8F7EE" />
+    <!-- Zähne -->
+    <g fill="#A7F3C6">
+      <rect x="-6" y="-56" width="12" height="16" rx="3"/>
+      <rect x="-6" y="40" width="12" height="16" rx="3"/>
+      <rect x="-56" y="-6" width="16" height="12" rx="3"/>
+      <rect x="40" y="-6" width="16" height="12" rx="3"/>
+      <rect x="-42" y="-42" width="14" height="14" rx="3" transform="rotate(45)"/>
+      <rect x="28" y="-42" width="14" height="14" rx="3" transform="rotate(45)"/>
+      <rect x="-42" y="28" width="14" height="14" rx="3" transform="rotate(45)"/>
+      <rect x="28" y="28" width="14" height="14" rx="3" transform="rotate(45)"/>
+    </g>
+    <!-- Nabe -->
+    <circle cx="0" cy="0" r="18" fill="url(#accent)"/>
+    <circle cx="0" cy="0" r="7" fill="#FCFFFD" opacity=".95"/>
+  </g>
+
+  <!-- Deko: Blatt + Wassertropfen klein -->
+  <g transform="translate(980,420) rotate(8)">
+    <path d="M0,0 C28,-12 58,-12 86,0 70,28 42,44 10,42 6,30 -2,12 0,0 Z"
+          fill="url(#leafGrad)" opacity=".22"/>
+    <path d="M126,18 C132,8 144,-10 150,-22 156,-10 168,8 174,18 182,32 172,48 150,48 128,48 118,32 126,18Z"
+          fill="#A7F3C6" opacity=".65"/>
   </g>
 </svg>
