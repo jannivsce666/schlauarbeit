@@ -183,6 +183,7 @@ html.theme-dark .input, html.theme-dark .form input, html.theme-dark .form selec
   overflow:hidden;
   will-change: transform, box-shadow;
   box-shadow: 0 10px 24px rgba(0,0,0,.04);
+  
 }
 html.theme-dark .card{
   background:linear-gradient(180deg,rgba(255,255,255,.02),rgba(255,255,255,.01));
@@ -301,3 +302,20 @@ html.theme-dark .modal-card{
 .nav-list{
   z-index: 60;
 }
+/* ===== Compact Cards + Line Clamps ===== */
+.card.compact { border-radius: 12px; }
+.card.compact .body { padding: 12px; }
+.card.compact .media { height: 120px; }
+.card.compact h3 { font-size: 1rem; line-height: 1.25; margin: .25rem 0 .35rem; }
+.card.compact .muted { font-size: .92rem; }
+
+/* kleine Buttons */
+.btn.small { padding: 8px 10px; font-size: .92rem; border-radius: 10px; }
+
+/* Line clamp utilities */
+.clamp-1, .clamp-2, .clamp-3 {
+  display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden;
+}
+.clamp-1 { -webkit-line-clamp: 1; }
+.clamp-2 { -webkit-line-clamp: 2; }
+.clamp-3 { -webkit-line-clamp: 3; }

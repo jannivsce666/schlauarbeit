@@ -1,4 +1,4 @@
-// assets/js/guides.js
+// assets/js/guides.js — kompakte Karten; kombiniert lokale + remote Guides
 (() => {
   const KEY = 'schlau_guides_v1';
 
@@ -12,11 +12,13 @@
     location.href = 'guide-new.html';
   });
 
+  // --- Local store
   function readLocal() {
     try { return JSON.parse(localStorage.getItem(KEY) || '[]'); }
     catch { return []; }
   }
 
+  // --- Remote store
   let remote = [];
   async function loadRemote() {
     try {
@@ -29,9 +31,12 @@
     }
   }
 
-  const esc = (s) => (s || '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  // --- Helpers
+  const escapeHTML = (s) =>
+    (s || '').replace(/[&<>"]/g, c => ({ '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;' }[c]));
 
-  function matches(it, q){
+  function matches(it, q) {
+    if (!q) return true;
     const t = q.toLowerCase();
     if (it._origin === 'remote') {
       return [it.title, it.summary, it.source].filter(Boolean).join(' ').toLowerCase().includes(t);
@@ -39,30 +44,31 @@
     return [it.title, it.category, it.desc, it.materials].filter(Boolean).join(' ').toLowerCase().includes(t);
   }
 
-  function cardRemote(it){
+  // --- Card templates (COMPACT)
+  function cardRemote(it) {
     return `
-      <article class="card">
-        ${it.image ? `<div class="media"><img loading="lazy" src="${esc(it.image)}" alt=""></div>` : `<div class="media"></div>`}
+      <article class="card compact">
+        ${it.image ? `<div class="media"><img loading="lazy" src="${it.image}" alt=""></div>` : `<div class="media"></div>`}
         <div class="body">
-          <div class="badge">${esc(it.source || 'Quelle')}</div>
-          <h3 style="margin:.4rem 0">${esc(it.title||'')}</h3>
-          <p class="muted" style="min-height:3em">${esc(it.summary||'')}</p>
-          <a class="btn" href="${esc(it.link)}" target="_blank" rel="noopener">Guide öffnen</a>
+          <div class="badge">${escapeHTML(it.source || 'Quelle')}</div>
+          <h3 class="clamp-2">${escapeHTML(it.title || '')}</h3>
+          <p class="muted clamp-3">${escapeHTML(it.summary || '')}</p>
+          <a class="btn small" href="${it.link}" target="_blank" rel="noopener">Guide öffnen</a>
         </div>
       </article>
     `;
   }
 
-  function cardLocal(it){
+  function cardLocal(it) {
     return `
-      <article class="card">
-        ${it.imageDataUrl ? `<div class="media"><img loading="lazy" src="${esc(it.imageDataUrl)}" alt=""></div>` : `<div class="media"></div>`}
+      <article class="card compact">
+        ${it.imageDataUrl ? `<div class="media"><img loading="lazy" src="${it.imageDataUrl}" alt=""></div>` : `<div class="media"></div>`}
         <div class="body">
-          <div class="badge">${esc(it.category || 'DIY')}</div>
-          <h3 style="margin:.4rem 0">${esc(it.title||'')}</h3>
-          <p class="muted" style="min-height:3em">${esc(it.desc||'')}</p>
+          <div class="badge">${escapeHTML(it.category || 'DIY')}</div>
+          <h3 class="clamp-2">${escapeHTML(it.title || '')}</h3>
+          <p class="muted clamp-3">${escapeHTML(it.desc || '')}</p>
           <div style="display:flex;gap:8px;flex-wrap:wrap">
-            <a class="btn" href="guide-new.html#view=${encodeURIComponent(it.id)}">Bearbeiten</a>
+            <a class="btn small" href="guide-new.html#view=${encodeURIComponent(it.id)}">Bearbeiten</a>
           </div>
         </div>
       </article>
@@ -70,9 +76,10 @@
   }
 
   function render() {
+    if (!grid) return;
     const q = (search?.value || '').trim();
-    const local = readLocal().map(x => ({...x, _origin: 'local'}));
-    const ext   = remote.map(x => ({...x, _origin: 'remote'}));
+    const local = readLocal().map(x => ({ ...x, _origin: 'local' }));
+    const ext = remote.map(x => ({ ...x, _origin: 'remote' }));
 
     let all = [...ext, ...local];
     if (q) all = all.filter(it => matches(it, q));
@@ -84,8 +91,5 @@
 
   search?.addEventListener('input', render);
 
-  (async () => {
-    await loadRemote();
-    render();
-  })();
+  (async () => { await loadRemote(); render(); })();
 })();
