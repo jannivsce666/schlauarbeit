@@ -1,0 +1,32 @@
+name: Update DIY Guides
+
+on:
+  schedule:
+    - cron: "25 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps
+        run: npm ci || npm i
+
+      - name: Generate guides.json
+        run: npm run update:guides
+
+      - name: Commit & push guides.json
+        run: |
+          git config user.name "schlau-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add assets/data/guides.json
+          git commit -m "chore(ci): refresh guides.json [skip ci]" || echo "Nothing to commit"
+          git push
