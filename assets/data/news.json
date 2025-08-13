@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate",
+    "title": "Alaska’s Juneau orders evacuations as record glacier flood looms",
+    "url": "https://www.theguardian.com/us-news/2025/aug/13/alaskas-juneau-glacier-flood-record-climate",
+    "summary": "Mendenhall Glacier outburst threatens homes, with scientists warning events are intensifying Alaska’s capital city of Juneau is urging many residents to evacuate, bracing for the arrival of what could be record floodwaters flowing downstream from a basin dammed by the area’s Mendenhall Glacier, with the event being driven by climate change amid glacial retreat, according to a federal agency. Summer glacial flooding, known as a glacial lake outburst flood, or GLOF, threatens parts of the city due to a combination of rainwater and snowmelt. Continue reading...",
+    "date": "2025-08-13T14:14:45.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/b55795e1761435ab45433615b1ada48f83a93cbc/801_460_2108_1687/master/2108.jpg?width=700&quality=85&auto=format&fit=max&s=f4b1e3272659bcd49052d3c0bec893b4"
+  },
+  {
+    "id": "https://www.carbonbrief.org/?p=58757",
+    "title": "Cropped 13 August 2025: Fossil-fuelled bird decline; ‘Deadly’ wildfires; Empty nature fund",
+    "url": "https://www.carbonbrief.org/cropped-13-august-2025-fossil-fuelled-bird-decline-deadly-wildfires-empty-nature-fund/",
+    "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 13 August 2025: Fossil-fuelled bird decline; ‘Deadly’ wildfires; Empty nature fund appeared first on Carbon Brief.",
+    "date": "2025-08-13T14:06:59.000Z",
+    "source": "Carbon Brief",
+    "image": "https://www.carbonbrief.org/wp-content/uploads/2021/09/hero-5-01-2.png"
+  },
+  {
+    "id": "https://www.theguardian.com/world/2025/aug/13/spain-wildfires-climate-crisis-heatwave",
+    "title": "Spain wildfires are ‘clear warning’ of climate emergency, minister says",
+    "url": "https://www.theguardian.com/world/2025/aug/13/spain-wildfires-climate-crisis-heatwave",
+    "summary": "Environment minister says blazes are proof of country’s vulnerability to global heating as fires burn across Europe Europe live – latest updates The heatwave-fuelled wildfires that have killed two people in Spain over recent days, devouring thousands of hectares of land and forcing thousands of people from their homes, are a “clear warning” of the impact of the climate emergency, the country’s environment minister has said. Speaking on Wednesday morning, as firefighters in Spain, Greece and other Mediterranean countries continued to battle dozens of blazes, Sara Aagesen said the 14 wildfires still burning across seven Spanish regions were further proof of the country’s particular vulnerability to global heating. Continue reading...",
+    "date": "2025-08-13T12:12:42.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/923511128b39aa8b0f350af69522b507a37f0dc0/720_0_4961_3971/master/4961.jpg?width=700&quality=85&auto=format&fit=max&s=904c81d8c0d01c6ce731fb65fc086bdd"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/13/ev-drivers-set-to-pay-road-user-charges-as-record-number-of-electric-cars-selling-in-australia",
+    "title": "EV drivers set to pay road user charges as record number of electric cars selling in Australia",
+    "url": "https://www.theguardian.com/environment/2025/aug/13/ev-drivers-set-to-pay-road-user-charges-as-record-number-of-electric-cars-selling-in-australia",
+    "summary": "PM says sustainable revenue for roads is needed as report shows nearly one in 10 new car sales are electric vehicles Get our breaking news email, free app or daily news podcast Labor is set to overhaul road user charging rules to cover electric vehicles, with Anthony Albanese all but confirming the long-delayed reform will be thrashed out at next week’s productivity roundtable in Canberra. As data from the Australian Automobile Association showed EVs accounted for nearly one in 10 new car sales in the June quarter – a new record – the prime minister said the new rules would be worked through in this term of parliament. Continue reading...",
+    "date": "2025-08-13T12:00:18.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/e75e3dc83c556a2b19ad8b0c9651264896e9f4d4/592_0_5769_4616/master/5769.jpg?width=700&quality=85&auto=format&fit=max&s=8631cce1020618b638bcff1c2adf0c5c"
+  },
+  {
+    "id": "1e207453-71df-4cc0-899b-da9279e760d4",
+    "title": "Desinformation über Hitzewellen: Deutlich mehr heiße Tage als früher",
+    "url": "https://www.tagesschau.de/faktenfinder/hitze-mythen-klima-100.html",
+    "summary": "Hitzewellen in Deutschland werden im Netz mit Desinformation begleitet - und der Klimawandel relativiert. Dabei ist es Fakt, dass die Anzahl der heißen Tage stetig zunimmt. Von Pascal Siggelkow.",
+    "date": "2025-08-13T10:46:37.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/868e5ece-e0b8-42ed-8f38-b265180e7b76/AAABl8X73c4/AAABmKJZ-0g/16x9-big/thermometer-hitze-100.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/australia-news/2025/aug/13/cba-record-cash-profit-commonwealth-bank-of-australia",
     "title": "Commonwealth Bank urged to repay fees of 2 million low-income customers after posting record profit",
     "url": "https://www.theguardian.com/australia-news/2025/aug/13/cba-record-cash-profit-commonwealth-bank-of-australia",
@@ -24,16 +69,7 @@
     "summary": "Deutschland stehen zwei heiße Tage und viel Sonne bevor. Was die einen freut, ist für andere eine starke Belastung: Experten kritisieren fehlenden Hitzeschutz vor allem in Krankenhäusern und Pflegeheimen.",
     "date": "2025-08-13T06:56:26.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/cb941d01-104c-43d3-bf14-366c88f508a6/AAABmKID2Xk/AAABmFUVXVg/16x9-big/hitzeschutz-pflege-100.jpg?width=1280"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/13/temperature-records-heatwave-europe-france-croatia-wildfires",
-    "title": "Temperature records broken as extreme heat grips parts of Europe",
-    "url": "https://www.theguardian.com/environment/2025/aug/13/temperature-records-heatwave-europe-france-croatia-wildfires",
-    "summary": "Unprecedented temperatures causing difficulties in south-west France, Croatia, Italy and Spain with wildfire destruction across Europe up 87% How dangerous are wildfires and how can we stop them from getting worse? Extreme heat is breaking temperature records across Europe, early measurements suggest, and driving bigger and stronger wildfires. In south-west France, records were broken on Monday in Angoulême, Bergerac, Bordeaux, Saint-Émilion and Saint-Girons. Météo France said the “often remarkable, even unprecedented, maximum temperatures” in the region were 12C above the norm for the last few decades. Continue reading...",
-    "date": "2025-08-13T05:00:40.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/0246f81ce6f1de698f5ad9a218048331d7c7f988/389_0_3885_3108/master/3885.jpg?width=700&quality=85&auto=format&fit=max&s=d25cbde74a637ede575a84982c185fe4"
+    "image": "https://images.tagesschau.de/image/cb941d01-104c-43d3-bf14-366c88f508a6/AAABmKID2Xk/AAABmKJZ-0g/16x9-big/hitzeschutz-pflege-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/aug/13/young-carers-lundy-breathing-space-boat-trip-snorkelling",
@@ -51,7 +87,7 @@
     "summary": "Große, versiegelte Parkplätze verstärken die Hitze in Städten. Eine Recherche von FragDenStaat und dem Karlsruher Institut für Technologie zeigt: Vorgaben zur Begrünung fehlen oft oder werden unzureichend kontrolliert. Von Andrea Wieland.",
     "date": "2025-08-13T03:01:28.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/905f62fd-25ce-4ffe-bc92-12306475df6b/AAABmJ129n4/AAABmFUVXVg/16x9-big/parkplatz-braunschweig-100.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/905f62fd-25ce-4ffe-bc92-12306475df6b/AAABmJ129n4/AAABmKJZ-0g/16x9-big/parkplatz-braunschweig-100.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58741",
@@ -243,15 +279,6 @@
     "image": "https://i.guim.co.uk/img/media/18793dbe4ea11f980e77ee70ac9be3b67e3bff11/251_0_3780_3024/master/3780.jpg?width=700&quality=85&auto=format&fit=max&s=3dcaab3aee4802c2f9b5d96a60f070cb"
   },
   {
-    "id": "https://www.carbonbrief.org/?p=58619",
-    "title": "Revealed: ‘Cali Fund’ for nature still empty as emails show industry hesitation",
-    "url": "https://www.carbonbrief.org/revealed-cali-fund-for-nature-still-empty-as-emails-show-industry-hesitation/",
-    "summary": "A major fund for biodiversity remains starved of resources more than five months after its... The post Revealed: ‘Cali Fund’ for nature still empty as emails show industry hesitation appeared first on Carbon Brief.",
-    "date": "2025-08-06T12:07:13.000Z",
-    "source": "Carbon Brief",
-    "image": "https://www.carbonbrief.org/wp-content/uploads/2025/08/3BJXH1A.jpg"
-  },
-  {
     "id": "https://www.theguardian.com/news/audio/2025/aug/06/best-of-2025-so-far-the-great-abandonment-what-happens-to-the-natural-world-when-people-disappear-podcast",
     "title": "Best of 2025 … so far: the great abandonment: what happens to the natural world when people disappear? – podcast",
     "url": "https://www.theguardian.com/news/audio/2025/aug/06/best-of-2025-so-far-the-great-abandonment-what-happens-to-the-natural-world-when-people-disappear-podcast",
@@ -411,7 +438,7 @@
     "summary": "How political feuds overshadowed EU election for the Austrian Greens Euractiv",
     "date": "2024-05-24T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -437,15 +464,6 @@
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalQ0OGFhRWNNdllnS3EtTGZETkllVU51UzhudVhaNWVQZ2RhSlhCcHQ5Uk0td3ZOREFScnpXN25oOG4wUVl6Q3BmbGxfaUN1U2ZITjZNWWFiQUZ0b3JIRzloRlBfclB0WW1jaFE3cUZBR2xBT3ZCbzhKMFdneU9kZ0pwNGFkeW9NeFZfWFpnWDRkdVUtQXQ3amc4dnh1WERHdDRRemx1cTZ5XzBqUE9feG5Hb0N1ams?oc=5",
     "summary": "Food for Thought - How can we reshape our food systems for a sustainable future? Euractiv Events",
     "date": "2023-06-20T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
-    "title": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ?oc=5",
-    "summary": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? Euractiv Events",
-    "date": "2023-02-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -504,15 +522,6 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
-    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
-    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
-    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
-    "date": "2022-02-22T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
     "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
-    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
-    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
-    "date": "2021-11-29T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
