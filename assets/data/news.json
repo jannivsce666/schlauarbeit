@@ -1,5 +1,14 @@
 [
   {
+    "id": "4ecbed4f-15b9-43dd-bb19-c19b3018a9af",
+    "title": "Statistisches Bundesamt: Mehr Kinder im Straßenverkehr gestorben",
+    "url": "https://www.tagesschau.de/inland/gesellschaft/kinder-verkehr-unfaelle-102.html",
+    "summary": "Ob auf dem Fahrrad, zu Fuß oder im Auto der Eltern: Tausende Kinder werden jedes Jahr im Straßenverkehr verletzt - die Zahl der Todesfälle stieg vergangenes Jahr. Besonders der Schulweg stellt laut Statistik ein Risiko dar.",
+    "date": "2025-08-14T08:30:12.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/37997aa8-1068-461a-a2a6-bda721058177/AAABmKejLDw/AAABmKJZ-0g/16x9-big/kinder-schulweg-100.jpg?width=1280"
+  },
+  {
     "id": "f76b3c33-adce-4132-b847-00acd3e50128",
     "title": "Wie viel Treibstoff sich aus Bioabfällen machen lässt",
     "url": "https://www.tagesschau.de/wissen/forschung/pflanzenoel-treibstoff-100.html",
@@ -339,7 +348,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -414,6 +423,15 @@
     "image": null
   },
   {
+    "id": "CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN",
+    "title": "German cabinet approves carbon capture and hydrogen plans - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN?oc=5",
+    "summary": "German cabinet approves carbon capture and hydrogen plans Euractiv",
+    "date": "2024-05-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
     "id": "CBMitwFBVV95cUxPcnR0QnNnOHJ6QXRqSnVrbDBjNWxJNzBsLW4xSExraXdvSVoySUNsVC03eGh0YWUyTU1Na194aDVZb3hxeFFKSmZEN3dZNS00QXVXcEIzUkpWMXF2bnJ4aS1OXzV0RzBIVW4xVlI0cmg0dzVLbXVMS1pGZlFjaWljb0ZzajdvbllXeUxUdFBHaC1BN0w0dUdzMFRyZlB5R2l0RU9kMm1sbXFrTnVEUmE1UjRZeDJadkU",
     "title": "How political feuds overshadowed EU election for the Austrian Greens - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnR0QnNnOHJ6QXRqSnVrbDBjNWxJNzBsLW4xSExraXdvSVoySUNsVC03eGh0YWUyTU1Na194aDVZb3hxeFFKSmZEN3dZNS00QXVXcEIzUkpWMXF2bnJ4aS1OXzV0RzBIVW4xVlI0cmg0dzVLbXVMS1pGZlFjaWljb0ZzajdvbllXeUxUdFBHaC1BN0w0dUdzMFRyZlB5R2l0RU9kMm1sbXFrTnVEUmE1UjRZeDJadkU?oc=5",
@@ -486,15 +504,6 @@
     "image": null
   },
   {
-    "id": "CBMiswFBVV95cUxNWFF2TWoxQm1POXZNcnJfOENNdm1WaEZ1U2dYYzdtcFpXMG9LeWQwSHJhOVNRRFp4aThXdGRlX0tiMkl2UENiZGYzbEFvaU9nUUt0VnVUaFhwRU55ZDA4dUNHVERGQnBXVTVkOUo4bDNGbDhjYzgtbEhTVExQTEZjZWtId1FCLXBZdGpBUllsZmlDR0FjblA3RnVOWktwYmpOZ3UxNm40cGJGVmRZblVfQnVUTQ",
-    "title": "Integration von GAP und Green Deal - Die Zukunft nachhaltiger Landwirtschaft? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFF2TWoxQm1POXZNcnJfOENNdm1WaEZ1U2dYYzdtcFpXMG9LeWQwSHJhOVNRRFp4aThXdGRlX0tiMkl2UENiZGYzbEFvaU9nUUt0VnVUaFhwRU55ZDA4dUNHVERGQnBXVTVkOUo4bDNGbDhjYzgtbEhTVExQTEZjZWtId1FCLXBZdGpBUllsZmlDR0FjblA3RnVOWktwYmpOZ3UxNm40cGJGVmRZblVfQnVUTQ?oc=5",
-    "summary": "Integration von GAP und Green Deal - Die Zukunft nachhaltiger Landwirtschaft? Euractiv Events",
-    "date": "2022-10-26T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw",
     "title": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw?oc=5",
@@ -519,7 +528,7 @@
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
     "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
     "date": "2022-02-22T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
-    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
-    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
-    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
