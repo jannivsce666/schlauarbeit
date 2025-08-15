@@ -1,5 +1,23 @@
 [
   {
+    "id": "ed9ff693-03fa-4bf8-bfa9-ed8269286e0b",
+    "title": "Studie erwartet starken Rückgang bei Rentieren durch Klimawandel",
+    "url": "https://www.tagesschau.de/wissen/klima/rentiere-klimawandel-100.html",
+    "summary": "In den vergangenen Jahrtausenden haben Rentiere immer wieder Phasen von Klimaänderungen überstanden. Die aktuelle Klimaerwärmung setzt ihnen aber wohl stärker zu, zeigt eine Studie. In Teilen der Welt könnten sie fast ganz verschwinden.",
+    "date": "2025-08-15T04:23:53.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/6596ac4e-1162-4ca4-9f1a-0ed6a4e8027d/AAABmKv4TKc/AAABmKJZ-0g/16x9-big/rentier-100.jpg?width=1280"
+  },
+  {
+    "id": "ebb19eb7-74f7-4771-b416-70a10aa2c0bc",
+    "title": "Vier Jahre Taliban-Herrschaft: \"Ich fühle mich wie im Gefängnis\"",
+    "url": "https://www.tagesschau.de/ausland/asien/afghanistan-jahrestag-taliban-100.html",
+    "summary": "Unter den Taliban lebt fast die Hälfte der Bevölkerung Afghanistans in Armut. Die Lage der Frauen hat sich dramatisch verschlechtert. Doch die Isolierung der Taliban beginnt zu bröckeln - vier Jahre nach ihrem Sieg. Von F. Amler.",
+    "date": "2025-08-15T03:27:42.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/f6f34363-3f58-42ba-a606-8428e58bbd68/AAABmKvE3ko/AAABmKJZ-0g/16x9-big/afghanistan-frau-102.jpg?width=1280"
+  },
+  {
     "id": "a3f6a598-00ab-4aed-95ef-4cc7987a2317",
     "title": "Verkehrsminister: \"Bahn soll sauberer, sicherer, pünktlicher werden\"",
     "url": "https://www.tagesschau.de/inland/gesellschaft/interview-tt-schnieder-100.html",
@@ -99,15 +117,6 @@
     "image": "https://images.tagesschau.de/image/37997aa8-1068-461a-a2a6-bda721058177/AAABmKejLDw/AAABmKJZ-0g/16x9-big/kinder-schulweg-100.jpg?width=1280"
   },
   {
-    "id": "f76b3c33-adce-4132-b847-00acd3e50128",
-    "title": "Wie viel Treibstoff sich aus Bioabfällen machen lässt",
-    "url": "https://www.tagesschau.de/wissen/forschung/pflanzenoel-treibstoff-100.html",
-    "summary": "Biodiesel aus altem Frittierfett herstellen oder Ernteabfälle zu Ethanol umwandeln. Das klingt nach einer guten, nachhaltigen Idee. Doch welches Potenzial haben Bioabfälle als Rohstoff für Benzin und Diesel? Von A. Dannecker.",
-    "date": "2025-08-14T04:05:01.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/6e3c175c-068e-42f4-bf33-d78cf8830a3a/AAABmJ3KrbA/AAABmKJZ-0g/16x9-big/pommes-110.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/commentisfree/2025/aug/14/spanish-people-deadly-heatwaves-annual-event-politicians-denial",
     "title": "Spanish people know deadly heatwaves are now an annual event. So why are our politicians in denial? | María Ramírez",
     "url": "https://www.theguardian.com/commentisfree/2025/aug/14/spanish-people-deadly-heatwaves-annual-event-politicians-denial",
@@ -115,15 +124,6 @@
     "date": "2025-08-14T04:00:22.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/3a37646917685478c1b4fa133b6554a6fdb8748e/181_0_4078_3262/master/4078.jpg?width=700&quality=85&auto=format&fit=max&s=63b8a203f85abf6fb987f995b8b29ab0"
-  },
-  {
-    "id": "bb074818-0a95-4aaa-b493-7bc70079b3fa",
-    "title": "Heizungsgesetz der Ampel: Was aus der Förderung von Wärmepumpen wird",
-    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/waermepumpe-foerderung-klimaanlage-heizung-100.html",
-    "summary": "Das Heizungsgesetz der Ampelkoalition sorgte für Aufregung. Mit Strom aus Erneuerbaren betrieben, galt die Wärmepumpe als Mittel der Wahl und wurde vom Staat bezuschusst. Wird die Förderung nun gestrichen? Von Christin Jordan.",
-    "date": "2025-08-14T02:45:43.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5ce3ddad-98d8-41af-bd42-2b35ecc15c6c/AAABl_jwMuY/AAABmKJZ-0g/16x9-big/waermepumpe-200.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/aug/13/trump-order-rocket-launches-musk-bezos",
