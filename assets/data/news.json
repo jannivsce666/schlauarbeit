@@ -117,15 +117,6 @@
     "image": "https://images.tagesschau.de/image/f6f34363-3f58-42ba-a606-8428e58bbd68/AAABmKvE3ko/AAABmKJZ-0g/16x9-big/afghanistan-frau-102.jpg?width=1280"
   },
   {
-    "id": "a3f6a598-00ab-4aed-95ef-4cc7987a2317",
-    "title": "Verkehrsminister: \"Bahn soll sauberer, sicherer, pünktlicher werden\"",
-    "url": "https://www.tagesschau.de/inland/gesellschaft/interview-tt-schnieder-100.html",
-    "summary": "Bundesverkehrsminister Schnieder hat in den tagesthemen einen Strategiewechsel bei der Bahn angekündigt. Neuer Kurs, neue Führung, mehr Pünktlichkeit und Sicherheit sollen kommen. Schon bald sollen die geplanten Maßnahmen vorgestellt werden.",
-    "date": "2025-08-14T20:13:42.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/32a05902-22a3-4659-98de-f8f736fec671/AAABmKoSaoo/AAABmKJZ-0g/16x9-big/sendungsbild-1594970.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/aug/14/geneva-plastics-treaty-negotiations-un-final-day",
     "title": "Countries urged to ‘hold the line’ in Geneva plastics treaty negotiations",
     "url": "https://www.theguardian.com/environment/2025/aug/14/geneva-plastics-treaty-negotiations-un-final-day",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
     "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
     "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
+    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
+    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
+    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
