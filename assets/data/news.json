@@ -63,15 +63,6 @@
     "image": "https://i.guim.co.uk/img/media/d486d33562020ad1597a3c36e3540035c6422c40/415_0_1480_1185/master/1480.jpg?width=700&quality=85&auto=format&fit=max&s=2ff82a4a8a43e54e000c54eed61e3a13"
   },
   {
-    "id": "e759edbd-9fe1-4bfc-a40e-ec4dbc7cfe8a",
-    "title": "Spanien kämpft weiter gegen schwere Waldbrände",
-    "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-sanchez-100.html",
-    "summary": "Mehr als Tausend Quadratkilometer Fläche haben schwere Waldbrände in Spanien bereits zerstört. Ministerpräsident Sánchez besuchte nun die betroffenen Gebiete - und will die Klimakrise ganz oben auf die politische Agenda setzen.",
-    "date": "2025-08-17T16:17:53.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/25e47547-aeed-4e02-b04f-02a02dbf7967/AAABmLiS1hA/AAABmKJZ-0g/16x9-big/spanien-562.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/aug/17/golden-eagles-poised-reintroduction-england",
     "title": "Golden eagles poised for reintroduction in England",
     "url": "https://www.theguardian.com/environment/2025/aug/17/golden-eagles-poised-reintroduction-england",
@@ -88,15 +79,6 @@
     "date": "2025-08-17T13:00:30.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/c6f276f927b52048e56760c2f1e02429d2ea972e/551_0_5077_4064/master/5077.jpg?width=700&quality=85&auto=format&fit=max&s=6afb564c68e6af17f9aa4d27ecbdd2b4"
-  },
-  {
-    "id": "30f799f7-5a02-4cd6-95b2-03e44cdb2a52",
-    "title": "Deutsche Umwelthilfe: Zu wenige Sonderspuren für Busse",
-    "url": "https://www.tagesschau.de/inland/busspuren-nahverkehr-umwelthilfe-100.html",
-    "summary": "In den meisten deutschen Großstädten wird der Busverkehr ausgebremst: Es gebe zu wenige eigene Spuren für Busse, kritisiert die Deutsche Umwelthilfe. Dabei seien diese ein wichtiger Bestandteil der Mobilitätswende.",
-    "date": "2025-08-17T10:56:04.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/89045d82-5cd5-46ad-8f91-73911add30ee/AAABlpITK5s/AAABmKJZ-0g/16x9-big/tagesschau-logo-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/video/2025/aug/15/injured-dolphin-surprises-family-on-morning-swim-in-dorset-video",
@@ -375,7 +357,7 @@
     "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
     "date": "2025-01-05T14:31:59.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN",
@@ -447,7 +429,7 @@
     "summary": "How political feuds overshadowed EU election for the Austrian Greens Euractiv",
     "date": "2024-05-24T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -538,5 +520,23 @@
     "date": "2022-05-19T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
+  },
+  {
+    "id": "CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA",
+    "title": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA?oc=5",
+    "summary": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 Euractiv Events",
+    "date": "2022-04-29T23:49:03.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
+    "id": "CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc",
+    "title": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
+    "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
+    "date": "2022-03-28T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   }
 ]
