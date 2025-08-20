@@ -1,5 +1,23 @@
 [
   {
+    "id": "ae2257c7-903a-4e08-b1c0-ad9bb73df74b",
+    "title": "Marktbericht: Der Schwung ist raus",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-powell-trump-nasdaq-tech-aktien-100.html",
+    "summary": "Schwindende Friedenshoffnungen und eine anhaltende Zinsdiskussion machten den Börsen zur Wochenmitte zu schaffen. Während der DAX einknickte, zeigten sich die US-Börsen unentschlossen.",
+    "date": "2025-08-20T20:09:19.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/c3d8308c-1e70-41c0-abcf-cd693f94f372/AAABlq__YLc/AAABmKJZ-0g/16x9-big/nyse-404.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2025/aug/20/california-extreme-heat-wave",
+    "title": "Californians brace for worst multiday heatwave of the year",
+    "url": "https://www.theguardian.com/us-news/2025/aug/20/california-extreme-heat-wave",
+    "summary": "Temperatures are expected to spike with a trio of heat, thunderstorms and fire risks compounding dangers Californians are bracing for the first major heatwave of the year, a multiday scorcher that could pose significant threats to public health and sharply heighten wildfire risks. After a notably cooler summer, temperatures are expected to spike across the American south-west starting on Wednesday and extending through the weekend, as severe conditions expand north along the coast into British Columbia by the end of the week. Continue reading...",
+    "date": "2025-08-20T19:12:43.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/1ba7c4bf61a0daa508fd107befec20fcb6d6dfc3/619_0_3687_2950/master/3687.jpg?width=700&quality=85&auto=format&fit=max&s=354fad07bedf02b2879d29543af0d14b"
+  },
+  {
     "id": "35bf11f2-dcbd-4f9f-ba8d-06ddd5a6171b",
     "title": "Kühlbeton - Innovation gegen Hitze in Gebäuden",
     "url": "https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html",
@@ -187,15 +205,6 @@
     "date": "2025-08-18T09:00:28.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/c78d9f0db72e9bacf04ff2cd1170a4a9f13f3b77/269_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=88c6d2cfadf4ee10706a0c8e63c28b3d"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2025/aug/15/jd-vance-lake-water-levels-ohio",
-    "title": "Secret Service and US military engineers face scrutiny over raising river water level for Vance’s birthday",
-    "url": "https://www.theguardian.com/us-news/2025/aug/15/jd-vance-lake-water-levels-ohio",
-    "summary": "Senator Adam Schiff suggests in letter that use of funds to alter outflow of lake for personal use may have been inappropriate The US Secret Service and US military engineers are facing scrutiny after Adam Schiff, the California senator, demanded they answer questions about the Trump administration’s recent decision to change the water level of a lake in Ohio to facilitate a family boating trip for JD Vance on his birthday. The Secret Service has said that it requested the outflow of the Caesar Creek Lake in Ohio be changed shortly before the vice-president’s 2 August trip so that his security detail could safely navigate the Little Miami River, which the lake feeds into. The story was first reported by the Guardian last week. Continue reading...",
-    "date": "2025-08-15T16:54:57.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/7850968a28dc1de8a9078913da28a97adfd3341a/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=7604ed73e33eada3cd730952c4917429"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/aug/15/plastic-pollution-talks-geneva-treaty",
@@ -393,7 +402,7 @@
     "summary": "German cabinet approves carbon capture and hydrogen plans Euractiv",
     "date": "2025-01-03T16:10:45.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFF2TWoxQm1POXZNcnJfOENNdm1WaEZ1U2dYYzdtcFpXMG9LeWQwSHJhOVNRRFp4aThXdGRlX0tiMkl2UENiZGYzbEFvaU9nUUt0VnVUaFhwRU55ZDA4dUNHVERGQnBXVTVkOUo4bDNGbDhjYzgtbEhTVExQTEZjZWtId1FCLXBZdGpBUllsZmlDR0FjblA3RnVOWktwYmpOZ3UxNm40cGJGVmRZblVfQnVUTQ?oc=5",
     "summary": "Integration von GAP und Green Deal - Die Zukunft nachhaltiger Landwirtschaft? Euractiv Events",
     "date": "2022-10-26T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw",
-    "title": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw?oc=5",
-    "summary": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING Euractiv Events",
-    "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
