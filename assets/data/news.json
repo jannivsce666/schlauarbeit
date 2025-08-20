@@ -1,5 +1,32 @@
 [
   {
+    "id": "c79bc0bd-9b98-438f-bf91-c34771d2d2fe",
+    "title": "Ex-Verkehrsminister Scheuer wegen Falschaussage angeklagt",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/anklage-scheuer-falschaussage-100.html",
+    "summary": "Die Berliner Staatsanwaltschaft hat Anklage gegen den ehemaligen Bundesverkehrsminister Scheuer erhoben. Sie wirft ihm vor, bei einer Befragung im Bundestag 2020 zu den Plänen der letztlich gescheiterten Pkw-Maut falsch ausgesagt zu haben.",
+    "date": "2025-08-20T09:26:29.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/5836911d-fa61-4d77-9eaf-aad182e01803/AAABleWer7M/AAABmKJZ-0g/16x9-big/andreas-scheuer-120.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/20/rise-whale-marine-mammal-strandings-scotland",
+    "title": "Dramatic rise in whale and marine mammal strandings in Scotland",
+    "url": "https://www.theguardian.com/environment/2025/aug/20/rise-whale-marine-mammal-strandings-scotland",
+    "summary": "University of Glasgow research shows steep increases over past 30 years, after summer of strandings across Europe The number of marine mammals stranded in Scotland has risen dramatically in the past 30 years, a study has found. From 1992 to 2022, 5,147 cetaceans died on Scottish shores, and a new paper shows steep increases in the rate of strandings of up to 800% in some species, continuing exponentially every year. Continue reading...",
+    "date": "2025-08-20T09:00:17.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/93e4cc93f927c4cd2a3e8ca61930e25b158a7357/0_896_1280_1024/master/1280.jpg?width=700&quality=85&auto=format&fit=max&s=f2ee032aeb4b24826c424c104318c24f"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/20/morecambe-life-gen-z-left-behind-amenities-young-people-seaside-town",
+    "title": "‘It has echoes of happiness’: life for gen Z in the seaside town I once called home",
+    "url": "https://www.theguardian.com/environment/2025/aug/20/morecambe-life-gen-z-left-behind-amenities-young-people-seaside-town",
+    "summary": "The Guardian’s former north of England editor returned to Morecambe after 25 years to discover the place where she grew up has even fewer amenities for young people – and the feeling of being ‘left behind’ is stronger than ever Photographs by Polly Braden If you had asked me as a teenager whether I saw my future in Morecambe, I’d have laughed you out of our faded seaside town. I’d been plotting my escape since I was 14. The sea was grey, the sand was treacherous and the wind was always messing up my hair. I was totally unmoved by the view across the bay of the Lake District fells. It felt like half of the world was cut off. You could go left or right on the prom but never straight ahead, unless you wanted to end up stuck in mud waving frantically for the coastguard. A whole compass point was out of reach. Continue reading...",
+    "date": "2025-08-20T09:00:17.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/f7eb6a9f0ec90a80ad81f83f2a0458a512d4d620/222_0_9338_7470/master/9338.jpg?width=700&quality=85&auto=format&fit=max&s=9c95b397cf8c699b2197a8dca38aa7d6"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/aug/20/slowdown-in-melting-of-arctic-sea-ice-surprises-scientists",
     "title": "Dramatic slowdown in melting of Arctic sea ice surprises scientists",
     "url": "https://www.theguardian.com/environment/2025/aug/20/slowdown-in-melting-of-arctic-sea-ice-surprises-scientists",
@@ -16,15 +43,6 @@
     "date": "2025-08-20T07:37:22.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/d89900a6-0df7-40ac-86e8-5b48d502bb0f/AAABlgPqKls/AAABmKJZ-0g/16x9-big/boerse-225.jpg?width=1280"
-  },
-  {
-    "id": "c79bc0bd-9b98-438f-bf91-c34771d2d2fe",
-    "title": "Ex-Verkehrsminister Scheuer wegen Falschaussage angeklagt",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/anklage-scheuer-falschaussage-100.html",
-    "summary": "Die Berliner Staatsanwaltschaft hat Anklage gegen den ehemaligen Bundesverkehrsminister Scheuer erhoben. Sie wirft ihm vor, bei einer Befragung im Bundestag 2020 zu den Plänen der letztlich gescheiterten Pkw-Maut falsch ausgesagt zu haben.",
-    "date": "2025-08-20T06:59:11.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5836911d-fa61-4d77-9eaf-aad182e01803/AAABleWer7M/AAABmKJZ-0g/16x9-big/andreas-scheuer-120.jpg?width=1280"
   },
   {
     "id": "10227831-d743-4968-8354-411970047bdb",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
-    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
-    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
-    "date": "2022-02-22T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
-    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
-    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
-    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
