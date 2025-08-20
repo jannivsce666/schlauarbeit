@@ -1,5 +1,23 @@
 [
   {
+    "id": "35bf11f2-dcbd-4f9f-ba8d-06ddd5a6171b",
+    "title": "Kühlbeton - Innovation gegen Hitze in Gebäuden",
+    "url": "https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html",
+    "summary": "Beton, der Sonnenlicht reflektiert und so Gebäude und Straßen abkühlen kann - eine Innovation im Bereich der Klimaanpassung. Das internationale Forscherteam hat seine Ergebnisse jetzt veröffentlicht. Von Pascal Kiss.",
+    "date": "2025-08-20T18:00:15.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/0527ce44-fd30-4f48-999c-3f021a4253c0/AAABmMd1-EE/AAABmKJZ-0g/16x9-big/gebaeude-projekt-photokrete-100.jpg?width=1280"
+  },
+  {
+    "id": "32128a7a-ab1e-4058-bb75-3aac5565f063",
+    "title": "Alltag im Donbass: \"Wenn Putin Frieden wollte, würde hier Stille herrschen\"",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-donbass-putin-trump-100.html",
+    "summary": "Ungeachtet aller diplomatischen Bemühungen setzt Russland seinen Krieg fort: Soldaten werden gezielt beim Training angegriffen - und auch die Zivilbevölkerung lebt in ständiger Angst vor dem nächsten Drohnenangriff. Von Susanne Petersohn.",
+    "date": "2025-08-20T17:20:45.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/d9ff6c8e-dad9-4a3d-88ce-0abc538b9e69/AAABmMf-ZqM/AAABmKJZ-0g/16x9-big/soldaten-training-100.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
     "title": "Hurricane Erin pounds US east coast as residents brace for ‘life-threatening’ waves",
     "url": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
@@ -15,7 +33,7 @@
     "summary": "Im Rechtsstreit mit der Lufthansa um Zubringerflüge hat der Ferienflieger Condor eine Niederlage erlitten. Die Lufthansa muss Condor-Passagiere nicht bevorzugen. Das hat das Oberlandsgericht Düsseldorf entschieden.",
     "date": "2025-08-20T13:06:54.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/0d26fab3-b05e-4bc7-ac23-4bf4c440c501/AAABmMdpNGw/AAABmKJZ-0g/16x9-big/lufthansa-condor-102.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/0d26fab3-b05e-4bc7-ac23-4bf4c440c501/AAABmMh5yo4/AAABmKJZ-0g/16x9-big/lufthansa-condor-102.jpg?width=1280"
   },
   {
     "id": "3346587a-d745-45ed-b806-8cba45ae5d00",
@@ -96,7 +114,7 @@
     "summary": "Finanzminister Klingbeil hat mit seiner Äußerung zu möglichen Steuererhöhungen für Reiche Empörung in der Union ausgelöst. Der Koalitionspartner fordert Einsparungen. CSU-Generalsekretär Huber nahm die Wärmepumpen-Förderung in den Blick.",
     "date": "2025-08-20T05:33:01.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/4a89feb8-43cd-4e7b-b2ba-e504c7bc2f72/AAABmMXm304/AAABmKJZ-0g/16x9-big/martin-huber-102.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/4a89feb8-43cd-4e7b-b2ba-e504c7bc2f72/AAABmMiAadM/AAABmKJZ-0g/16x9-big/huber-138.jpg?width=1280"
   },
   {
     "id": "e9eb7edb-39a7-4209-a1a3-cc129ee3d281",
@@ -115,15 +133,6 @@
     "date": "2025-08-19T23:57:06.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/dddac8a656b5215e0be14dd446b017424d7e1a78/202_0_2734_2189/master/2734.jpg?width=700&quality=85&auto=format&fit=max&s=014daf078467a19d1ce19ade3127b642"
-  },
-  {
-    "id": "a4e39581-c39b-4d14-8dab-105dc8c3790a",
-    "title": "Wetterwechsel und Helfer aus Europa: Aufatmen in Spaniens Waldbrandgebieten",
-    "url": "https://www.tagesschau.de/ausland/europa/waldbraende-spanien-112.html",
-    "summary": "Eine Fläche von der Größe Mallorcas ist bei den Waldbränden in Spanien verbrannt. Doch nun ist Entspannung in Sicht: Ende der Hitze und teils sogar Regen. Die Regierung verspricht einen Pakt gegen den Klimanotstand. Von L. Muckelberg.",
-    "date": "2025-08-19T22:54:51.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/3e96fd01-1540-47d8-82ba-078409dd32e6/AAABmMSK3W4/AAABmKJZ-0g/16x9-big/waldbraende-spanien-116.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58794",
@@ -529,14 +538,5 @@
     "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
-  },
-  {
-    "id": "CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA",
-    "title": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA?oc=5",
-    "summary": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 Euractiv Events",
-    "date": "2022-04-29T23:49:03.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   }
 ]
