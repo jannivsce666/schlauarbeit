@@ -108,15 +108,6 @@
     "image": "https://images.tagesschau.de/image/c3d8308c-1e70-41c0-abcf-cd693f94f372/AAABlq__YLc/AAABmKJZ-0g/16x9-big/nyse-404.jpg?width=1280"
   },
   {
-    "id": "35bf11f2-dcbd-4f9f-ba8d-06ddd5a6171b",
-    "title": "Kühlbeton - Innovation gegen Hitze in Gebäuden",
-    "url": "https://www.tagesschau.de/wissen/forschung/kuehlender-beton-100.html",
-    "summary": "Beton, der Sonnenlicht reflektiert und so Gebäude und Straßen abkühlen kann - eine Innovation im Bereich der Klimaanpassung. Ein internationales Forscherteam hat seine Ergebnisse jetzt veröffentlicht. Von Pascal Kiss.",
-    "date": "2025-08-20T18:00:15.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/0527ce44-fd30-4f48-999c-3f021a4253c0/AAABmMd1-EE/AAABmKJZ-0g/16x9-big/gebaeude-projekt-photokrete-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
     "title": "Hurricane Erin pounds US east coast as residents brace for ‘life-threatening’ waves",
     "url": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
     "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
     "date": "2022-01-27T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk",
+    "title": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
+    "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
+    "date": "2021-12-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
