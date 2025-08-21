@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theguardian.com/environment/2025/aug/21/light-pollution-causes-urban-birds-to-stay-awake-longer-each-day-study-finds",
+    "title": "Light pollution causes urban birds to stay awake longer each day, study finds",
+    "url": "https://www.theguardian.com/environment/2025/aug/21/light-pollution-causes-urban-birds-to-stay-awake-longer-each-day-study-finds",
+    "summary": "Researchers ‘shocked’ to discover some species settling down for sleep 50 minutes later than rural counterparts Urban birds stay up significantly later than their rural counterparts, according to research that highlights the impact of light pollution on wildlife. The study, based on recordings submitted by bird enthusiasts to a popular species identification and mapping website, showed that light pollution caused birds to sing for an average of 50 minutes longer each day, with some species waking up an hour earlier and settling down for the evening an hour later. Continue reading...",
+    "date": "2025-08-21T18:00:09.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/2ed705b4db38ba64426abb9368d10d2bb4422f48/66_0_4037_3230/master/4037.jpg?width=700&quality=85&auto=format&fit=max&s=daa8cbd0684cc49925b86a81060bb703"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/aug/22/victoria-mountain-ash-forests-could-lose-quarter-giant-trees-temperatures-rise",
     "title": "Victoria’s mountain ash forests could lose a quarter of ‘giant’ trees as temperatures rise",
     "url": "https://www.theguardian.com/environment/2025/aug/22/victoria-mountain-ash-forests-could-lose-quarter-giant-trees-temperatures-rise",
@@ -43,15 +52,6 @@
     "date": "2025-08-21T14:04:31.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2021/05/website-masthead-new-1024x683.png"
-  },
-  {
-    "id": "https://www.theguardian.com/uk-news/2025/aug/21/eden-project-wildflower-centre-issues-climate-warning-as-it-marks-25th-year",
-    "title": "Eden Project wildflower centre issues climate warning as it marks 25th year",
-    "url": "https://www.theguardian.com/uk-news/2025/aug/21/eden-project-wildflower-centre-issues-climate-warning-as-it-marks-25th-year",
-    "summary": "Changing weather patterns are affecting planting and pose a threat to a variety of species, says head of development Rising temperatures in the spring and unpredictable autumns are making the huge task of restoring the UK’s lost meadows even more challenging, the National Wildflower Centre (NWC) has warned. The centre, which is celebrating its 25th anniversary next month, champions projects aimed at reviving wildflower-rich meadows, 97% of which have been lost in the past 80 years. Continue reading...",
-    "date": "2025-08-21T11:27:59.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/27caf02881ecc931b4c0a7b716a887a509acd73b/276_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=b0aa2339655116d50509ca4e4f97325d"
   },
   {
     "id": "ea2361f2-787f-4e46-99c9-0943a88891f1",
@@ -115,15 +115,6 @@
     "date": "2025-08-20T18:00:15.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/0527ce44-fd30-4f48-999c-3f021a4253c0/AAABmMd1-EE/AAABmKJZ-0g/16x9-big/gebaeude-projekt-photokrete-100.jpg?width=1280"
-  },
-  {
-    "id": "32128a7a-ab1e-4058-bb75-3aac5565f063",
-    "title": "Alltag im Donbass: \"Wenn Putin Frieden wollte, würde hier Stille herrschen\"",
-    "url": "https://www.tagesschau.de/ausland/europa/ukraine-donbass-putin-trump-100.html",
-    "summary": "Ungeachtet aller diplomatischen Bemühungen setzt Russland seinen Krieg fort: Soldaten werden gezielt beim Training angegriffen - und auch die Zivilbevölkerung lebt in ständiger Angst vor dem nächsten Drohnenangriff. Von Susanne Petersohn.",
-    "date": "2025-08-20T17:20:45.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/d9ff6c8e-dad9-4a3d-88ce-0abc538b9e69/AAABmMf-ZqM/AAABmKJZ-0g/16x9-big/soldaten-training-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/aug/20/hurricane-erin-east-coast-storm-surge",
@@ -348,7 +339,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -358,6 +349,15 @@
     "date": "2025-03-05T16:00:01.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/396ff37ba9bc554dc9642a466a3ae59781c33fa7/0_19_3000_1802/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=06645ff093b784e21dc2ccb9f13f5beb"
+  },
+  {
+    "id": "CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN",
+    "title": "German cabinet approves carbon capture and hydrogen plans - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN?oc=5",
+    "summary": "German cabinet approves carbon capture and hydrogen plans Euractiv",
+    "date": "2025-01-03T16:10:45.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
@@ -412,15 +412,6 @@
     "date": "2024-05-31T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
-  },
-  {
-    "id": "CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN",
-    "title": "German cabinet approves carbon capture and hydrogen plans - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN?oc=5",
-    "summary": "German cabinet approves carbon capture and hydrogen plans Euractiv",
-    "date": "2024-05-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
     "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
     "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
+    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
+    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
+    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
