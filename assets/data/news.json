@@ -18,15 +18,6 @@
     "image": "https://i.guim.co.uk/img/media/655154b216bca5de341e748c2dd65ef8fc2ed871/724_0_7211_5773/master/7211.jpg?width=700&quality=85&auto=format&fit=max&s=d91b23e7b93238e5b5a268c5f664e5c4"
   },
   {
-    "id": "df0469b3-c1bc-48ca-a788-70a6244d37e0",
-    "title": "Marktbericht: Anleger riskieren vor Powell-Rede nichts",
-    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-jackson-hole-fed-powell-aktien-gold-oel-100.html",
-    "summary": "Der Höhepunkt der Börsenwoche steht unmittelbar bevor: Am Nachmittag äußert sich US-Notenbankchef Powell zur Geldpolitik der Notenbank. Wie tief lässt sich Powell dabei in die Karten schauen?",
-    "date": "2025-08-22T13:58:16.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/a6a38c7b-bc14-4a02-9539-8b05813d18a4/AAABlh9A_m0/AAABmKJZ-0g/16x9-big/boerse-416.jpg?width=1280"
-  },
-  {
     "id": "https://www.carbonbrief.org/?p=58828",
     "title": "DeBriefed 22 August 2025: Pakistan floods; China emissions drop; Climate-adaptive architecture",
     "url": "https://www.carbonbrief.org/debriefed-22-august-2025-pakistan-floods-china-emissions-drop-climate-adaptive-architecture/",
@@ -97,6 +88,15 @@
     "date": "2025-08-21T14:04:31.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2021/05/website-masthead-new-1024x683.png"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/21/jh-campbell-coal-power-plant-michigan-trump-administation",
+    "title": "A coal-fired plant in Michigan was to close. But Trump forced it to keep running at $1m a day",
+    "url": "https://www.theguardian.com/environment/2025/aug/21/jh-campbell-coal-power-plant-michigan-trump-administation",
+    "summary": "A town had big plans for the facility site, until the Trump administration ordered it to stay open, a move it extended this week Donald Trump has made several unusual moves to elongate the era of coal, such as giving the industry exemptions from pollution rules. But the gambit to keep one Michigan coal-fired power station running has been extraordinary – by forcing it to remain open even against the wishes of its operator. The hulking JH Campbell power plant, which since 1962 has sat a few hundred yards from the sand dunes at the edge of Lake Michigan, was just eight days away from a long-planned closure in May when Trump’s Department of Energy issued an emergency order that it remain open for a further 90 days. Continue reading...",
+    "date": "2025-08-21T12:16:34.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/7a67b465b2dd4500ae87a6600254560756e6696e/640_0_4223_3378/master/4223.jpg?width=700&quality=85&auto=format&fit=max&s=ef59cbf10b7c92b7e9d9c5bca4537907"
   },
   {
     "id": "https://www.theguardian.com/artanddesign/gallery/2025/aug/21/psychedelic-rock-glass-mountain-michael-lundgren",
@@ -178,15 +178,6 @@
     "date": "2025-08-19T23:57:06.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/dddac8a656b5215e0be14dd446b017424d7e1a78/202_0_2734_2189/master/2734.jpg?width=700&quality=85&auto=format&fit=max&s=014daf078467a19d1ce19ade3127b642"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2025/aug/19/electricity-bills-increase-trump",
-    "title": "Trump tariffs and green energy rollbacks push household electricity bills up 10%",
-    "url": "https://www.theguardian.com/us-news/2025/aug/19/electricity-bills-increase-trump",
-    "summary": "US energy secretary said energy prices could hurt GOP in midterms, but blamed Democrats for price increases Household electricity bills have increased by 10% since Donald Trump re-entered the White House, a new report has found, with its authors highlighting the impact of the president’s datacenter boosterism and cuts to clean energy projects as part of the cause. The analysis comes as the US energy secretary, Chris Wright, said he knows rising energy prices could be a political challenge for the GOP ahead of next year’s midterm elections, but claimed Democrats were to blame for the cost increases. Continue reading...",
-    "date": "2025-08-19T22:12:53.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/385e534e6e7dfee0d8a19137167b32249f8e95b5/278_0_4282_3424/master/4282.jpg?width=700&quality=85&auto=format&fit=max&s=f02a70afc8a877f7480e70ab4b021620"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58794",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
     "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
     "date": "2021-10-26T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
+    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
+    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
+    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
