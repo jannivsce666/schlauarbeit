@@ -63,15 +63,6 @@
     "image": "https://i.guim.co.uk/img/media/a507531a55ca882affdb1c4315f9729cb9bf85d6/562_0_5624_4504/master/5624.jpg?width=700&quality=85&auto=format&fit=max&s=acaf0fe181e5c10cc9f9a6a2434cf0ac"
   },
   {
-    "id": "fc255b0d-8d4d-4495-85ab-02287a7032ea",
-    "title": "Außenminister und Außenkanzler: Welche Rolle hat Wadephul neben Merz?",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/wadephul-merz-aussenminister-100.html",
-    "summary": "Außenminister Wadephul reiste in dieser Woche durch Asien - während des Ukraine-Gipfels in den USA. Kanzler Merz zeigte sich dort in diplomatischer Mission. Was ist Wadephuls Rolle neben dem Außenkanzler? Von Evi Seibert.",
-    "date": "2025-08-22T14:20:45.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e0e51fa3-bb09-448c-bd26-d74f279ac069/AAABmNExX_A/AAABmKJZ-0g/16x9-big/wadephul-merz-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.carbonbrief.org/?p=58828",
     "title": "DeBriefed 22 August 2025: Pakistan floods; China emissions drop; Climate-adaptive architecture",
     "url": "https://www.carbonbrief.org/debriefed-22-august-2025-pakistan-floods-china-emissions-drop-climate-adaptive-architecture/",
@@ -393,7 +384,7 @@
     "summary": "Food for Thought - How can we reshape our food systems for a sustainable future? Euractiv Events",
     "date": "2023-06-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMirgFBVV95cUxOS0JCRzRUSHNZcXk0dXZFd2pvYlFZcVlFTzZlSElpRXhYX25hTXZBVmJCMWMyYkJCNEJ5MzJFSkpwUkI3ZkMyUHdqQzZ2RDBycjdOSGNZdW45TWNHNzFULWNMUDJoQWNZcUNuUm11WWdTNjZTTUtSUzdsWmdFbXM1LXVKVUhmMHFLUHV1a1duN2FVaXlsdDBxM0J3dGtfR2MyNl96Z1owMWQ1OFlfUEE",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEpSczU0NWZlVm0wa3U0VFpvTExSUDZrOV9RZmNCa0VfTnhLLXhNYk1ORXhCb3JGNTNBUFRTaUJBN0ZfcGN1UFJ3cG9Tcl9WaUZ5eUZXc2NNQ3ZTSEpGTXF2Ry1FRFBzR053NnZ6Tl9oOEF1LWFzWHdsaFBmVTJVZ1FXTVNiTXloVUFNUXZFMHJLU3E1bUE3LUZPY2F2MFFrSF9yZE0yU2NOcmc?oc=5",
     "summary": "Media Partnership - The road to COP26: is beef a climate change villain? Euractiv Events",
     "date": "2021-09-22T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisAFBVV95cUxOQXNVSDZyWDgxLV83S0lWRERoamNHd3N4cVlLVzJvVkhfdGhFM1AtVjlWdXBCd2hHSVpBcGJkZmR3RTlGR3ZxNGx3MXJ5UnF1SnFReUM1ZGU1RlJSd3JyTWM2WFMtSUMwZ05hRDkxNzZzNzZaUUNWUVhWX01SWFpYZDJwZXdmVllzVWh6S21WUGdrNEVJTThUZjJpZFBYWHY1NUVKRnFzWGxrZmNGYXpESQ",
+    "title": "EU policies for healthy food environments – What role for all stakeholders? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXNVSDZyWDgxLV83S0lWRERoamNHd3N4cVlLVzJvVkhfdGhFM1AtVjlWdXBCd2hHSVpBcGJkZmR3RTlGR3ZxNGx3MXJ5UnF1SnFReUM1ZGU1RlJSd3JyTWM2WFMtSUMwZ05hRDkxNzZzNzZaUUNWUVhWX01SWFpYZDJwZXdmVllzVWh6S21WUGdrNEVJTThUZjJpZFBYWHY1NUVKRnFzWGxrZmNGYXpESQ?oc=5",
+    "summary": "EU policies for healthy food environments – What role for all stakeholders? Euractiv Events",
+    "date": "2021-07-05T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
