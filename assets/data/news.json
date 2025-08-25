@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theguardian.com/australia-news/2025/aug/25/what-is-happening-with-australias-emissions-electricity-is-improving-transport-is-not",
+    "title": "What is happening with Australia’s emissions? Electricity is improving. Transport is not",
+    "url": "https://www.theguardian.com/australia-news/2025/aug/25/what-is-happening-with-australias-emissions-electricity-is-improving-transport-is-not",
+    "summary": "According to latest government figures, heat-trapping pollution dropped by 1.4% in the year to March Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government was hit with sharp criticism in May when – despite its promise that it would take serious action – the country’s greenhouse gas emissions were revealed to have slightly increased last year. New data for the year to March suggest this has now changed. According to a climate department quarterly inventory, heat-trapping pollution dropped by 1.4%. Continue reading...",
+    "date": "2025-08-25T07:27:21.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/027e74e4e91d0ea2ba491783d870e5902d400d18/734_0_3804_3044/master/3804.jpg?width=700&quality=85&auto=format&fit=max&s=27a8554f34a22a1a380c808d1325763e"
+  },
+  {
     "id": "9fd9be17-277c-4b4b-aff9-99d40b339cd2",
     "title": "Chinas Evergrande-Konzern von der Börse genommen",
     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/evergrande-boerse-100.html",
@@ -7,15 +16,6 @@
     "date": "2025-08-25T06:17:56.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/2538100b-7de9-4756-b8de-ce65bc35176f/AAABleX1Aps/AAABmKJZ-0g/16x9-big/evergrande-154.jpg?width=1280"
-  },
-  {
-    "id": "019e3d37-d206-4ce8-9ce9-742dfa7ec6f5",
-    "title": "Marktbericht: DAX zum Start tiefer erwartet",
-    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-boerse-100.html",
-    "summary": "Anleger hoffen nach den jüngsten Aussagen von Fed-Chef Powell auf Zinssenkungen in den USA. Während das den Dow Jones auf ein neues Rekordhoch gehievt hat, fehlt es dem deutschen Aktienindex weiter an Dynamik.",
-    "date": "2025-08-25T05:54:53.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/0c538a20-c49d-4fd5-9bc1-ad71691ceff9/AAABl2mblk0/AAABmKJZ-0g/16x9-big/boerse-436.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/commentisfree/picture/2025/aug/25/net-zero-its-not-even-a-real-thing-so-why-does-everyone-hate-it",
@@ -61,15 +61,6 @@
     "date": "2025-08-24T10:53:33.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/9392dd74d7c64a65e0cc82235222adf93f3af313/586_0_3811_3049/master/3811.jpg?width=700&quality=85&auto=format&fit=max&s=2722c37b4ad0d2032ee2904178738f20"
-  },
-  {
-    "id": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
-    "title": "UK carmakers claimed leaving EV sales rules unchanged would cost jobs and investment",
-    "url": "https://www.theguardian.com/business/2025/aug/24/uk-carmakers-ev-sales-rules-zev-mandate",
-    "summary": "BMW, Jaguar Land Rover, Nissan and Toyota lobbied against zero emission vehicle mandate, documents show Carmakers claimed that leaving electric car sales rules unchanged would threaten British jobs and cost them hundreds of millions of pounds, according to documents that show the private lobbying for a slower transition away from fossil fuels. BMW, Jaguar Land Rover, Nissan and Toyota claimed that rules forcing them to sell more electric cars each year would harm investment in the UK, according to responses to proposed changes submitted to the government. The responses were obtained by Fast Charge, a newsletter covering electric cars, and shared with the Guardian. Continue reading...",
-    "date": "2025-08-24T06:00:25.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=700&quality=85&auto=format&fit=max&s=8b6a8ed167fc08c56964d67d54ca86ec"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/aug/23/wind-farm-rhode-island-connecticut",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
+    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
+    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
+    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
