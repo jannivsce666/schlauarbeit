@@ -1,5 +1,23 @@
 [
   {
+    "id": "c7eb6a8d-be82-4ab4-8836-fb0a30809514",
+    "title": "Offshore-Projekt gestoppt: US-Verfügung lässt Orsted-Aktie abstürzen",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/orsted-windpark-usa-100.html",
+    "summary": "Der vorläufige Baustopp für ein fast fertiges Windkraftprojekt in den USA lässt die Aktie des dänischen Windkraftentwicklers Orsted einbrechen. Möglicherweise gibt es auch einen geopolitischen Hintergrund.",
+    "date": "2025-08-25T12:44:43.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/09b47981-154a-48d0-916b-8f47c5f0218c/AAABmODx1Gw/AAABmKJZ-0g/16x9-big/orsted-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/25/rsted-shares-at-all-time-low-after-trump-halts-work-on-us-windfarm",
+    "title": "Ørsted shares at all-time low after Trump halts work on US windfarm",
+    "url": "https://www.theguardian.com/environment/2025/aug/25/rsted-shares-at-all-time-low-after-trump-halts-work-on-us-windfarm",
+    "summary": "Shares drop by 18% after stop-work order on $1.5bn project off Rhode Island, which was 80% complete Shares in Ørsted hit an all-time low on Monday after the Trump administration ordered Europe’s largest wind power company to stop work on a near complete windfarm. Ørsted’s shares dropped by as much as 18%, after it was forced to stop construction on its $1.5bn (£741m) Revolution Wind project off the coast of Rhode Island. Continue reading...",
+    "date": "2025-08-25T12:28:04.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/bd81eb0e2303ca3b0e6ff157feda03d3980eb18f/116_0_3577_2861/master/3577.jpg?width=700&quality=85&auto=format&fit=max&s=fbb9e1353c74329053e03573b0c7e256"
+  },
+  {
     "id": "b0feeeef-32f1-4d9a-a634-3c3de7f57521",
     "title": "Ifo-Geschäftsklima: Stimmung der Unternehmen erneut leicht verbessert",
     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-konjunktur-erholung-100.html",
@@ -61,15 +79,6 @@
     "date": "2025-08-24T11:00:29.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/3836e7bd7c62757413a6dd34041f97c519b529d5/560_0_5600_4480/master/5600.jpg?width=700&quality=85&auto=format&fit=max&s=3fa884cac4c0be31d8f4982a9d0f7b95"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2025/aug/24/heatwave-wildfires-spain-most-intense-on-record",
-    "title": "Heatwave that fuelled deadly wildfires was Spain’s ‘most intense on record’",
-    "url": "https://www.theguardian.com/world/2025/aug/24/heatwave-wildfires-spain-most-intense-on-record",
-    "summary": "Country’s weather agency says 10-day period from 8-17 August was hottest since at least 1950, as fires still rage A 16-day heatwave Spain suffered this month was “the most intense on record”, the country’s state meteorological agency (AEMET) has said. Provisional readings for the 3-18 August heatwave exceeded the last record, set in July 2022, and showed an average temperature 4.6C higher than for previous such phenomena, the agency said on X. Continue reading...",
-    "date": "2025-08-24T10:53:33.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/9392dd74d7c64a65e0cc82235222adf93f3af313/586_0_3811_3049/master/3811.jpg?width=700&quality=85&auto=format&fit=max&s=2722c37b4ad0d2032ee2904178738f20"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/aug/23/wind-farm-rhode-island-connecticut",
@@ -315,6 +324,15 @@
     "image": "https://i.guim.co.uk/img/media/10cad857f22a9c13547bab3b1339e43dd50b591c/500_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=992e5b4a4d901cf6209f27b0f5fc16cd"
   },
   {
+    "id": "CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA",
+    "title": "Euractiv Agrifood Pro Briefing - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA?oc=5",
+    "summary": "Euractiv Agrifood Pro Briefing Euractiv Events",
+    "date": "2025-06-25T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
     "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
     "url": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
-    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
-    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
-    "date": "2021-11-29T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
