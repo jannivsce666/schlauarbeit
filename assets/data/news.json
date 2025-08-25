@@ -1,5 +1,14 @@
 [
   {
+    "id": "d7b223b5-a2eb-4239-b8a4-733fa95e8c97",
+    "title": "Ukraine-Liveblog: ++ Selenskyj kündigt neue Gespräche mit USA an ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-522.html",
+    "summary": "Der ukrainische Präsident Selenskyj will mit US-Vertretern beraten, um eventuelle Friedensgespräche mit Russland vorzubereiten. Vize-Kanzler Klingbeil verspricht eine deutsche Beteiligung an späteren Sicherheitsgarantien.",
+    "date": "2025-08-25T14:12:10.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/eb351d46-7dac-4e3c-880a-e4a2171bae59/AAABmOFT7AE/AAABmKJZ-0g/16x9-big/selenskyj-918.jpg?width=1280"
+  },
+  {
     "id": "c7eb6a8d-be82-4ab4-8836-fb0a30809514",
     "title": "Offshore-Projekt gestoppt: US-Verfügung lässt Orsted-Aktie abstürzen",
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/orsted-windpark-usa-100.html",
@@ -12,7 +21,7 @@
     "id": "https://www.theguardian.com/environment/2025/aug/25/rsted-shares-at-all-time-low-after-trump-halts-work-on-us-windfarm",
     "title": "Ørsted shares at all-time low after Trump halts work on US windfarm",
     "url": "https://www.theguardian.com/environment/2025/aug/25/rsted-shares-at-all-time-low-after-trump-halts-work-on-us-windfarm",
-    "summary": "Shares drop by 18% after stop-work order on $1.5bn project off Rhode Island, which was 80% complete Shares in Ørsted hit an all-time low on Monday after the Trump administration ordered Europe’s largest wind power company to stop work on a near complete windfarm. Ørsted’s shares dropped by as much as 18%, after it was forced to stop construction on its $1.5bn (£741m) Revolution Wind project off the coast of Rhode Island. Continue reading...",
+    "summary": "Shares drop by 17% after stop-work order on $1.5bn project off Rhode Island, which was 80% complete Shares in Ørsted hit an all-time low on Monday after the Trump administration ordered Europe’s largest wind power company to stop work on a near complete windfarm. Ørsted’s shares plunged 17%, after it was forced to stop construction on its $1.5bn (£741m) Revolution Wind project off the coast of Rhode Island. Continue reading...",
     "date": "2025-08-25T12:28:04.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/bd81eb0e2303ca3b0e6ff157feda03d3980eb18f/116_0_3577_2861/master/3577.jpg?width=700&quality=85&auto=format&fit=max&s=fbb9e1353c74329053e03573b0c7e256"
@@ -133,15 +142,6 @@
     "date": "2025-08-22T18:43:08.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/461488f3029cdc4dd1063e0e5ec3608f6d43f548/586_0_3828_3063/master/3828.jpg?width=700&quality=85&auto=format&fit=max&s=da0d94e7e705407776da5875a7188bd8"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2025/aug/22/air-pollution-oil-gas-health-study",
-    "title": "Air pollution from oil and gas causes 90,000 premature US deaths each year, says new study",
-    "url": "https://www.theguardian.com/us-news/2025/aug/22/air-pollution-oil-gas-health-study",
-    "summary": "Study analyzed health impacts of fossil fuels from exploration to end use, and found communities of color bear brunt of harm Air pollution from oil and gas causes more than 90,000 premature deaths and sickens hundreds of thousands of people across the US each year, a new study shows, with disproportionately high impacts on communities of color. More than 10,000 annual pre-term births are attributable to fine particulate matter from oil and gas, the authors found, also linking 216,000 annual childhood-onset asthma cases to the sector’s nitrogen dioxide emissions and 1,610 annual lifetime cancer cases to its hazardous air pollutants. Continue reading...",
-    "date": "2025-08-22T18:00:38.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/a507531a55ca882affdb1c4315f9729cb9bf85d6/562_0_5624_4504/master/5624.jpg?width=700&quality=85&auto=format&fit=max&s=acaf0fe181e5c10cc9f9a6a2434cf0ac"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58828",
@@ -357,7 +357,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
