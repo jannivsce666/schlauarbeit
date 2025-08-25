@@ -36,15 +36,6 @@
     "image": "https://i.guim.co.uk/img/media/910ebd1e193148ceec6eee97d659ebfd5b1b6354/19_43_2753_2204/master/2753.jpg?width=700&quality=85&auto=format&fit=max&s=8b6a8ed167fc08c56964d67d54ca86ec"
   },
   {
-    "id": "https://www.theguardian.com/world/2025/aug/24/taiwan-referendum-on-reopening-last-nuclear-plant-fails",
-    "title": "Taiwan referendum on reopening last nuclear plant fails",
-    "url": "https://www.theguardian.com/world/2025/aug/24/taiwan-referendum-on-reopening-last-nuclear-plant-fails",
-    "summary": "Clear majority backs restarting Maanshan reactor but doesn’t reach legal threshold, as president says nuclear power may be reconsidered if it becomes safe A referendum to push for the reopening of Taiwan’s last nuclear plant has failed to reach the legal threshold to be valid, though the president said the island could return to the technology in the future if safety standards improved. The plebiscite on Saturday, backed by the opposition, asked whether the Maanshan power plant should be reopened if it was “confirmed” there were no safety issues. The plant was closed in May as the government shifts to renewables and liquefied natural gas. Continue reading...",
-    "date": "2025-08-24T05:17:03.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/09642723138eb7e067d5b40eaa883cf105641b18/375_0_3750_3001/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=aad6a8078b8e3ea0f2d96986a6e17852"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/aug/23/wind-farm-rhode-island-connecticut",
     "title": "New England states vow to fight Trump administration order to halt work on offshore wind farm that’s nearly complete",
     "url": "https://www.theguardian.com/us-news/2025/aug/23/wind-farm-rhode-island-connecticut",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
+    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
+    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
+    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
