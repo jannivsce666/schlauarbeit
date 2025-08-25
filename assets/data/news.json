@@ -1,5 +1,23 @@
 [
   {
+    "id": "a13811c2-a633-446d-8c44-f854dbdb9233",
+    "title": "Wettervorhersage Europa: Wetterlage und Temperaturen",
+    "url": "https://www.tagesschau.de/wetter/europa-welt",
+    "summary": "Eine Hochdruckzone reicht vom Atlantik bis nach Mitteleuropa und bestimmt in weiten Teilen Deutschlands noch das Wetter. Zudem gelangt Dienstag im Vorfeld eines Tiefs auf dem Atlantik wärme Luft aus Südwesteuropa zu uns. Erste Tiefausläufer machen sich durch aufziehende Wolken bemerkbar, aber erst ab Mittwoch wird es von Südwesten und Westen unbeständiger. Auch die Temperatur geht in der zweiten Wochenhälfte wieder zurück.",
+    "date": "2025-08-25T17:14:33.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/877cca4d-13e2-43c0-9c7b-fbd5750fe2e0/AAABmOI0pCI/AAABmKJZ-0g/16x9-big/wolkenbild-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/commentisfree/2025/aug/25/the-guardian-view-on-the-carnivore-diet-red-meat-for-influencers-but-bad-news-for-health",
+    "title": "The Guardian view on the carnivore diet: red meat for influencers, but bad news for health | Editorial",
+    "url": "https://www.theguardian.com/commentisfree/2025/aug/25/the-guardian-view-on-the-carnivore-diet-red-meat-for-influencers-but-bad-news-for-health",
+    "summary": "A fad for consuming high-protein, high-fat food, while avoiding vegetables, has taken off online. Followers are doing themselves no favours Once, it seemed that much of the world was intent on drastically cutting back on meat for health and environmental reasons. Vegetarian and vegan options appeared on restaurant menus and the very idea of a bloody red steak became almost unthinkable in liberal circles. And yet the carnivore diet is now all over Instagram and TikTok, prompting health bodies to start issuing warnings. Followers of this diet eat meat, fat, seafood, eggs and butter, avoiding all vegetables, fruits, grains and legumes as if plants were, as Paul Saladino, an advocate of this diet alleged, “poison”. Dr Saladino is a US psychiatrist and health influencer with a range of supplements called Heart and Soil that contain dried animal organ meat. He appears shirtless on social media, denouncing vegetables, which he says will harm us. Other Instagrammers tuck into plates of huge steaks and seven or more eggs for breakfast. It’s not just for weight loss. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+    "date": "2025-08-25T17:00:56.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/17069ce5ac4f83b47dd3c95501af284b57794990/451_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=336e36dd6f6f171df05c185a3a4c3afc"
+  },
+  {
     "id": "9ad8bd3e-d405-4bb1-9867-47bc359f3ec6",
     "title": "Porsche beendet Batterie-Produktion in Deutschland",
     "url": "https://www.tagesschau.de/wirtschaft/porsche-batteriezellen-cellforce-100.html",
@@ -142,15 +160,6 @@
     "date": "2025-08-22T09:00:00.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/08/3CEWAAT.jpg"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/22/temperature-check-gina-rinehart-herald-sun-bush-summit-column",
-    "title": "Gina Rinehart’s apocalyptic visions for bush summits just the latest in a history of climate science denialism | Temperature Check",
-    "url": "https://www.theguardian.com/environment/2025/aug/22/temperature-check-gina-rinehart-herald-sun-bush-summit-column",
-    "summary": "Sponsorship of News Corp’s event series has given Australia’s richest person a vehicle for her anti-net zero crusade Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast You won’t be able to have a cremation because the ovens won’t be allowed to run on fossil fuels, and hospitals will be forced to shut for more than half the year because they have emitted too much CO2. Are you terrified yet? Defence manufacturers would “be forced to close for much of the year at least” The Royal Flying Doctor Service would not be able to collect any patients for eight months of the year “as we’ve exceeded our emissions permitted” Cancer and maternity patients would be left to fend for themselves because “we have to close the hospitals for nine or 10 months of the year” Funerals would be delayed because of something to do with refrigeration and “ovens” – honestly, you’ll have to work that one out for yourself Continue reading...",
-    "date": "2025-08-21T15:00:09.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/768e9517082e84f467cf677b6db9029fe74b62e5/816_300_2944_2356/master/2944.jpg?width=700&quality=85&auto=format&fit=max&s=0ac61a713fee0de834c58448aa0602fa"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58813",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
