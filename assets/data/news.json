@@ -1,16 +1,16 @@
 [
   {
-    "id": "d7b223b5-a2eb-4239-b8a4-733fa95e8c97",
-    "title": "Ukraine-Liveblog: ++ Selenskyj kündigt neue Gespräche mit USA an ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-522.html",
-    "summary": "Der ukrainische Präsident Selenskyj will mit US-Vertretern beraten, um eventuelle Friedensgespräche mit Russland vorzubereiten. Vize-Kanzler Klingbeil verspricht eine deutsche Beteiligung an späteren Sicherheitsgarantien.",
-    "date": "2025-08-25T14:12:10.000Z",
+    "id": "9ad8bd3e-d405-4bb1-9867-47bc359f3ec6",
+    "title": "Porsche beendet Batterie-Produktion in Deutschland",
+    "url": "https://www.tagesschau.de/wirtschaft/porsche-batteriezellen-cellforce-100.html",
+    "summary": "Viele Steuermillionen hat Porsche für die Entwicklung von Batteriezellen bekommen. Doch nun stoppt der Autobauer das Projekt in Baden-Württemberg. Was steckt dahinter? Von Martin Rottach.",
+    "date": "2025-08-25T15:59:12.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/eb351d46-7dac-4e3c-880a-e4a2171bae59/AAABmOFT7AE/AAABmKJZ-0g/16x9-big/selenskyj-918.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/03f0fb49-0a3f-4540-a964-0f15f49cc651/AAABmOGyq7Y/AAABmKJZ-0g/16x9-big/cellforce-102.jpg?width=1280"
   },
   {
     "id": "c7eb6a8d-be82-4ab4-8836-fb0a30809514",
-    "title": "Offshore-Projekt gestoppt: US-Verfügung lässt Orsted-Aktie abstürzen",
+    "title": "Trump stoppt Offshore-Windpark: Orsted-Aktie stürzt ab",
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/orsted-windpark-usa-100.html",
     "summary": "Der vorläufige Baustopp für ein fast fertiges Windkraftprojekt in den USA lässt die Aktie des dänischen Windkraftentwicklers Orsted einbrechen. Möglicherweise gibt es auch einen geopolitischen Hintergrund.",
     "date": "2025-08-25T12:44:43.000Z",
@@ -34,15 +34,6 @@
     "date": "2025-08-25T09:25:37.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/e444444f-9937-496d-8f34-e1bc7a080cb3/AAABmNG_GF4/AAABmKJZ-0g/16x9-big/industrie-208.jpg?width=1280"
-  },
-  {
-    "id": "https://www.theguardian.com/australia-news/2025/aug/25/what-is-happening-with-australias-emissions-electricity-is-improving-transport-is-not",
-    "title": "What is happening with Australia’s emissions? Electricity is improving. Transport is not",
-    "url": "https://www.theguardian.com/australia-news/2025/aug/25/what-is-happening-with-australias-emissions-electricity-is-improving-transport-is-not",
-    "summary": "According to latest government figures, heat-trapping pollution dropped by 1.4% in the year to March Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Australian government was hit with sharp criticism in May when – despite its promise that it would take serious action – the country’s greenhouse gas emissions were revealed to have slightly increased last year. New data for the year to March suggest this has now changed. According to a climate department quarterly inventory, heat-trapping pollution dropped by 1.4%. Continue reading...",
-    "date": "2025-08-25T07:27:21.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/027e74e4e91d0ea2ba491783d870e5902d400d18/734_0_3804_3044/master/3804.jpg?width=700&quality=85&auto=format&fit=max&s=27a8554f34a22a1a380c808d1325763e"
   },
   {
     "id": "9fd9be17-277c-4b4b-aff9-99d40b339cd2",
@@ -70,15 +61,6 @@
     "date": "2025-08-25T05:00:51.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/292167dea70292cf80dd3dcbf889a6cbe261a05d/250_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=5e748adc04805754dab0c4f9f030c4ae"
-  },
-  {
-    "id": "c6bea2ef-28c7-4d4e-b53e-fb79a3e6bb86",
-    "title": "Taifun \"Kajiki\": Vietnam plant Evakuierung von 600.000 Menschen",
-    "url": "https://www.tagesschau.de/ausland/asien/kajiki-taifun-vietnam-100.html",
-    "summary": "Der Tropensturm \"Kajiki\" wirbelt derzeit das südchinesische Meer mit Windgeschwindigkeiten von bis zu 175 km/h durch. Da er Kurs auf Vietnam nimmt, bereiten die Behörden die Evakuierung von fast 600.000 Menschen vor.",
-    "date": "2025-08-24T17:52:32.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/0da3f110-3dd7-4bea-be46-b7561ddc3066/AAABmN-0V5s/AAABmKJZ-0g/16x9-big/kajiki-vietnam-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/commentisfree/2025/aug/24/trump-climate-crisis-gina-mccarthy",
@@ -357,7 +339,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -412,15 +394,6 @@
     "date": "2024-05-31T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
-  },
-  {
-    "id": "CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN",
-    "title": "German cabinet approves carbon capture and hydrogen plans - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFWbEd6RUUxeXNNWVFVaFpnMmI2U1FsbUNxVHJpcXRneHN1dUJjTVJ2XzN2cVotVjk0LXg5a2ZBa2JudWszRnY2aTZWc25YV1BSODY3T2hseVJpSlJhMFVHQi1iZjVyWlZrOUNuTERlSEY4enZhRnNzUjVEczZzeExleXM3VExIalRNdkZxVHRESGZzNU95cDdnMS1qU0xyMTZKRVNqeDY2OURCZ0ZN?oc=5",
-    "summary": "German cabinet approves carbon capture and hydrogen plans Euractiv",
-    "date": "2024-05-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -536,6 +509,33 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
+    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
+    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
+    "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
+    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
+    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
+    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
