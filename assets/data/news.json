@@ -1,5 +1,14 @@
 [
   {
+    "id": "61a6fe1f-82e6-4898-b55b-7fe64b8abcf9",
+    "title": "Güterverkehr: Deutsche Bahn plant Kahlschlag bei Cargo-Werken",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-cargo-gueterverkehr-100.html",
+    "summary": "DB Cargo will deutschlandweit zahlreiche Werkstätten schließen - zehn von 15 Außenstellen sind betroffen. Die EU-Kommission verlangt, dass die seit Jahren kriselnde Güterverkehrstocher bis Ende 2026 profitabel wird.",
+    "date": "2025-08-26T08:58:04.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/f20934af-b3be-4b9a-8f73-4b3587269bfb/AAABmOUue2Q/AAABmKJZ-0g/16x9-big/db-cargo-116.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/world/2025/aug/26/tuesday-briefing-how-climateflation-is-pushing-food-prices-ever-higher-and-changing-how-we-eat",
     "title": "Tuesday briefing: How ‘climateflation’ is pushing food prices ever higher – and changing how we eat",
     "url": "https://www.theguardian.com/world/2025/aug/26/tuesday-briefing-how-climateflation-is-pushing-food-prices-ever-higher-and-changing-how-we-eat",
@@ -36,15 +45,6 @@
     "image": "https://images.tagesschau.de/image/b09d15db-9b8d-43a7-8c7b-013175ef57a5/AAABmMxYo7c/AAABmKJZ-0g/16x9-big/recycling-kunststoffe-100.jpg?width=1280"
   },
   {
-    "id": "https://www.theguardian.com/business/2025/aug/26/marks-spencer-to-open-secondhand-clothing-store-on-ebay",
-    "title": "Marks & Spencer to open secondhand clothing store on eBay",
-    "url": "https://www.theguardian.com/business/2025/aug/26/marks-spencer-to-open-secondhand-clothing-store-on-ebay",
-    "summary": "Customers to get £5 vouchers for donating M&S clothes to Oxfam, which will get 15% of profits from eBay sales Marks & Spencer is opening a secondhand clothing store on eBay to find new homes for “old favourites” as the household name taps into booming demand for preloved clothing. The retailer has collected 36.5m secondhand clothes since it launched its “shwopping” clothing recycling scheme – now called Another Life – over a decade ago. Most of that clothing has been resold by charity partner Oxfam. Continue reading...",
-    "date": "2025-08-25T23:01:12.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/6f1110443c3925642209d88c51371eb706c28ffa/155_0_6369_5099/master/6369.jpg?width=700&quality=85&auto=format&fit=max&s=3773c4a19899502d1f9b953351f6a1a7"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/aug/25/fema-trump-hurricane-katrina",
     "title": "Fema staff warn Trump’s cuts risk exposing US to another Hurricane Katrina",
     "url": "https://www.theguardian.com/us-news/2025/aug/25/fema-trump-hurricane-katrina",
@@ -52,15 +52,6 @@
     "date": "2025-08-25T21:02:51.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/aa1168160e80a7a8a3958e24ef340680b45aaee6/478_373_3989_3191/master/3989.jpg?width=700&quality=85&auto=format&fit=max&s=57e0e71eac0e8ebfe117f9bf946b777d"
-  },
-  {
-    "id": "a13811c2-a633-446d-8c44-f854dbdb9233",
-    "title": "Wettervorhersage Europa: Wetterlage und Temperaturen",
-    "url": "https://www.tagesschau.de/wetter/europa-welt",
-    "summary": "Eine Hochdruckzone reicht vom Atlantik bis nach Mitteleuropa und bestimmt in weiten Teilen Deutschlands noch das Wetter. Zudem gelangt Dienstag im Vorfeld eines Tiefs auf dem Atlantik wärme Luft aus Südwesteuropa zu uns. Erste Tiefausläufer machen sich durch aufziehende Wolken bemerkbar, aber erst ab Mittwoch wird es von Südwesten und Westen unbeständiger. Auch die Temperatur geht in der zweiten Wochenhälfte wieder zurück.",
-    "date": "2025-08-25T17:14:33.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/877cca4d-13e2-43c0-9c7b-fbd5750fe2e0/AAABmOI0pCI/AAABmKJZ-0g/16x9-big/wolkenbild-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/commentisfree/2025/aug/25/the-guardian-view-on-the-carnivore-diet-red-meat-for-influencers-but-bad-news-for-health",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
