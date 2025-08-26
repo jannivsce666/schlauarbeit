@@ -1,14 +1,5 @@
 [
   {
-    "id": "8d4529ff-f872-4000-8be8-775926e1e1de",
-    "title": "Marktbericht: Kein Rückenwind für den DAX",
-    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dow-dax-nikkei-boerse-100.html",
-    "summary": "US-Präsident Trump hat den Anlegern heute (mal wieder) viel Kopfzerbrechen bereitet. Neue Zolldrohungen und Attacken gegen die Notenbank Federal Reserve drückten die Stimmung an der Börse.",
-    "date": "2025-08-26T16:23:29.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/b2b76f04-0530-48e9-8be0-732700cde583/AAABlhkA9cE/AAABmKJZ-0g/16x9-big/boerse-408.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/aug/26/texas-schools-floods",
     "title": "Texas schools that became flood ‘relief hubs’ welcome students back: ‘It’s OK to not be OK’",
     "url": "https://www.theguardian.com/us-news/2025/aug/26/texas-schools-floods",
@@ -97,15 +88,6 @@
     "date": "2025-08-26T05:00:21.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/375e0325afb601a90b3cffd4adf17b4ae1c1df37/0_0_3026_2421/master/3026.jpg?width=700&quality=85&auto=format&fit=max&s=b4ba8c3dcb4273b82712405c854bddee"
-  },
-  {
-    "id": "15129b13-a3f0-4cef-86ba-f5e51207d222",
-    "title": "Wie die Plastikvielfalt das Recycling erschwert",
-    "url": "https://www.tagesschau.de/wissen/forschung/plastik-recycling-muell-sorten-100.html",
-    "summary": "Im Plastik stecken mehr als 16.000 Chemikalien, das macht es oft kaum möglich, die Grundstoffe zu isolieren und wiederzuverwenden. Fachleute fordern daher eine drastische Reduktion der Plastiksorten. Von Sebastian Moritz.",
-    "date": "2025-08-26T03:41:08.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/b09d15db-9b8d-43a7-8c7b-013175ef57a5/AAABmMxYo7c/AAABmKJZ-0g/16x9-big/recycling-kunststoffe-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/aug/25/fema-trump-hurricane-katrina",
@@ -465,7 +447,7 @@
     "summary": "Iveco CEO says Euro 7 vehicle emissions regulation is ‘plain stupid’ Euractiv",
     "date": "2023-03-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
@@ -536,6 +518,24 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
     "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
     "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
+    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
+    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
+    "date": "2022-01-27T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk",
+    "title": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
+    "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
+    "date": "2021-12-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
