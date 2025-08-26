@@ -90,15 +90,6 @@
     "image": "https://images.tagesschau.de/image/09b47981-154a-48d0-916b-8f47c5f0218c/AAABmODx1Gw/AAABmKJZ-0g/16x9-big/orsted-100.jpg?width=1280"
   },
   {
-    "id": "b0feeeef-32f1-4d9a-a634-3c3de7f57521",
-    "title": "Ifo-Geschäftsklima: Stimmung der Unternehmen erneut leicht verbessert",
-    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-konjunktur-erholung-100.html",
-    "summary": "Der ifo-Geschäftsklimaindex für den Monat August zeigt überraschend Erholung, allerdings nur eine leichte. Die Hoffnung auf eine konjunkturelle Belebung bleibt fragil, die Aussichten sind eher trübe.",
-    "date": "2025-08-25T09:25:37.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e444444f-9937-496d-8f34-e1bc7a080cb3/AAABmNG_GF4/AAABmKJZ-0g/16x9-big/industrie-208.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/commentisfree/picture/2025/aug/25/net-zero-its-not-even-a-real-thing-so-why-does-everyone-hate-it",
     "title": "Net zero! It’s not even a real thing so why does everyone hate it? | First Dog on the Moon",
     "url": "https://www.theguardian.com/commentisfree/picture/2025/aug/25/net-zero-its-not-even-a-real-thing-so-why-does-everyone-hate-it",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
     "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
     "date": "2022-01-27T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk",
+    "title": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
+    "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
+    "date": "2021-12-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
