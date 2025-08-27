@@ -1,12 +1,12 @@
 [
   {
     "id": "cea2bfdf-b67a-44fa-b875-08ebdfd6e428",
-    "title": "Ukraine-Liveblog: ++ Ukraine meldet Angriffe auf Energieinfrastruktur ++",
+    "title": "Ukraine-Liveblog: ++ 100.000 Ukrainer ohne Strom ++",
     "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-524.html",
-    "summary": "Russland hat laut der ukrainischen Regierung in der Nacht die Energieinfrastruktur in mehreren Regionen angegriffen. Der US-Gesandte Witkoff will sich nach eigenen Angaben noch diese Woche mit Vertretern der Ukraine treffen.",
-    "date": "2025-08-27T10:02:36.000Z",
+    "summary": "Nach russischen Angriffen auf Energieanlagen sind in drei ukrainischen Regionen etwa 100.000 Menschen ohne Strom. Die Bundesregierung hat 2024 Rüstungsexporte im Wert von 8,15 Milliarden Euro an Kiew genehmigt.",
+    "date": "2025-08-27T11:43:51.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5b073b67-29bf-4703-b6b1-71469e4c25bb/AAABldopTPc/AAABmKJZ-0g/16x9-big/flagge-ukraine-truemmer-101.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/6ca418be-421b-4278-ae79-675afc3c6976/AAABmOtpWk0/AAABmKJZ-0g/16x9-big/feuerwehr-sumy-100.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58856",
@@ -43,15 +43,6 @@
     "date": "2025-08-27T08:49:14.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/91c1407d-e9db-4cc5-ae00-de6c026a8d42/AAABmOpmxR0/AAABmKJZ-0g/16x9-big/wohnungssuche-zettel-104.jpg?width=1280"
-  },
-  {
-    "id": "5bc85040-05d5-4ddf-aac4-2237f6651b2b",
-    "title": "Kabinett stellt Weichen für Nationalen Sicherheitsrat",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/nationaler-sicherheitsrat-102.html",
-    "summary": "Heute soll das Kabinett etwas beschließen, das die Strukturen der deutschen Sicherheitspolitik revolutionieren könnte: Deutschland bekommt einen Nationalen Sicherheitsrat. Von Christina Nagel.",
-    "date": "2025-08-27T08:12:08.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/9dc64a5d-827b-4e71-a442-826b66e5306a/AAABmEV8LD0/AAABmKJZ-0g/16x9-big/kabinett-278.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/aug/27/wild-bees-visit-different-flowers-to-balance-diet-study",
@@ -115,15 +106,6 @@
     "date": "2025-08-26T14:07:38.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/08/3CEDM2E.jpg"
-  },
-  {
-    "id": "668980e8-3e91-4e9c-a25f-dbd81417a9b4",
-    "title": "Wie der Klimawandel Waldbrände begünstigt",
-    "url": "https://www.tagesschau.de/wissen/klima/waldbraende-klimaforschung-erderwaermung-100.html",
-    "summary": "Wochenlang hat es vor allem in Südeuropa in den Wäldern gebrannt. Dabei spielt der Klimawandel eine zentrale Rolle: Denn die Sommer werden trockener und wärmer. Von Katharina Wilhelm.",
-    "date": "2025-08-26T14:05:07.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/824e0695-9214-4388-80de-86a2f2002ffe/AAABmOaBVU0/AAABmKJZ-0g/16x9-big/feuerwehrmann-kalifornien-102.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/26/hurricane-katrina-anniversary-trump-fema",
@@ -198,15 +180,6 @@
     "image": "https://i.guim.co.uk/img/media/96b1b5504e12bcee40f5d1240d450de7d6e40ae6/664_0_4601_3681/master/4601.jpg?width=700&quality=85&auto=format&fit=max&s=886503710d69e33af8a7708c03727e43"
   },
   {
-    "id": "https://www.theguardian.com/us-news/2025/aug/23/alaska-landslide-tsunami",
-    "title": "Alaska was lucky to avoid disaster after a landslide and tsunami. What about next time?",
-    "url": "https://www.theguardian.com/us-news/2025/aug/23/alaska-landslide-tsunami",
-    "summary": "The close call in Tracy Arm 50 miles south of Juneau on 10 August is the latest sign that as glaciers melt, risks may rise The landslide that triggered a powerful tsunami in Alaska’s Inside Passage early on 10 August was a close call, say scientists, tour operators and agency officials, with the risk of such events apparently increasing as glaciers retreat because of climate change. “It’s a historic event,” said scientist Dennis Staley from the US Geological Survey of the slide, which occurred in the Tracy Arm fjord 50 miles (80km) south of Juneau. Continue reading...",
-    "date": "2025-08-23T15:00:05.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/05d5729753b4431907da8680a5bebadcabfa2a44/227_0_881_705/master/881.jpg?width=700&quality=85&auto=format&fit=max&s=10950645a7661e9cd071fbc33bef90c4"
-  },
-  {
     "id": "https://www.carbonbrief.org/?p=58828",
     "title": "DeBriefed 22 August 2025: Pakistan floods; China emissions drop; Climate-adaptive architecture",
     "url": "https://www.carbonbrief.org/debriefed-22-august-2025-pakistan-floods-china-emissions-drop-climate-adaptive-architecture/",
@@ -258,7 +231,7 @@
     "summary": "Clean-energy growth helped China’s carbon dioxide (CO2) emissions fall by 1% year-on-year in the first... The post Analysis: Record solar growth keeps China’s CO2 falling in first half of 2025 appeared first on Carbon Brief.",
     "date": "2025-08-20T23:01:00.000Z",
     "source": "Carbon Brief",
-    "image": null
+    "image": "https://www.carbonbrief.org/wp-content/uploads/2025/08/3AX6YKG.jpg"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/aug/20/morecambe-life-gen-z-left-behind-amenities-young-people-seaside-town",
@@ -375,7 +348,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -401,15 +374,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFRnN1BpNDlqRTBPR2ZwQmJ1OXJUQTlMNnFwWUFUS0lITFBUNkFRc2dyTVA3Z1YtMUlTNlNsMkRxWEdtaFFJSnlrWlppb0FqMHFxbk9jQk9FdWdnTkxoU0ZaVUtBTm5sQlY5cktnNDdOTzdPazVrNndLamxRYldLbkVPT0sxNnoxbTlveGdjQU5TYU1iQjIzVFd2WmZPbUVERTZkTWcyWi0tWkwtRU5TZVIwNzVDeFhXbXR2dFc5eUo5NXhQSUN3d3hKSmNyVnU1TWxXZmc3SEk0enc?oc=5",
     "summary": "German vice-chancellor eyes 'sovereignty transfer to Brussels' as he becomes Green lead candidate Euractiv",
     "date": "2024-11-18T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMitgFBVV95cUxPT0Z0UHh5YXlfTWZHR3liTllLYy03R2FBM2gzaEpTNmRXTHhnSFlMREZseldpVWp6MlN0aXA0a2JPeEp2U2RoZHF5ZGhkU3ZyRUJUZWxWY1FyV0h4Tm91ckstNmQ2eDdPLWNrYlF1MzVycElRWWJPMHBYN1NSeTRVTUVOZ21zdFNhamZhY2hjT3dmQ2M3ZExaTlltNUtSM1B0ejlqUDJxVkNxbm1Wd2Y3SnNSdldJdw",
-    "title": "Germany arrests suspected members of neo-Nazi group plotting revolt - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0Z0UHh5YXlfTWZHR3liTllLYy03R2FBM2gzaEpTNmRXTHhnSFlMREZseldpVWp6MlN0aXA0a2JPeEp2U2RoZHF5ZGhkU3ZyRUJUZWxWY1FyV0h4Tm91ckstNmQ2eDdPLWNrYlF1MzVycElRWWJPMHBYN1NSeTRVTUVOZ21zdFNhamZhY2hjT3dmQ2M3ZExaTlltNUtSM1B0ejlqUDJxVkNxbm1Wd2Y3SnNSdldJdw?oc=5",
-    "summary": "Germany arrests suspected members of neo-Nazi group plotting revolt Euractiv",
-    "date": "2024-11-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -538,5 +502,41 @@
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
+    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
+    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
+    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
+    "date": "2022-01-27T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk",
+    "title": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
+    "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
+    "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
+    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
+    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
+    "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
   }
 ]
