@@ -1,5 +1,23 @@
 [
   {
+    "id": "83153cbb-fd31-4b81-90bf-3d2f03d99b2c",
+    "title": "Wettrennen um die besten Akkus für Elektroautos",
+    "url": "https://www.tagesschau.de/wissen/akku-elektroauto-100.html",
+    "summary": "China setzt auf Lithium-Batterien, die immer günstiger werden. Deutsche Autohersteller bevorzugen Akkus auf Nickel-Mangan-Kobalt-Basis. Welche Technik hat welche Vor- und Nachteile? Von Kai Rüsberg.",
+    "date": "2025-08-28T12:32:36.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/63ea766b-deab-40e5-824e-9d1b97cb5e74/AAABmOve86M/AAABmKJZ-0g/16x9-big/byd-autos-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
+    "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
+    "url": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
+    "summary": "Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’ Every breath people take in their homes or car probably contains significant amounts of microplastics small enough to burrow deep into lungs, new peer-reviewed research finds, bringing into focus a little understood route of exposure and health threat. The study, published in the journal Plos One, estimates humans can inhale as much as 68,000 tiny plastic particles daily. Previous studies have identified larger pieces of airborne microplastics, but those are not as much of a health threat because they do not hang in the air as long, or move as deep into the pulmonary system. Continue reading...",
+    "date": "2025-08-28T12:00:52.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/455_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=d32d4d5edf123c091ff4d2fef6ca6072"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/aug/28/asian-hornets-threat-uk-bees-trackers-teamwork-aoe",
     "title": "Post-it notes and tiny trackers: behind the race to stop Asian hornets thriving in the UK",
     "url": "https://www.theguardian.com/environment/2025/aug/28/asian-hornets-threat-uk-bees-trackers-teamwork-aoe",
@@ -61,15 +79,6 @@
     "date": "2025-08-28T04:00:02.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/10aee899-dacb-48e3-840d-2481d469ba09/AAABmHSDviI/AAABmKJZ-0g/16x9-big/fleisch-136.jpg?width=1280"
-  },
-  {
-    "id": "cea2bfdf-b67a-44fa-b875-08ebdfd6e428",
-    "title": "Ukraine-Liveblog: ++ 100.000 Ukrainer ohne Strom ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-524.html",
-    "summary": "Nach russischen Angriffen auf Energieanlagen sind in drei ukrainischen Regionen etwa 100.000 Menschen ohne Strom. Die Bundesregierung hat 2024 Rüstungsexporte im Wert von 8,15 Milliarden Euro an Kiew genehmigt.",
-    "date": "2025-08-27T20:57:18.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/6ca418be-421b-4278-ae79-675afc3c6976/AAABmOtpWk0/AAABmKJZ-0g/16x9-big/feuerwehr-sumy-100.jpg?width=1280"
   },
   {
     "id": "e0ccaa88-8c5f-4f69-98e7-888322d880cc",
@@ -396,6 +405,15 @@
     "image": "https://i.guim.co.uk/img/media/396ff37ba9bc554dc9642a466a3ae59781c33fa7/0_19_3000_1802/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=06645ff093b784e21dc2ccb9f13f5beb"
   },
   {
+    "id": "CBMiqgFBVV95cUxOaWtpVkVDNjNIMHk3Q3JaWDlRdDRmMHJ5a0xwbTJtbVFmbGhSR0JwSDJreVFsa0NENTc1c1RtelhHMmNoQnBDQ05BSUxQbm51ekJ3dDBkNXp4MF9ybnpoXzJWczFEd0txSFhMN0paREFwSi1OeUxVS2lVTGZaOG5JRHcyNDdUQ21nclk2ekZwOEV5eXVVTUVIeGo3MDAtTU14NUM0NGFJRmlmQQ",
+    "title": "Tyre industry pushes back against evidence of plastic pollution - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWtpVkVDNjNIMHk3Q3JaWDlRdDRmMHJ5a0xwbTJtbVFmbGhSR0JwSDJreVFsa0NENTc1c1RtelhHMmNoQnBDQ05BSUxQbm51ekJ3dDBkNXp4MF9ybnpoXzJWczFEd0txSFhMN0paREFwSi1OeUxVS2lVTGZaOG5JRHcyNDdUQ21nclk2ekZwOEV5eXVVTUVIeGo3MDAtTU14NUM0NGFJRmlmQQ?oc=5",
+    "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
+    "date": "2025-01-05T14:31:59.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
     "title": "German Liberals swap out key leaders after government sabotage revelations - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ?oc=5",
@@ -437,15 +455,6 @@
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTM2YXY0M0Z1Tkl4SHpNRUZ2TlBRLVJhMGxLVC1Odm83MHB0M2pkSkwyQlR6MHdrNEdsTVNnVVRReE9zUWUyZUg4eXhDdkR3Mjh4RXE2WjZRWURlREZSaHMyanR3aGlhOGFIT2FCZ1pGeEU1OGhYOXJPNmRlRW0tWDlTNWJXLWkzYS1qZmFn?oc=5",
     "summary": "EU agrifood policy - Navigating the next mandate Euractiv Events",
     "date": "2024-06-04T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMi1wFBVV95cUxOSmR6cEM5Qkh0U2llRl9pTTdMWk9XbDluZmZsWFN4UzBvNGFuaWg5Z2NYZVhhWl9xVC1yYVNBaUpabk00TUMtallHZFRjajdaUTh5VlFLUkdvWXN4MHBQVW1RYm1tREhWd2dDN1h0eFNxakdoVmNtQkN1Y0w1LVp0WjI3ZVNidHBmREg2Si13bVoxYTc2VGphN0dGMjBpd2gyc251Rmg5TDRaZzl6UFptUU1BNm5nRll4dzUzOVRHRDI2cWxGVzlLaTJFak5FR204TmV5RV9VTQ",
-    "title": "Green lead candidate hits back at EPP attempts to exclude her group from Commission majority - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSmR6cEM5Qkh0U2llRl9pTTdMWk9XbDluZmZsWFN4UzBvNGFuaWg5Z2NYZVhhWl9xVC1yYVNBaUpabk00TUMtallHZFRjajdaUTh5VlFLUkdvWXN4MHBQVW1RYm1tREhWd2dDN1h0eFNxakdoVmNtQkN1Y0w1LVp0WjI3ZVNidHBmREg2Si13bVoxYTc2VGphN0dGMjBpd2gyc251Rmg5TDRaZzl6UFptUU1BNm5nRll4dzUzOVRHRDI2cWxGVzlLaTJFak5FR204TmV5RV9VTQ?oc=5",
-    "summary": "Green lead candidate hits back at EPP attempts to exclude her group from Commission majority Euractiv",
-    "date": "2024-05-31T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -529,14 +538,5 @@
     "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
-  },
-  {
-    "id": "CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA",
-    "title": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA?oc=5",
-    "summary": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 Euractiv Events",
-    "date": "2022-04-29T23:49:03.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   }
 ]
