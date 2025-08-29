@@ -81,15 +81,6 @@
     "image": "https://interactive.carbonbrief.org/factcheck/images/social-images/solar-thumbnail.png"
   },
   {
-    "id": "https://www.theguardian.com/environment/2025/aug/28/chemical-companies-lobbying-mps-not-to-ban-pfas-forever-chemicals",
-    "title": "Chemical companies lobbying MPs not to ban Pfas",
-    "url": "https://www.theguardian.com/environment/2025/aug/28/chemical-companies-lobbying-mps-not-to-ban-pfas-forever-chemicals",
-    "summary": "Exclusive: Analysis of responses shows firms are urging parliamentarians to limit regulation of ‘forever chemicals’ Chemical firms are lobbying MPs not to ban “forever chemicals” in the same way as proposed in the EU, using arguments disputed by scientists and described as “big tobacco playbook” tactics, it can be revealed. Pfas, short for per- and polyfluoroalkyl substances and commonly known as forever chemicals owing to their persistence in the environment, are a family of about 10,000 chemicals, some of which have been linked to a wide range of serious illnesses, including certain cancers. They are used across a range of industries, from cosmetics to firefighting. Continue reading...",
-    "date": "2025-08-28T13:58:26.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/4c01c1d5dcd4970147600be3666bf7699c08b2bb/408_0_5016_4014/master/5016.jpg?width=700&quality=85&auto=format&fit=max&s=9b5a157f541a5f69c3b0585a57d70e02"
-  },
-  {
     "id": "83153cbb-fd31-4b81-90bf-3d2f03d99b2c",
     "title": "Wettrennen um die besten Akkus für Elektroautos",
     "url": "https://www.tagesschau.de/wissen/akku-elektroauto-100.html",
@@ -538,5 +529,14 @@
     "date": "2022-04-29T23:49:03.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
+    "id": "CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc",
+    "title": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
+    "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
+    "date": "2022-03-28T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
   }
 ]
