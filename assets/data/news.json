@@ -1,5 +1,32 @@
 [
   {
+    "id": "3df14ba1-9ad0-4c26-800f-a6c152d2ba38",
+    "title": "Warren Buffett wird 95: Ein Investor wie ein Guru",
+    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/warren-buffett-95-jahre-100.html",
+    "summary": "Geht es um möglichst clevere Geldanlage, schaut die Finanzwelt seit jeher vor allem auf einen Mann: Warren Buffett. Was hat den US-Investor und Multimilliardär so erfolgreich gemacht? Von Samir Ibrahim.",
+    "date": "2025-08-30T06:16:40.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/e8952fb2-6a66-40b6-9272-d71f8c7c5f15/AAABmPUV3L8/AAABmKJZ-0g/16x9-big/buffett-136.jpg?width=1280"
+  },
+  {
+    "id": "68dc63e1-e58c-43a0-bbde-9d740d6684d8",
+    "title": "So wird der Garten klimafit",
+    "url": "https://www.tagesschau.de/wissen/klima/garten-klimafest-102.html",
+    "summary": "Lange Dürrephasen oder plötzlich einsetzender Starkregen: Auch für Gärtner sind die Folgen des Klimawandels eine Herausforderung. Was braucht es, damit der Garten auch in Zukunft eine kleine Oase sein kann? Von Katharina Bruns.",
+    "date": "2025-08-30T06:02:30.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/33623c03-edf5-4d49-975a-716a1e333353/AAABmOvuKNc/AAABmKJZ-0g/16x9-big/klatschmohn-112.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/30/uk-largest-lake-lough-neagh-faces-environmental-crisis-as-rescue-plans-stall",
+    "title": "UK’s largest lake faces environmental crisis as rescue plans stall",
+    "url": "https://www.theguardian.com/environment/2025/aug/30/uk-largest-lake-lough-neagh-faces-environmental-crisis-as-rescue-plans-stall",
+    "summary": "Toxic algae cases in Northern Ireland’s Lough Neagh have tripled since last year, as local fishers’ incomes plummet The UK’s largest lake, Lough Neagh, is on course to record its worst year of potentially toxic algal blooms to date, as rescue plans remain deadlocked. As a ban on eel-fishing in the lake is extended yet again, with local fishers’ incomes falling by 60% since 2023, there have so far this year been 139 detections of cyanobacteria (blue-green algae) growths recorded at the lough and its surrounding watercourses, according to a government pollution tracker. This is more than treble the number for the same point in 2024 (45). The data covers the 400 sq km freshwater lough, its tributaries, and smaller peripheral bodies of water, including Portmore Lough and Lough Gullion. Continue reading...",
+    "date": "2025-08-30T05:00:52.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/65f391901bfc54ef971b9ff89cc2b0c9328768d4/0_0_1505_1204/master/1505.jpg?width=700&quality=85&auto=format&fit=max&s=148af435f151c19216040acbf7b74019"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/aug/30/murray-watt-backs-no-go-zones-where-development-is-banned-but-not-for-tasmanias-robbins-island",
     "title": "Murray Watt backs ‘no-go’ zones where development is banned – but not for Tasmania’s Robbins Island",
     "url": "https://www.theguardian.com/environment/2025/aug/30/murray-watt-backs-no-go-zones-where-development-is-banned-but-not-for-tasmanias-robbins-island",
@@ -34,15 +61,6 @@
     "date": "2025-08-29T11:27:39.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK-1550x1033-1.png"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/29/weather-tracker-typhoon-kajiki-lashes-south-east-asia-with-fatalities-vietnam",
-    "title": "Weather tracker: Typhoon Kajiki lashes south-east Asia with fatalities in Vietnam",
-    "url": "https://www.theguardian.com/environment/2025/aug/29/weather-tracker-typhoon-kajiki-lashes-south-east-asia-with-fatalities-vietnam",
-    "summary": "Duration of torrential rains from Typhoon Kajiki lead to elevated landslide risk across Laos and Thailand Typhoon Kajiki steadily intensified over the South China Sea last weekend into a category 2 storm with sustained wind speeds of 115mph. It made landfall near the coastal city of Vinh in Vietnam on Monday afternoon, having slightly weakened but still packing a punch with winds of up to 100mph and torrential rainfall. Kajiki’s wind threat soon faded after landfall, but the flood risk continued into Tuesday and Wednesday as the system moved inland. Parts of central and northern Vietnam, as well as Thailand, experienced 300-400mm of rainfall. Continue reading...",
-    "date": "2025-08-29T09:50:26.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/f535a381dcda0599bfb6f88eb1da4cae6d742047/69_0_2893_2315/master/2893.jpg?width=700&quality=85&auto=format&fit=max&s=542164645fd34c8ee0c09fb99238322f"
   },
   {
     "id": "https://www.theguardian.com/business/nils-pratley-on-finance/2025/aug/28/make-drax-wait-subsidy-deal-fca-investigation-serious",
@@ -348,7 +366,7 @@
     "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
     "date": "2025-01-05T14:31:59.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMi2wFBVV95cUxPNFRnN1BpNDlqRTBPR2ZwQmJ1OXJUQTlMNnFwWUFUS0lITFBUNkFRc2dyTVA3Z1YtMUlTNlNsMkRxWEdtaFFJSnlrWlppb0FqMHFxbk9jQk9FdWdnTkxoU0ZaVUtBTm5sQlY5cktnNDdOTzdPazVrNndLamxRYldLbkVPT0sxNnoxbTlveGdjQU5TYU1iQjIzVFd2WmZPbUVERTZkTWcyWi0tWkwtRU5TZVIwNzVDeFhXbXR2dFc5eUo5NXhQSUN3d3hKSmNyVnU1TWxXZmc3SEk0enc",
@@ -423,6 +441,15 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
+    "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
+    "title": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ?oc=5",
+    "summary": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? Euractiv Events",
+    "date": "2023-02-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc",
     "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc?oc=5",
@@ -477,6 +504,15 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
+    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
+    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
+    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
+    "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
     "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
@@ -500,42 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
     "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
     "date": "2021-11-29T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
-    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
-    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
-    "date": "2021-10-26T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
-    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
-    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
-    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
