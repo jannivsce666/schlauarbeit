@@ -1,5 +1,14 @@
 [
   {
+    "id": "a3e594e1-4ce0-4375-a51c-fa70fa459e4e",
+    "title": "Support-Ende für Windows 10: Millionen PCs betroffen",
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/windows10-support-microsoft-100.html",
+    "summary": "Mitte Oktober stellt Microsoft die regulären Sicherheits-Updates für Windows 10 ein. Erstmals können auch Privatnutzer an einem offiziellen Verlängerungsprogramm teilnehmen. Experten empfehlen dennoch ein Update. Von Jens Eberl.",
+    "date": "2025-08-31T03:12:28.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/65ae59ce-23bf-4c25-8666-cca3a5de63ef/AAABmOGMrFs/AAABmKJZ-0g/16x9-big/windows-10-102.jpg?width=1280"
+  },
+  {
     "id": "38fa6d6a-c580-45cc-a7f4-38309f0f677c",
     "title": "Was sich im September ändert",
     "url": "https://www.tagesschau.de/inland/gesellschaft/neu-ab-september-116.html",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
     "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
     "date": "2021-11-29T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
