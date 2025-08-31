@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://www.theguardian.com/us-news/2025/aug/31/california-pacific-kelp-forest",
+    "title": "‘The forgotten forest’: how smashing 5.6m urchins saved a California kelp paradise",
+    "url": "https://www.theguardian.com/us-news/2025/aug/31/california-pacific-kelp-forest",
+    "summary": "Pollution, warm oceans and hungry urchins devastated Pacific kelp. Now, thanks to divers with hammers, one of the world’s most successful rehabilitation projects has helped it rebound On an overcast Tuesday in July, divers Mitch Johnson and Sean Taylor shimmy into their wetsuits on the back of the R/V Xenarcha, a 28ft boat floating off the coast of Rancho Palos Verdes, south of Los Angeles. Behind them, the clear waters of the Pacific are dotted with a forest of army-green strands, waving like mermaid hair underwater. We are here to survey the giant Pacific kelp, a species that once thrived in these ice cold waters. But over the past two decades, a combination of warm ocean temperatures, pollution, overfishing and the proliferation of hungry sea urchins that devour the kelp has led to a 80% decline in the forest along the southern California coast. Continue reading...",
+    "date": "2025-08-31T16:00:34.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/028e4b43f6e3ddc35e2f07122b681069066423cf/125_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=20fa7df59eb1e723673799445c1d71f4"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2025/aug/31/us-beaches-fecal-contamination-warnings-labor-day-weekend",
+    "title": "US beaches hit with fecal contamination warnings ahead of Labor Day weekend",
+    "url": "https://www.theguardian.com/us-news/2025/aug/31/us-beaches-fecal-contamination-warnings-labor-day-weekend",
+    "summary": "Beaches from Florida to Maine under advisories, leading to closures at some of the most popular beach destinations Beaches across the US are facing swimming caution advisories during the Labor Day holiday weekend due to water quality concerns caused by elevated levels of bacteria associated with fecal waste. Beaches from Crystal River, Florida, to Ogunquit, Maine, have been under advisories this week, discouraging beachgoers from entering the water because the bacteria can cause gastrointestinal illness, rashes and nausea. Continue reading...",
+    "date": "2025-08-31T14:50:31.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/360cedeeea7c446bd9d4b50f26e85a9405742250/586_0_4012_3209/master/4012.jpg?width=700&quality=85&auto=format&fit=max&s=320366cb1c79bf8a4da26bf9d1d17181"
+  },
+  {
+    "id": "fdaa5c72-500f-45aa-99fe-97f4e59c7545",
+    "title": "Hunderte Dörfer in Pakistan wegen Monsun-Regenfällen evakuiert",
+    "url": "https://www.tagesschau.de/ausland/asien/pakistan-monsun-ueberschwemmungen-evakuierungen-100.html",
+    "summary": "Die Monsunzeit bringt Pakistan an die Belastungsgrenze. Sintflutartige Regenfälle haben 2.000 Dörfer in der Region Punjab überschwemmt. Insgesamt sind mehr als zwei Millionen Menschen betroffen. Und die nächste Regenwelle rollt bereits an.",
+    "date": "2025-08-31T14:50:12.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/eac9c29c-71a6-4474-8fc0-668d8cf503e1/AAABmQCbdGE/AAABmKJZ-0g/16x9-big/pakistan-592.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/31/hunting-personal-essay",
     "title": "I’m a liberal who loves hunting. Allow me to change your mind",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/31/hunting-personal-essay",
@@ -72,15 +99,6 @@
     "image": "https://i.guim.co.uk/img/media/f255e59b1df9494d2bf782873fac2de0e22a1656/443_0_4465_3572/master/4465.jpg?width=700&quality=85&auto=format&fit=max&s=d74bdd955751cd49e25c568ae39dde20"
   },
   {
-    "id": "3df14ba1-9ad0-4c26-800f-a6c152d2ba38",
-    "title": "Warren Buffett wird 95: Ein Investor wie ein Guru",
-    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/warren-buffett-95-jahre-100.html",
-    "summary": "Geht es um möglichst clevere Geldanlage, schaut die Finanzwelt seit jeher vor allem auf einen Mann: Warren Buffett. Was hat den US-Investor und Multimilliardär so erfolgreich gemacht? Von Samir Ibrahim.",
-    "date": "2025-08-30T06:16:40.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e8952fb2-6a66-40b6-9272-d71f8c7c5f15/AAABmPUV3L8/AAABmKJZ-0g/16x9-big/buffett-136.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/aug/30/uk-largest-lake-lough-neagh-faces-environmental-crisis-as-rescue-plans-stall",
     "title": "UK’s largest lake faces environmental crisis as rescue plans stall",
     "url": "https://www.theguardian.com/environment/2025/aug/30/uk-largest-lake-lough-neagh-faces-environmental-crisis-as-rescue-plans-stall",
@@ -126,15 +144,6 @@
     "image": "https://interactive.carbonbrief.org/factcheck/images/social-images/solar-thumbnail.png"
   },
   {
-    "id": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
-    "title": "Humans inhale as much as 68,000 microplastic particles daily, study finds",
-    "url": "https://www.theguardian.com/environment/2025/aug/28/microplastics-in-hair-study",
-    "summary": "Particles are small enough to burrow into lungs, says report, with health impacts ‘more substantial than we realize’ Every breath people take in their homes or car probably contains significant amounts of microplastics small enough to burrow deep into lungs, new peer-reviewed research finds, bringing into focus a little understood route of exposure and health threat. The study, published in the journal Plos One, estimates humans can inhale as much as 68,000 tiny plastic particles daily. Previous studies have identified larger pieces of airborne microplastics, but those are not as much of a health threat because they do not hang in the air as long, or move as deep into the pulmonary system. Continue reading...",
-    "date": "2025-08-28T12:00:52.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/56a5ba562711602294bbd692995ce1ec72a8cf68/455_0_4561_3648/master/4561.jpg?width=700&quality=85&auto=format&fit=max&s=d32d4d5edf123c091ff4d2fef6ca6072"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/aug/28/asian-hornets-threat-uk-bees-trackers-teamwork-aoe",
     "title": "Post-it notes and tiny trackers: behind the race to stop Asian hornets thriving in the UK",
     "url": "https://www.theguardian.com/environment/2025/aug/28/asian-hornets-threat-uk-bees-trackers-teamwork-aoe",
@@ -160,15 +169,6 @@
     "date": "2025-08-27T15:28:41.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2021/09/hero-5-01-2.png"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/27/trump-pfas-forever-chemicals-us-farms",
-    "title": "The unlikely alliance pressing Trump to regulate Pfas on US farms: ‘This is a basic human right’",
-    "url": "https://www.theguardian.com/environment/2025/aug/27/trump-pfas-forever-chemicals-us-farms",
-    "summary": "A group of farmers, bikers, truckers and scientists from the political left and right are working to bring attention to the health risks of using toxic sludge as fertilizer An unlikely alliance of farmers, bikers, truckers, a detective and scientists from across the political spectrum are working to pressure the Trump administration and Republican leadership to rein in the use of toxic sewage sludge as fertilizer on the nation’s farmland. Sludge often teems with Pfas, or “forever chemicals”, which present a health risk to farmers and the public, and have destroyed farms and contaminated water across the country. The issue has touched the groups’ lives in different ways, highlighting its broad risks to health. Continue reading...",
-    "date": "2025-08-27T14:41:34.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/9ef2e655fb83a8cd8a61c5cc2e6d44c19d44ca8f/500_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=27a36fe19b745b77ad59904c10a2267e"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58856",
