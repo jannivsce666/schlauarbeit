@@ -1,5 +1,23 @@
 [
   {
+    "id": "38fa6d6a-c580-45cc-a7f4-38309f0f677c",
+    "title": "Was sich im September ändert",
+    "url": "https://www.tagesschau.de/inland/gesellschaft/neu-ab-september-116.html",
+    "summary": "Das Ende des \"Wärmepumpenprivilegs\", Neuerungen bei der elektronischen Patientenakte und ein bundesweiter Warntag. Welche Änderungen es im September gibt.",
+    "date": "2025-08-31T00:38:07.000Z",
+    "source": "tagesschau",
+    "image": "https://www.brisant.de/energiekosten-110_v-variantBig16x9_wm-true_zc-ecbbafc6.jpg?version=0835"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/aug/31/former-un-climate-chief-urges-australia-to-set-prosperity-target-of-cutting-emissions-by-75-by-2035",
+    "title": "Former UN climate chief urges Australia to set ‘prosperity’ target of cutting emissions by 75% by 2035",
+    "url": "https://www.theguardian.com/environment/2025/aug/31/former-un-climate-chief-urges-australia-to-set-prosperity-target-of-cutting-emissions-by-75-by-2035",
+    "summary": "Exclusive: Ambitious target would increase the country’s chance of winning rights to host Cop31 in 2026, Christiana Figueres says Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here A former UN climate chief has urged the Australian government to set a greenhouse gas emissions reduction target of at least a 75% cut by 2035, backing calls from a group of more than 350 businesses that it would be better for the economy than a lower goal. The intervention by Christiana Figueres, an architect of the 2015 Paris agreement when she was the executive secretary of the UN framework convention on climate change, comes before discussions about Australia’s commitment, due to be announced next month. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+    "date": "2025-08-30T20:00:12.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/ea63653d0956137994552244f27d087cc19f238e/487_0_4025_3221/master/4025.jpg?width=700&quality=85&auto=format&fit=max&s=e3673fee777c2dcedc8cd7f723cc9898"
+  },
+  {
     "id": "2cd9f905-0e3f-460d-b902-9fcfe9fcf1ef",
     "title": "EU fordern von den USA das Einreiseverbot für Abbas zu kippen",
     "url": "https://www.tagesschau.de/ausland/amerika/abbas-us-visum-102.html",
@@ -43,24 +61,6 @@
     "date": "2025-08-30T05:00:52.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/65f391901bfc54ef971b9ff89cc2b0c9328768d4/0_0_1505_1204/master/1505.jpg?width=700&quality=85&auto=format&fit=max&s=148af435f151c19216040acbf7b74019"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/30/murray-watt-backs-no-go-zones-where-development-is-banned-but-not-for-tasmanias-robbins-island",
-    "title": "Murray Watt backs ‘no-go’ zones where development is banned – but not for Tasmania’s Robbins Island",
-    "url": "https://www.theguardian.com/environment/2025/aug/30/murray-watt-backs-no-go-zones-where-development-is-banned-but-not-for-tasmanias-robbins-island",
-    "summary": "Environment minister says scientific evidence did not convince government that remote island qualified Get our breaking news email, free app or daily news podcast Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Australia’s environment minister, Murray Watt, has backed the creation of “no-go zones” where development will be banned in some places under a revamped nature law, but said Tasmania’s remote Robbins Island – the site of a contentious windfarm proposal – does not qualify. Watt this week said the Albanese government would accelerate its plan to overhaul the Environment Protection and Biodiversity Conservation (EPBC) Act so that legislation was introduced to parliament this year, sooner than previously suggested. Continue reading...",
-    "date": "2025-08-29T15:00:36.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/9ec97ff21ca763ecc61a4db17a17d5805aabe92e/596_0_6043_4835/master/6043.jpg?width=700&quality=85&auto=format&fit=max&s=5c8020aab02651a28d5c03aadae85394"
-  },
-  {
-    "id": "https://www.theguardian.com/politics/2025/aug/29/newly-elected-scottish-green-leaders-ross-greer-gillian-mackay-campaign-universal-income-free-bus-travel",
-    "title": "Newly elected Scottish Green leaders to campaign on universal income and free bus travel",
-    "url": "https://www.theguardian.com/politics/2025/aug/29/newly-elected-scottish-green-leaders-ross-greer-gillian-mackay-campaign-universal-income-free-bus-travel",
-    "summary": "Ross Greer and Gillian Mackay, elected after 12.7% turnout, also vow to campaign on higher taxation of rich UK politics live – latest updates The new leaders of the Scottish Greens, Ross Greer and Gillian Mackay, have promised to campaign for a universal income, free bus travel and higher taxation on the rich after winning a muted election contest. Greer and Mackay, who were both backbench MSPs at Holyrood, were appointed co-leaders of the Scottish Greens after a noticeably low turnout of 12.7% – only 950 of the party’s 7,500 members voted after a low-key summer campaign. Continue reading...",
-    "date": "2025-08-29T11:55:57.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/d15875e4968abefd788d2594854ad13947a6fef8/92_0_4738_3790/master/4738.jpg?width=700&quality=85&auto=format&fit=max&s=e1e4fffc1575bf25dd6e054dc8e76529"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58891",
@@ -429,7 +429,7 @@
     "summary": "Iveco CEO says Euro 7 vehicle emissions regulation is ‘plain stupid’ Euractiv",
     "date": "2023-03-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
@@ -495,6 +495,15 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
+    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
+    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
+    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
+    "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
     "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
