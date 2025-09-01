@@ -3,7 +3,7 @@
     "id": "2cb0abb2-de7b-4793-b565-e0a7a4ace068",
     "title": "Wie Forschende alte Bäume retten wollen",
     "url": "https://www.tagesschau.de/wissen/klimawandel-baeume-bewaesserung-100.html",
-    "summary": "Jahrhundertealte Bäume sind in vielen Parks und Gärten vom Klimawandel bedroht. Forschende in Stuttgart versuchen, die Stresssymptome der Gehölze frühzeitig zu erkennen - mit Drohnen und Sensoren. Von Martin Lang.",
+    "summary": "Jahrhundertealte Bäume sind in vielen Parks und Gärten vom Klimawandel bedroht. Forschende in Stuttgart versuchen, die Stresssymptome der Gehölze frühzeitig zu erkennen - mit Drohnen und Sensoren. Von Michael Lang.",
     "date": "2025-09-01T11:52:09.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/26bcc129-b477-45d3-b7ee-9b92d4a626a8/AAABmQUeztQ/AAABmKJZ-0g/16x9-big/baeume-stuttgart-100.jpg?width=1280"
@@ -88,15 +88,6 @@
     "date": "2025-08-31T10:33:47.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/3fb093f6-8906-46f8-badd-e5615569386e/AAABmP-ZHQU/AAABmKJZ-0g/16x9-big/arthur-brauss-100.jpg?width=1280"
-  },
-  {
-    "id": "a3e594e1-4ce0-4375-a51c-fa70fa459e4e",
-    "title": "Support-Ende für Windows 10: Millionen PCs betroffen",
-    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/windows10-support-microsoft-100.html",
-    "summary": "Mitte Oktober stellt Microsoft die regulären Sicherheits-Updates für Windows 10 ein. Erstmals können auch Privatnutzer an einem offiziellen Verlängerungsprogramm teilnehmen. Experten empfehlen dennoch ein Update. Von Jens Eberl.",
-    "date": "2025-08-31T03:12:28.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/65ae59ce-23bf-4c25-8666-cca3a5de63ef/AAABmOGMrFs/AAABmKJZ-0g/16x9-big/windows-10-102.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/aug/30/climate-gov-website-trump",
@@ -365,6 +356,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaWtpVkVDNjNIMHk3Q3JaWDlRdDRmMHJ5a0xwbTJtbVFmbGhSR0JwSDJreVFsa0NENTc1c1RtelhHMmNoQnBDQ05BSUxQbm51ekJ3dDBkNXp4MF9ybnpoXzJWczFEd0txSFhMN0paREFwSi1OeUxVS2lVTGZaOG5JRHcyNDdUQ21nclk2ekZwOEV5eXVVTUVIeGo3MDAtTU14NUM0NGFJRmlmQQ?oc=5",
     "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
     "date": "2025-01-05T14:31:59.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMitgFBVV95cUxPT0Z0UHh5YXlfTWZHR3liTllLYy03R2FBM2gzaEpTNmRXTHhnSFlMREZseldpVWp6MlN0aXA0a2JPeEp2U2RoZHF5ZGhkU3ZyRUJUZWxWY1FyV0h4Tm91ckstNmQ2eDdPLWNrYlF1MzVycElRWWJPMHBYN1NSeTRVTUVOZ21zdFNhamZhY2hjT3dmQ2M3ZExaTlltNUtSM1B0ejlqUDJxVkNxbm1Wd2Y3SnNSdldJdw",
+    "title": "Germany arrests suspected members of neo-Nazi group plotting revolt - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0Z0UHh5YXlfTWZHR3liTllLYy03R2FBM2gzaEpTNmRXTHhnSFlMREZseldpVWp6MlN0aXA0a2JPeEp2U2RoZHF5ZGhkU3ZyRUJUZWxWY1FyV0h4Tm91ckstNmQ2eDdPLWNrYlF1MzVycElRWWJPMHBYN1NSeTRVTUVOZ21zdFNhamZhY2hjT3dmQ2M3ZExaTlltNUtSM1B0ejlqUDJxVkNxbm1Wd2Y3SnNSdldJdw?oc=5",
+    "summary": "Germany arrests suspected members of neo-Nazi group plotting revolt Euractiv",
+    "date": "2024-11-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
