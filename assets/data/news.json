@@ -1,5 +1,23 @@
 [
   {
+    "id": "https://www.theguardian.com/world/2025/sep/01/spain-pm-pedro-sanchez-plan-tackle-climate-crisis",
+    "title": "Climate change kills, Spanish PM tells deniers at launch of plan to tackle crisis",
+    "url": "https://www.theguardian.com/world/2025/sep/01/spain-pm-pedro-sanchez-plan-tackle-climate-crisis",
+    "summary": "Pedro Sánchez says country’s deadly August wildfires show society needs to mobilise and take immediate action Spain’s prime minister, Pedro Sánchez, has announced a 10-point plan to prepare the country for the climate emergency, warning: “If we don’t want to bequeath our children a Spain that’s grey from fire and flames, or a Spain that’s brown from floods, then we need a Spain that’s greener.” Sánchez said August’s heatwave-fuelled wildfires – which killed four people, burned through an area six times the size of Ibiza and required “the biggest human and technical deployment” ever seen in Spain – showed that immediate action must be taken to mitigate the effects of the climate crisis. Continue reading...",
+    "date": "2025-09-01T15:07:23.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/a24beb22291bc8d9f77977b888e4c4e3bb7cc564/853_0_4299_3440/master/4299.jpg?width=700&quality=85&auto=format&fit=max&s=af9197b9ccfb2ab1f735db31ce155d62"
+  },
+  {
+    "id": "663da807-7479-478d-a49f-685da6d0d9cc",
+    "title": "SOZ-Gipfeltreffen in China: Gemeinsam für eine neue Weltordnung",
+    "url": "https://www.tagesschau.de/ausland/asien/shanghaier-organisation-zusammenarbeit-gipfel-100.html",
+    "summary": "Roter Teppich, Schulterklopfen, Familienfoto - beim Treffen der Shanghaier Organisation für Zusammenarbeit demonstrierten die Mitgliedstaaten Geschlossenheit. Ein Zeichen auch gegen den Westen. Von Eva Lamby-Schmitt.",
+    "date": "2025-09-01T14:45:30.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/40deee11-8bc2-4cc0-96d6-58b59cad7fe5/AAABmQWbLpQ/AAABmKJZ-0g/16x9-big/familienfoto-gipfeltreffen-sco-100.jpg?width=1280"
+  },
+  {
     "id": "2cb0abb2-de7b-4793-b565-e0a7a4ace068",
     "title": "Wie Forschende alte Bäume retten wollen",
     "url": "https://www.tagesschau.de/wissen/klimawandel-baeume-bewaesserung-100.html",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
-    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
-    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
-    "date": "2021-11-29T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
