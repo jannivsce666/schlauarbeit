@@ -81,15 +81,6 @@
     "image": "https://i.guim.co.uk/img/media/360cedeeea7c446bd9d4b50f26e85a9405742250/586_0_4012_3209/master/4012.jpg?width=700&quality=85&auto=format&fit=max&s=320366cb1c79bf8a4da26bf9d1d17181"
   },
   {
-    "id": "fdaa5c72-500f-45aa-99fe-97f4e59c7545",
-    "title": "Hunderte Dörfer in Pakistan wegen Monsun-Regenfällen evakuiert",
-    "url": "https://www.tagesschau.de/ausland/asien/pakistan-monsun-ueberschwemmungen-evakuierungen-100.html",
-    "summary": "Die Monsunzeit bringt Pakistan an die Belastungsgrenze. Sintflutartige Regenfälle haben 2.000 Dörfer in der Region Punjab überschwemmt. Insgesamt sind mehr als zwei Millionen Menschen betroffen. Und die nächste Regenwelle rollt bereits an.",
-    "date": "2025-08-31T14:50:12.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/eac9c29c-71a6-4474-8fc0-668d8cf503e1/AAABmQCbdGE/AAABmKJZ-0g/16x9-big/pakistan-592.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/31/hunting-personal-essay",
     "title": "I’m a liberal who loves hunting. Allow me to change your mind",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/31/hunting-personal-essay",
@@ -429,7 +420,7 @@
     "summary": "Iveco CEO says Euro 7 vehicle emissions regulation is ‘plain stupid’ Euractiv",
     "date": "2023-03-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
+    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
+    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
+    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
