@@ -1,12 +1,48 @@
 [
   {
+    "id": "b281d2c1-167d-451c-8b39-b277edf6a1a9",
+    "title": "30-jährige Rendite stark gestiegen: Warnsignal vom Anleihemarkt",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/30-jaehrige-bundesanleihe-rendite-100.html",
+    "summary": "Bundesanleihen mit 30 Jahren Laufzeit rentieren aktuell so hoch wie zuletzt 2011. Ein unmissverständliches Signal, dass das Vertrauen in die deutsche Finanzpolitik leidet. Von Detlev Landmesser.",
+    "date": "2025-09-02T14:12:26.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/29cf10e0-e255-47c1-8728-8385b4b98881/AAABmQndAAg/AAABmKJZ-0g/16x9-big/staatshaushalt-100.jpg?width=1280"
+  },
+  {
+    "id": "21f93c90-894d-4382-beef-48cc63738033",
+    "title": "Grüne kündigen Gegenwind für schwarz-rote Regierung an",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-klausur-fraktion-100.html",
+    "summary": "Nach der Klausurtagung von CDU, CSU und SPD haben sich jetzt auch die Fraktionsspitzen der Grünen getroffen. Zum Start gab es heftige Attacken gegen Schwarz-Rot. Die Bundesregierung schade mit ihrer Politik sowohl dem Klima als auch der Wirtschaft.",
+    "date": "2025-09-02T13:34:09.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/8ff1e9ef-7dc9-459a-832c-00f29955ed7c/AAABmQqM2FI/AAABmKJZ-0g/16x9-big/droege-hasselmann-106.jpg?width=1280"
+  },
+  {
     "id": "6ce57cb9-5ece-48a2-8e10-8fa6c17d3a88",
     "title": "Ukraine-Liveblog: ++ Putin fordert von Slowakei Stopp von Energielieferungen ++",
     "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-dienstag-482.html",
     "summary": "Der russische Präsident Putin hat die Slowakei aufgefordert, Energielieferungen an die Ukraine auszusetzen. Südkorea zufolge sollen in der Ukraine mehr als 2.000 nordkoreanische Soldaten getötet worden sein.",
-    "date": "2025-09-02T12:54:50.000Z",
+    "date": "2025-09-02T13:32:12.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/3f6c76ec-5552-4a9f-9d2a-fd14bee3f60b/AAABmQpmHAk/AAABmKJZ-0g/16x9-big/putin-fico-100.jpg?width=1280"
+  },
+  {
+    "id": "d93bb33b-3f43-409a-9ab1-282b9ee9111a",
+    "title": "Geheimdienste und BKA warnen vor russischen Anwerbeversuchen",
+    "url": "https://www.tagesschau.de/inland/gesellschaft/anwerbung-russische-agenten-100.html",
+    "summary": "Es beginnt mit einer Nachricht in einem Messengerdienst: Sicherheitsbehörden beobachten zunehmend Versuche, Menschen online für Spionage anzuwerben. Oft sollen russische Geheimdienste dahinterstecken.",
+    "date": "2025-09-02T13:19:10.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/32f53bba-8b18-40d3-9ab5-7fdc40fb9977/AAABmQpzfZo/AAABmKJZ-0g/16x9-big/botschaft-russland-berlin-108.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2025/sep/02/trump-administration-climate-report",
+    "title": "Trump team’s contentious climate report ‘makes a mockery of science’, experts say",
+    "url": "https://www.theguardian.com/us-news/2025/sep/02/trump-administration-climate-report",
+    "summary": "Over 85 top climate specialists lambasted administration’s review, calling it a ‘shoddy mess’ that downplays risks A group of the US’s leading climate scientists have compiled a withering review of a controversial Trump administration report that downplays the risks of the climate crisis, finding that the document is biased, riddled with errors and fails basic scientific credibility. More than 85 climate experts have contributed to a comprehensive 434-page report that excoriates a US Department of Energy (DOE) document written by five hand-picked fringe researchers that argues that global heating and its resulting consequences have been overstated. Continue reading...",
+    "date": "2025-09-02T13:00:54.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/097b04c685d1a0d9e9fc442f4c56b3fcdb878aad/339_0_4585_3668/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=ee1a6b0bbbf7b0d020dd69769a06fb38"
   },
   {
     "id": "d8d833cd-1bd1-4c4c-8591-83376549a82f",
@@ -90,15 +126,6 @@
     "image": "https://images.tagesschau.de/image/40deee11-8bc2-4cc0-96d6-58b59cad7fe5/AAABmQWbLpQ/AAABmKJZ-0g/16x9-big/familienfoto-gipfeltreffen-sco-100.jpg?width=1280"
   },
   {
-    "id": "2cb0abb2-de7b-4793-b565-e0a7a4ace068",
-    "title": "Wie Forschende alte Bäume retten wollen",
-    "url": "https://www.tagesschau.de/wissen/klimawandel-baeume-bewaesserung-100.html",
-    "summary": "Jahrhundertealte Bäume sind in vielen Parks und Gärten vom Klimawandel bedroht. Forschende in Stuttgart versuchen, die Stresssymptome der Gehölze frühzeitig zu erkennen - mit Drohnen und Sensoren. Von Michael Lang.",
-    "date": "2025-09-01T11:52:09.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/26bcc129-b477-45d3-b7ee-9b92d4a626a8/AAABmQUeztQ/AAABmKJZ-0g/16x9-big/baeume-stuttgart-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/sep/01/im-obsessed-with-deep-sea-sharks-endangered-threat-bottom-trawling-ocean-mining",
     "title": "I’m obsessed with deep sea sharks: their bioluminescent spots are just visible in the pitch black environment they live in",
     "url": "https://www.theguardian.com/environment/2025/sep/01/im-obsessed-with-deep-sea-sharks-endangered-threat-bottom-trawling-ocean-mining",
@@ -142,15 +169,6 @@
     "date": "2025-08-31T12:33:52.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/5aad94137e3439bfce49094978dace33d7381679/506_0_3673_2939/master/3673.jpg?width=700&quality=85&auto=format&fit=max&s=885f80ebad705589681395c1b5eecd54"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/aug/30/climate-gov-website-trump",
-    "title": "Scientists breathe new life into climate website after shutdown under Trump",
-    "url": "https://www.theguardian.com/environment/2025/aug/30/climate-gov-website-trump",
-    "summary": "Climate.gov, which went dark this summer, to be revived by volunteers as climate.us with expanded mission Earlier this summer, access to climate.gov – one of the most widely used portals of climate information on the internet – was thwarted by the Trump administration, and its production team was fired in the process. The website offered years’ worth of accessibly written material on climate science. The site is technically still online but has been intentionally buried by the team of political appointees who now run the National Oceanic and Atmospheric Administration. Continue reading...",
-    "date": "2025-08-30T10:00:01.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/f255e59b1df9494d2bf782873fac2de0e22a1656/443_0_4465_3572/master/4465.jpg?width=700&quality=85&auto=format&fit=max&s=d74bdd955751cd49e25c568ae39dde20"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58891",
@@ -501,7 +519,7 @@
     "summary": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING Euractiv Events",
     "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
-    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
-    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
-    "date": "2022-02-22T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
-    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
-    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
-    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
