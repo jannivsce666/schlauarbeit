@@ -1,5 +1,14 @@
 [
   {
+    "id": "0c24679f-77d6-485b-b362-713c85b8801b",
+    "title": "Standseilbahn in Lissabon entgleist - 15 Tote",
+    "url": "https://www.tagesschau.de/ausland/europa/portugal-lissabon-unfall-100.html",
+    "summary": "In der portugiesischen Hauptstadt Lissabon ist die bekannte Standseilbahn \"Elevador da Glória\" entgleist und umgekippt. Laut Polizei gibt es mindestens 15 Tote und mehrere Verletzte.",
+    "date": "2025-09-03T20:08:17.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/1c7e0717-374b-46d0-8e03-8d896f79ed27/AAABmRD-Du8/AAABmKJZ-0g/16x9-big/unfall-lissabon-100.jpg?width=1280"
+  },
+  {
     "id": "2e6af0a5-d058-42f3-baa4-8c2658bff13b",
     "title": "Kommunalwahlen NRW: Keine Unregelmäßigkeiten bei toten AfD-Kandidaten",
     "url": "https://www.tagesschau.de/faktenfinder/todesfaelle-kommunalwahl-nrw-100.html",
@@ -384,7 +393,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU’s battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -529,14 +538,5 @@
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-  },
-  {
-    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
-    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
-    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
-    "date": "2022-02-22T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
   }
 ]
