@@ -63,15 +63,6 @@
     "image": "https://i.guim.co.uk/img/media/6d49178d3b69343d17ae19691c0e03d16e87538f/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=3f8520e9b26de763f3cabe4d31e4f58c"
   },
   {
-    "id": "7c58d163-48b4-42d8-8369-eca3a7c48a09",
-    "title": "Agrarminister Rainer: Kurswechsel im Landwirtschaftsministerium",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/landwirtschaft-minister-rainer-100.html",
-    "summary": "Bei Amtsantritt versprach Landwirtschaftsminister Rainer eine Kehrtwende in der Agrarpolitik. Etliche Forderungen des Bauernverbandes hat er inzwischen umgesetzt. Doch das kommt nicht überall gut an. Von Eva Ellermann.",
-    "date": "2025-09-03T08:39:46.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/b7ca9e7c-9134-4cb3-97d0-ca120854f28c/AAABl_MW4oI/AAABmKJZ-0g/16x9-big/alois-rainer-102.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/commentisfree/2025/sep/03/hottest-british-summer-on-record-ecosystems-climate-crisis",
     "title": "This was the hottest summer on record. If it happens again next year, Britain’s ecosystems won’t cope | Lucy Jones",
     "url": "https://www.theguardian.com/commentisfree/2025/sep/03/hottest-british-summer-on-record-ecosystems-climate-crisis",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
