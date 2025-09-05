@@ -1,5 +1,23 @@
 [
   {
+    "id": "f4344747-2e68-4bbe-a65b-a4af6f25e52d",
+    "title": "Marktbericht: Anleger wetten auf Zinssenkung der Fed",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-fed-zinsen-gold-oel-aktien-100.html",
+    "summary": "Der DAX bleibt zum Wochenschluss auf Erholungskurs - Rückenwind kommt dabei auch von der Wall Street. Anleger festigen ihre Wetten auf eine Zinssenkung der US-Notenbank.",
+    "date": "2025-09-05T05:30:56.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/eef688e1-3cc2-401d-be82-307a4db4b359/AAABleIPFZA/AAABmKJZ-0g/16x9-big/powell-196.jpg?width=1280"
+  },
+  {
+    "id": "07f9be40-21a7-484c-b045-789f41626968",
+    "title": "Supercomputer \"Jupiter\" geht an den Start",
+    "url": "https://www.tagesschau.de/wissen/technologie/einweihung-supercomputer-jupiter-100.html",
+    "summary": "Er soll Klimamodelle berechnen, Medikamente entwickeln - und Europas Position im globalen KI-Rennen stärken. \"Jupiter\" ist der schnellste Supercomputer Europas. Er steht in Jülich und wird heute offiziell eingeweiht. Von Sebastian Moritz.",
+    "date": "2025-09-05T04:38:37.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/84c1172a-5d94-4af0-bb00-84e5f8debf26/AAABl1nA_t4/AAABmKJZ-0g/16x9-big/supercomputer-110.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/australia-news/2025/sep/04/australia-needs-530bn-capital-to-meet-70-climate-goal-business-council-claims-ahead-of-new-2035-target",
     "title": "Andrew Forrest’s Fortescue rejects ‘credibility’ of business council modelling on 2035 emissions target",
     "url": "https://www.theguardian.com/australia-news/2025/sep/04/australia-needs-530bn-capital-to-meet-70-climate-goal-business-council-claims-ahead-of-new-2035-target",
@@ -72,15 +90,6 @@
     "image": "https://i.guim.co.uk/img/media/de36e4a0b7cce3ab64ad2ac6df677371ccb43191/0_372_2336_1869/master/2336.jpg?width=700&quality=85&auto=format&fit=max&s=0fdefdb133977406fead4c938380def2"
   },
   {
-    "id": "https://www.theguardian.com/environment/2025/sep/04/englands-road-runoff-pollution-problem-being-ignored-mps-told",
-    "title": "England’s toxic road runoff pollution being ignored, MPs told",
-    "url": "https://www.theguardian.com/environment/2025/sep/04/englands-road-runoff-pollution-problem-being-ignored-mps-told",
-    "summary": "Carcinogens entering waterways from 25,000 road outflows are not monitored or regulated by Environment Agency, committee hears Toxic, carcinogenic pollution that pours from 25,000 road outflows into rivers in England is being ignored by politicians and regulators, MPs have been told. Road runoff containing toxic particles from tyres and brakes, and pollution from fuel and oil spills – which washes into rivers after rainfall – can devastate aquatic life and, by increasing toxicity, reduce the overall health of waterways. It is responsible for 18% of the reason all rivers fail to meet good ecological and chemical standards. Continue reading...",
-    "date": "2025-09-04T09:47:06.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/7c4c0e173c77b6da490d36e1edf19f8ab0ad2c91/0_0_4159_3327/master/4159.jpg?width=700&quality=85&auto=format&fit=max&s=3b0966656df62bccd68c2ce8ff061782"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/sep/04/the-far-rights-green-bashing-has-given-mainstream-parties-an-excuse-to-do-nothing-but-we-have-more-agency-than-we-think",
     "title": "The far right’s green bashing has given mainstream parties an excuse to do nothing – but we have more agency than we think | Ajit Niranjan",
     "url": "https://www.theguardian.com/environment/2025/sep/04/the-far-rights-green-bashing-has-given-mainstream-parties-an-excuse-to-do-nothing-but-we-have-more-agency-than-we-think",
@@ -88,15 +97,6 @@
     "date": "2025-09-04T09:00:48.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/89fc0d742ca43700ec96a57bec9920f266736101/74_0_4232_3385/master/4232.jpg?width=700&quality=85&auto=format&fit=max&s=94f1a83dcaf6fbdab5288dc020ba78ed"
-  },
-  {
-    "id": "0c24679f-77d6-485b-b362-713c85b8801b",
-    "title": "Standseilbahn in Lissabon entgleist - 15 Tote",
-    "url": "https://www.tagesschau.de/ausland/europa/portugal-lissabon-unfall-100.html",
-    "summary": "In der portugiesischen Hauptstadt Lissabon ist die bekannte Standseilbahn \"Elevador da Glória\" entgleist und umgekippt. Laut Polizei gibt es mindestens 15 Tote und mehrere Verletzte.",
-    "date": "2025-09-03T20:08:17.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/1c7e0717-374b-46d0-8e03-8d896f79ed27/AAABmRD-Du8/AAABmKJZ-0g/16x9-big/unfall-lissabon-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/sep/03/extreme-heat-schools-education",
@@ -420,7 +420,7 @@
     "summary": "Media Partnership: Decarbonising fertilizer production. Pathways to sustainable food Euractiv Events",
     "date": "2023-11-14T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
@@ -438,7 +438,7 @@
     "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
     "date": "2023-01-13T06:04:51.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw",
