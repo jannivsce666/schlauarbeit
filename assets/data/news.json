@@ -1,5 +1,41 @@
 [
   {
+    "id": "2c4b563f-2e02-4d1e-a3ae-c1a2240588ee",
+    "title": "EU verhängt Milliardenstrafe gegen Google",
+    "url": "https://www.tagesschau.de/ausland/europa/eu-geldstrafe-google-102.html",
+    "summary": "Die EU-Kommission hat gegen Google wegen Verstößen gegen Wettbewerbsregeln im Werbegeschäft eine Strafe von 2,95 Milliarden Euro verhängt. Der US-Konzern habe eigene Online-Werbedienstleistungen zum Nachteil anderer Anbieter bevorzugt.",
+    "date": "2025-09-05T15:56:31.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/ee9baf1a-85b9-4905-be9f-a2c00321d4fe/AAABmRqOAg0/AAABmKJZ-0g/16x9-big/google-378.jpg?width=1280"
+  },
+  {
+    "id": "524b78bf-6323-48f1-ae77-32ac11067e9e",
+    "title": "Wie Gerüchte über US-Präsident Trumps angeblichen Tod viral gehen",
+    "url": "https://www.tagesschau.de/faktenfinder/todesgeruechte-trump-100.html",
+    "summary": "Im Internet spekulieren User immer wieder über die Gesundheit des US-Präsidenten. Dabei werden auch Fälschungen und Falschbehauptungen verbreitet - wie über Trumps angeblichen Tod. Von C. Reveland und C. Saathoff.",
+    "date": "2025-09-05T15:28:06.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/50421bd8-cc0c-4b98-a6dd-5b8d07d571d0/AAABmRkugoI/AAABmKJZ-0g/16x9-big/trump-4294.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/politics/2025/sep/05/uk-children-barriers-outdoor-play-poor-planning-study",
+    "title": "UK children face barriers to outdoor play due to poor planning, says study",
+    "url": "https://www.theguardian.com/politics/2025/sep/05/uk-children-barriers-outdoor-play-poor-planning-study",
+    "summary": "‘Fragmented’ policies leading councils to prioritise approval of housebuilding over parks, researchers find Children in cities across Britain face barriers to playing outside because urban planners are prioritising housebuilding over parks, a study has found. The research, published in the peer-reviewed journal Cities and Health, found that planners were prioritising the approval of new homes ahead of outdoor play spaces due to a combination of policy misalignment, financial constraints and pressures stemming from a lack of housing. Continue reading...",
+    "date": "2025-09-05T15:00:26.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/8a084510178d855acccc0ecd8ec691f07c325fce/182_0_4425_3540/master/4425.jpg?width=700&quality=85&auto=format&fit=max&s=623875a3671c36b8921cb618428d06fb"
+  },
+  {
+    "id": "https://www.carbonbrief.org/?p=58939",
+    "title": "DeBriefed 5 September 2025: Pakistan floods hit 1.8m people; UK ‘eco-populism’; How warming threatens a man-made lake",
+    "url": "https://www.carbonbrief.org/debriefed-5-september-2025-pakistan-floods-hit-1-8m-people-uk-eco-populism-how-warming-threatens-a-man-made-lake/",
+    "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 5 September 2025: Pakistan floods hit 1.8m people; UK ‘eco-populism’; How warming threatens a man-made lake appeared first on Carbon Brief.",
+    "date": "2025-09-05T15:00:04.000Z",
+    "source": "Carbon Brief",
+    "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK-1550x1033-1.png"
+  },
+  {
     "id": "87de0ab9-be3f-4f12-8dfb-90bf898fa77f",
     "title": "Gaza-Krieg: Debatte nach Genozid-Äußerung von EU-Kommissionsvize",
     "url": "https://www.tagesschau.de/ausland/gaza-genozid-palaestinenser-voelkermord-israel-100.html",
@@ -252,15 +288,6 @@
     "image": "https://i.guim.co.uk/img/media/292167dea70292cf80dd3dcbf889a6cbe261a05d/250_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=5e748adc04805754dab0c4f9f030c4ae"
   },
   {
-    "id": "https://www.carbonbrief.org/?p=58828",
-    "title": "DeBriefed 22 August 2025: Pakistan floods; China emissions drop; Climate-adaptive architecture",
-    "url": "https://www.carbonbrief.org/debriefed-22-august-2025-pakistan-floods-china-emissions-drop-climate-adaptive-architecture/",
-    "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 22 August 2025: Pakistan floods; China emissions drop; Climate-adaptive architecture appeared first on Carbon Brief.",
-    "date": "2025-08-22T12:56:31.000Z",
-    "source": "Carbon Brief",
-    "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK.png"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/jul/28/ice-raid-farm-workers-california",
     "title": "Self-imposed lockdowns, surveillance fears and forced separations: life for California’s undocumented farmworkers",
     "url": "https://www.theguardian.com/environment/2025/jul/28/ice-raid-farm-workers-california",
@@ -384,7 +411,7 @@
     "summary": "Media Partnership: Decarbonising fertilizer production. Pathways to sustainable food Euractiv Events",
     "date": "2023-11-14T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
@@ -509,33 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmFJaXhBZUFuX2lSNkZCLTFfWUpyWGNIVk8xLWVjNldjMVd3MEdLc1diMVlFSHI3MUxnYmF2MEFzYmk4RlNTa2p5YmFlNngtSFNlLW1kWEZZYXBxT295dXU2OWx3WXROQmNUT0pWS2hTTFJYOV8yem5FbV94aUc5RTE2cGx1bGpWWVZVSUo0TDBBRkU?oc=5",
     "summary": "Media Partnership - Cooperativism and the ESG Agenda Euractiv Events",
     "date": "2021-11-25T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
-    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
-    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
-    "date": "2021-10-26T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
