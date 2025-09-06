@@ -9,15 +9,6 @@
     "image": "https://i.guim.co.uk/img/media/230f351624fb517543fe599c443012b9a52fe8c1/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=6e9695a118049a18ebc5849dff10bcba"
   },
   {
-    "id": "fcca7e39-17bc-4822-86cf-6d47361a3688",
-    "title": "Nahost-Liveblog: ++ Israels Armee zerstört weiteres Hochhaus in Gaza-Stadt ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-samstag-290.html",
-    "summary": "Die israelische Armee hat ein weiteres Hochhaus in Gaza-Stadt angegriffen und zerstört. Die Zivilbevölkerung wurde dazu aufgerufen, in den Süden des Gazastreifens zu fliehen.",
-    "date": "2025-09-06T14:31:54.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/f5afcd36-4b86-461c-86ac-f0dee562414c/AAABmR8otnE/AAABmKJZ-0g/16x9-big/sussi-hochhaus-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/sep/06/lake-tahoe-bottom-dive",
     "title": "What lies beneath: Lake Tahoe dive offers rare view of the deep",
     "url": "https://www.theguardian.com/us-news/2025/sep/06/lake-tahoe-bottom-dive",
@@ -447,7 +438,7 @@
     "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
     "date": "2023-01-13T06:04:51.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
