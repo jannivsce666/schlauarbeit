@@ -1,5 +1,14 @@
 [
   {
+    "id": "d6ab9311-41e6-4e3c-8b8c-9525b3841046",
+    "title": "Ukraine-Liveblog: ++ Merz warnt vor \"imperialistischen\" Plänen Putins ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-530.html",
+    "summary": "Bundeskanzler Merz hat vor einer Ausweitung russischer Machtbestrebungen über die Ukraine hinaus gewarnt. Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert.",
+    "date": "2025-09-08T21:23:31.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/75d22180-5bc2-411e-a1c4-80cf2e060d9e/AAABmSnHFe0/AAABmKJZ-0g/16x9-big/merz-960.jpg?width=1280"
+  },
+  {
     "id": "50e1285f-16a4-4a01-9fa3-4cd9c82a1354",
     "title": "Marktbericht: Nasdaq auf Rekordhoch",
     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-fed-frankreich-iaa-gold-oel-100.html",
@@ -7,15 +16,6 @@
     "date": "2025-09-08T20:20:06.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/1bcebd26-8f4c-41b2-b695-172810b4a84b/AAABleIB8MI/AAABmKJZ-0g/16x9-big/nyse-nasdaq-100.jpg?width=1280"
-  },
-  {
-    "id": "d6ab9311-41e6-4e3c-8b8c-9525b3841046",
-    "title": "Ukraine-Liveblog: ++ Merz warnt vor \"imperialistischen\" Plänen Putins ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-530.html",
-    "summary": "Bundeskanzler Merz hat vor einer Ausweitung russischer Machtbestrebungen über die Ukraine hinaus gewarnt. Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert.",
-    "date": "2025-09-08T19:50:46.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/75d22180-5bc2-411e-a1c4-80cf2e060d9e/AAABmSnHFe0/AAABmKJZ-0g/16x9-big/merz-960.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/08/disposable-face-masks-covid-chemical-timebomb",
@@ -169,15 +169,6 @@
     "date": "2025-09-05T09:30:47.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/chart-hero.webp"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2025/sep/04/rhode-island-connecticut-trump-administration-revolution-wind",
-    "title": "Rhode Island and Connecticut sue over Trump administration’s wind farm halt",
-    "url": "https://www.theguardian.com/us-news/2025/sep/04/rhode-island-connecticut-trump-administration-revolution-wind",
-    "summary": "States claim Revolution Wind project was stopped illegally, threatening jobs, clean energy and billions in investments Rhode Island and Connecticut will sue the Trump administration over its decision to halt the huge Revolution Wind electricity project off the north-east coast of the US, the two announced on Thursday morning. “This kind of erratic and reckless governing is blatantly illegal, and we’re suing to stop it,” said Connecticut attorney general, William Tong, in a statement. Continue reading...",
-    "date": "2025-09-04T16:53:41.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/1fecc337c2253e85fecb9886e471a18fd5640f7a/155_0_5001_4000/master/5001.jpg?width=700&quality=85&auto=format&fit=max&s=e7e3e7213fd2b512744443f5f4105d38"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58915",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
