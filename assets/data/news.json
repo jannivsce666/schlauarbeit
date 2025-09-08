@@ -1,5 +1,23 @@
 [
   {
+    "id": "d6ab9311-41e6-4e3c-8b8c-9525b3841046",
+    "title": "Ukraine-Liveblog: ++ Russland greift ukrainische Energieanlage an ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-530.html",
+    "summary": "Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert. Außenminister Wadephul betonte, Deutschland werde sich an Sicherheitsgarantien für die Ukraine beteiligen.",
+    "date": "2025-09-08T14:18:50.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/5b073b67-29bf-4703-b6b1-71469e4c25bb/AAABldopTPc/AAABmKJZ-0g/16x9-big/flagge-ukraine-truemmer-101.jpg?width=1280"
+  },
+  {
+    "id": "d53fa63a-a666-4a88-ad4a-ab5d6ee92f86",
+    "title": "Südatlantik: Früher größter Eisberg der Welt verschwindet langsam",
+    "url": "https://www.tagesschau.de/wissen/klima/eisberg-schmilzt-100.html",
+    "summary": "Noch vor wenigen Monaten wog der Eisberg A23a fast eine Billion Tonnen und war in etwa so groß wie die Insel Mallorca. Nun fällt er in sich zusammen und könnte innerhalb von Wochen ganz verschwinden.",
+    "date": "2025-09-08T13:48:57.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/f812d93f-e58d-44c0-a00c-3dab260fcead/AAABmSlim84/AAABmKJZ-0g/16x9-big/antarktis-eisberg-102.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/sep/08/floods-could-hit-england-while-country-is-still-in-drought-forecasters-say",
     "title": "Floods could hit England while country is still in drought, forecasters say",
     "url": "https://www.theguardian.com/environment/2025/sep/08/floods-could-hit-england-while-country-is-still-in-drought-forecasters-say",
@@ -7,24 +25,6 @@
     "date": "2025-09-08T12:35:31.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/e3491f173a41f059744f14d2a4933063376ab35f/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=87797a3856d213f4f932260065fc6238"
-  },
-  {
-    "id": "d6ab9311-41e6-4e3c-8b8c-9525b3841046",
-    "title": "Ukraine-Liveblog: ++ Russland greift ukrainische Energieanlage an ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-530.html",
-    "summary": "Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert. Außenminister Wadephul betonte, Deutschland werde sich an Sicherheitsgarantien für die Ukraine beteiligen.",
-    "date": "2025-09-08T11:49:22.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5b073b67-29bf-4703-b6b1-71469e4c25bb/AAABldopTPc/AAABmKJZ-0g/16x9-big/flagge-ukraine-truemmer-101.jpg?width=1280"
-  },
-  {
-    "id": "50e1285f-16a4-4a01-9fa3-4cd9c82a1354",
-    "title": "Marktbericht: Warum Paris ein Risiko für die Börsen ist",
-    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-fed-frankreich-iaa-gold-oel-100.html",
-    "summary": "Der DAX kann sich zu Wochenbeginn zunächst stabilisieren. Doch die aktuellen politischen Entwicklungen in Frankreich sind ein großer Risikofaktor für die Aktien-, Devisen- und Rentenmärkte.",
-    "date": "2025-09-08T10:56:10.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/ebef35dd-e590-44ae-bddb-0ad3eca8da26/AAABlf13DU0/AAABmKJZ-0g/16x9-big/frankreich-409.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/08/green-economy-boom-africa-climate-summit-renewable-energy-solar",
