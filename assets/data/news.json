@@ -1,10 +1,19 @@
 [
   {
+    "id": "2d1ff9c2-cdf2-4b74-9bb3-ae6f16102ffb",
+    "title": "Mercedes könnte als einziger EU-Hersteller Emissionsziele verfehlen",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-emissionsziele-mercedes-100.html",
+    "summary": "Als einziger europäischer Autohersteller könnte Mercedes-Benz einer Studie zufolge die CO2-Emissionsziele der EU verfehlen. Das ergaben Berechnungen der Organisation Transport and Environment (T&E).",
+    "date": "2025-09-08T08:35:21.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/fbca8013-d7b7-432d-9f47-ed66b8dcf5b6/AAABmSgXxBc/AAABmKJZ-0g/16x9-big/mercedes-glc-100.jpg?width=1280"
+  },
+  {
     "id": "d6ab9311-41e6-4e3c-8b8c-9525b3841046",
     "title": "Ukraine-Liveblog: ++ Russland greift ukrainische Energieanlage an ++",
     "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-530.html",
-    "summary": "Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert. In Washington soll es heute ein Treffen zu neuen Russland-Sanktionen geben.",
-    "date": "2025-09-08T06:32:21.000Z",
+    "summary": "Das russische Militär hat ukrainischen Angaben zufolge bei neuen Luftangriffen ein Wärmekraftwerk in der Region Kiew attackiert. Außenminister Wadephul betonte, Deutschland werde sich an Sicherheitsgarantien für die Ukraine beteiligen.",
+    "date": "2025-09-08T07:32:01.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/5b073b67-29bf-4703-b6b1-71469e4c25bb/AAABldopTPc/AAABmKJZ-0g/16x9-big/flagge-ukraine-truemmer-101.jpg?width=1280"
   },
@@ -30,7 +39,7 @@
     "id": "https://www.theguardian.com/environment/2025/sep/08/coal-borehole-audit-leak-methane-emissions-queensland-nsw",
     "title": "‘Tip of the methane iceberg’: 130,000 coal boreholes must be audited after toxic leaks in Queensland, experts say",
     "url": "https://www.theguardian.com/environment/2025/sep/08/coal-borehole-audit-leak-methane-emissions-queensland-nsw",
-    "summary": "Concerns abandoned coal boreholes in Queensland and NSW could be emitting ‘equivalent of 65m cars’ worth of methane Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Conservationists have called for an audit of potentially thousands of methane-leaking coal boreholes in Queensland, as one expert says New South Wales also has an unknown number of potentially leaking holes. Research revealed last week that two abandoned exploratory coal boreholeswere leaking methane at a rate comparable to 10,000 vehicles. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
+    "summary": "Concerns abandoned coal boreholes in Queensland and NSW could be emitting ‘equivalent of 65m cars’ worth of methane Follow our Australia news live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Conservationists have called for an audit of potentially thousands of methane-leaking coal boreholes in Queensland, as one expert says New South Wales also has an unknown number of potentially leaking holes. Research revealed last week that two abandoned exploratory coal boreholes were leaking methane at a rate comparable to 10,000 vehicles. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
     "date": "2025-09-08T03:29:23.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/91c7b1ec1db424ffaed526e8765fbea9d2298d87/160_0_640_512/master/640.jpg?width=700&quality=85&auto=format&fit=max&s=20f92e04f03120ac3775259c2c514683"
@@ -48,7 +57,7 @@
     "id": "fd98412b-e15d-4a6d-8ffa-87121bf3d0a4",
     "title": "Was wird aus dem Heizungsgesetz?",
     "url": "https://www.tagesschau.de/inland/innenpolitik/heizungsgesetz-zwei-jahre-koalition-100.html",
-    "summary": "Vor zwei Jahren wurde das Gebäudeenergiegesetz beschlossen - besser bekannt als Heizungsgesetz. Die Kritik daran riss nie ab. Schwarz-Rot will die Vorgaben ändern. Was bedeutet das für Eigentümer?",
+    "summary": "Vor zwei Jahren wurde die Novelle des Gebäudeenergiegesetzes beschlossen - besser bekannt als Heizungsgesetz. Die Kritik daran riss nie ab. Schwarz-Rot will die Vorgaben ändern. Was bedeutet das für Eigentümer?",
     "date": "2025-09-07T13:59:50.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/43eb11a0-0839-44cd-ac77-23b811d730b0/AAABldpMyu0/AAABmKJZ-0g/16x9-big/heizungstausch-102.jpg?width=1280"
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
