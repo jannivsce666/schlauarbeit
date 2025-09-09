@@ -99,15 +99,6 @@
     "image": "https://images.tagesschau.de/image/f812d93f-e58d-44c0-a00c-3dab260fcead/AAABmSlim84/AAABmKJZ-0g/16x9-big/antarktis-eisberg-102.jpg?width=1280"
   },
   {
-    "id": "04413dfa-7faa-4640-a993-5ef634654610",
-    "title": "Gipfel in Äthiopien: Wie Afrika gegen den Klimawandel kämpft",
-    "url": "https://www.tagesschau.de/wissen/klima/klimawandelgipfel-afrika-aethiopien-100.html",
-    "summary": "In Äthiopien beginnt der zweite Afrikanische Klima-Gipfel. Es geht um mehr Erneuerbare Energien in Afrika und die Finanzierung von Klimaschutzprojekten auf dem Kontinent. Von Karin Bensch.",
-    "date": "2025-09-08T10:08:12.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5e170de3-de12-4b59-9564-6819ba4c526e/AAABmShefz0/AAABmKJZ-0g/16x9-big/fluss-begruenung-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/commentisfree/picture/2025/sep/08/giant-cuttlefish-they-are-in-danger-and-scientists-are-going-to-save-them-with-bubbles",
     "title": "Giant cuttlefish! They are in danger and scientists are going to save them with … bubbles! | First Dog on the Moon",
     "url": "https://www.theguardian.com/commentisfree/picture/2025/sep/08/giant-cuttlefish-they-are-in-danger-and-scientists-are-going-to-save-them-with-bubbles",
@@ -396,15 +387,6 @@
     "image": null
   },
   {
-    "id": "CBMiugFBVV95cUxNQnlTX2FJMGtmU2stWHlEVmkwQXdid1NNdTJzYlJlUlNQWjlvbHNhQ0laSjlHNVlPeUpGVDY5ZjdXeTYzOTMwTFRvNnVoR3lXQzdGSmZGcHZaRnhlT1BacWVhYWJHdE9COC02eU1SaVpKQnRiS2JtbkpRTUVqdGhKLXlJUExHYTM0aExyVWZsMGgwcGctQ3pGb1lTV19wbElRM01BUGs5U3ZkNU5uVjdCc3lTUlFPZmw0bkE",
-    "title": "Media Partnership: The future of agriculture and fertilizer production in the EU - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQnlTX2FJMGtmU2stWHlEVmkwQXdid1NNdTJzYlJlUlNQWjlvbHNhQ0laSjlHNVlPeUpGVDY5ZjdXeTYzOTMwTFRvNnVoR3lXQzdGSmZGcHZaRnhlT1BacWVhYWJHdE9COC02eU1SaVpKQnRiS2JtbkpRTUVqdGhKLXlJUExHYTM0aExyVWZsMGgwcGctQ3pGb1lTV19wbElRM01BUGs5U3ZkNU5uVjdCc3lTUlFPZmw0bkE?oc=5",
-    "summary": "Media Partnership: The future of agriculture and fertilizer production in the EU Euractiv Events",
-    "date": "2024-10-15T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
     "title": "Global Sulphur Levels - UNEP - UN Environment Programme",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw?oc=5",
@@ -536,6 +518,24 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMikwFBVV95cUxNTmFJaXhBZUFuX2lSNkZCLTFfWUpyWGNIVk8xLWVjNldjMVd3MEdLc1diMVlFSHI3MUxnYmF2MEFzYmk4RlNTa2p5YmFlNngtSFNlLW1kWEZZYXBxT295dXU2OWx3WXROQmNUT0pWS2hTTFJYOV8yem5FbV94aUc5RTE2cGx1bGpWWVZVSUo0TDBBRkU",
+    "title": "Media Partnership - Cooperativism and the ESG Agenda - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmFJaXhBZUFuX2lSNkZCLTFfWUpyWGNIVk8xLWVjNldjMVd3MEdLc1diMVlFSHI3MUxnYmF2MEFzYmk4RlNTa2p5YmFlNngtSFNlLW1kWEZZYXBxT295dXU2OWx3WXROQmNUT0pWS2hTTFJYOV8yem5FbV94aUc5RTE2cGx1bGpWWVZVSUo0TDBBRkU?oc=5",
+    "summary": "Media Partnership - Cooperativism and the ESG Agenda Euractiv Events",
+    "date": "2021-11-25T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
