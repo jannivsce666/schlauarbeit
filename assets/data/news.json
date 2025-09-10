@@ -108,15 +108,6 @@
     "image": "https://i.guim.co.uk/img/media/a4e404e0ab27f562f9053997a108475ea9673569/72_0_3960_3168/master/3960.jpg?width=700&quality=85&auto=format&fit=max&s=8f0e3e05e6f542b2ef77e4339a5f8c64"
   },
   {
-    "id": "f8c469ad-cae6-4893-8225-cdde0fa3d51a",
-    "title": "Neuer Mega-Staudamm entzweit Nil-Anrainer",
-    "url": "https://www.tagesschau.de/ausland/afrika/staudamm-nil-aethiopien-100.html",
-    "summary": "In Äthiopien wird heute ein neuer Nil-Staudamm eingeweiht - ein Mega-Bauwerk, von dem sich das Land mehr Energiesicherheit verspricht. Sudan und Ägypten hingegen sehen den Damm als Bedrohung. Von Karin Bensch.",
-    "date": "2025-09-09T03:46:57.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/d4ac8485-18bf-4c87-b4b7-68568036b949/AAABmSmxypc/AAABmKJZ-0g/16x9-big/grand-ethiopian-renaissance-dam-102.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/video/2025/sep/09/sa-algal-bloom-shows-new-criteria-for-climate-disasters-needed-hanson-young-says-video",
     "title": "SA algal bloom shows new criteria for climate disasters needed, Hanson-Young says – video",
     "url": "https://www.theguardian.com/environment/video/2025/sep/09/sa-algal-bloom-shows-new-criteria-for-climate-disasters-needed-hanson-young-says-video",
@@ -357,7 +348,7 @@
     "summary": "Iveco CEO says Euro 7 vehicle emissions regulation is ‘plain stupid’ Euractiv",
     "date": "2025-01-03T10:31:37.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMitgFBVV95cUxPT0Z0UHh5YXlfTWZHR3liTllLYy03R2FBM2gzaEpTNmRXTHhnSFlMREZseldpVWp6MlN0aXA0a2JPeEp2U2RoZHF5ZGhkU3ZyRUJUZWxWY1FyV0h4Tm91ckstNmQ2eDdPLWNrYlF1MzVycElRWWJPMHBYN1NSeTRVTUVOZ21zdFNhamZhY2hjT3dmQ2M3ZExaTlltNUtSM1B0ejlqUDJxVkNxbm1Wd2Y3SnNSdldJdw",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
     "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
     "date": "2021-11-17T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
+    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
+    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
+    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
