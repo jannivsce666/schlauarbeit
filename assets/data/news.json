@@ -1,5 +1,50 @@
 [
   {
+    "id": "https://www.theguardian.com/uk-news/2025/sep/11/reform-council-motions-to-rescind-climate-emergency-declaration",
+    "title": "Reform council motions to ‘rescind’ climate emergency declaration",
+    "url": "https://www.theguardian.com/uk-news/2025/sep/11/reform-council-motions-to-rescind-climate-emergency-declaration",
+    "summary": "Kent council condemned by opposition parties, who say the county is ‘at the forefront of climate impacts’ Plans by Reform UK to “rescind” the declaration of a climate emergency at one of the English county councils it now controls have been condemned by opposition parties. Hundreds of local authorities across Britain have made the declarations, which serve as acknowledgments that they need to act on the causes and impacts of climate change and are linked to efforts to achieve net zero targets. Continue reading...",
+    "date": "2025-09-11T14:15:49.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/58515142cd626a4ee8c5304e755485335410fd1d/318_0_4601_3680/master/4601.jpg?width=700&quality=85&auto=format&fit=max&s=a49cd42075d66f3fa560218437639a02"
+  },
+  {
+    "id": "60e23a87-675b-42ba-918f-79085f08e5ad",
+    "title": "Nahost-Liveblog: ++ Katar lädt nach Luftangriff zu Sondergipfel ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-298.html",
+    "summary": "Nach dem israelischen Luftangriff will Katar mit arabischen und islamischen Partnern auf einem Sondergipfel beraten. Die WHO hat angekündigt, trotz der Evakuierungsaufforderung von Israel in Gaza-Stadt zu bleiben.",
+    "date": "2025-09-11T14:03:23.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/120e5809-5fa8-4051-a043-9ae0c475f58a/AAABmTjeLq4/AAABmKJZ-0g/16x9-big/skyline-doha-100.jpg?width=1280"
+  },
+  {
+    "id": "150469ff-02b4-47a3-8e53-f307970044ba",
+    "title": "Marktbericht: DAX weiter im Seitwärtstrend",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-boerse-maerkte-100.html",
+    "summary": "Die Anleger reagieren am Nachmittag gelassen auf die wie erwartet ausgefallene Fortsetzung der EZB-Zinspause. Der DAX bleibt damit weiter auf Richtungssuche. Rückenwind kommt von der Wall Street.",
+    "date": "2025-09-11T14:01:32.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/34ea17f5-2721-4579-8873-9d17cf4a3717/AAABlZSPJo8/AAABmKJZ-0g/16x9-big/boerse-394.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/world/video/2025/sep/11/streets-submerged-in-indonesia-after-devastating-floods-video",
+    "title": "Streets submerged in Indonesia after deadly floods – video",
+    "url": "https://www.theguardian.com/world/video/2025/sep/11/streets-submerged-in-indonesia-after-devastating-floods-video",
+    "summary": "Fifteen people are dead and 100 missing as Indonesia reels from floods caused by extreme rainfall. Rescuers search for survivors after at least 112 neighbourhoods were submerged by rising rivers. Torrential rain began on Monday, causing flooding and landslides in Bali and East Nusa Tenggara province. As river levels returned to normal on Thursday, authorities worked to clear streets of mud and debris Flash floods in Indonesia leave at least 15 people dead and 10 missing Continue reading...",
+    "date": "2025-09-11T12:53:13.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/114908ea173e3a8a9b485bb82913f95f86a4679a/303_0_2151_1720/master/2151.jpg?width=700&quality=85&auto=format&fit=max&s=b87eb1fec075de57c580ff36eb87e17c"
+  },
+  {
+    "id": "tagesschau_fm-story-WDR-e91bf9fd-2347-4115-af0b-ca35d11edc37",
+    "title": "Täter von Solinger Messeranschlag legt Revision ein",
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/messerattacke-solingen-urteil-100.html",
+    "summary": "Der islamistische Terroranschlag von Solingen mit drei Toten und zahlreichen Verletzten kommt voraussichtlich vor den Bundesgerichtshof. Der Verurteilte legt Revision gegen das Urteil zu lebenslanger Haft ein.",
+    "date": "2025-09-11T12:43:00.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/382d93f5-1bc2-4b0f-8f60-9f73b940ef35/AAABmTkXKLg/AAABmKJZ-0g/16x9-big/wdr-angeklagter-issa-al-h-kommt-am-gericht-in-duesseldorf-an-100.jpg?width=1280"
+  },
+  {
     "id": "f8b1c9a2-6f86-4b1f-ae8e-0d34413a57a2",
     "title": "Was tut die EU, um die Ostsee zu schützen?",
     "url": "https://www.tagesschau.de/ausland/eu-schutz-ostsee-100.html",
@@ -7,15 +52,6 @@
     "date": "2025-09-11T12:26:17.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/698f0b32-b671-402b-8eb3-551a5159cafa/AAABleyd8jg/AAABmKJZ-0g/16x9-big/ostsee-160.jpg?width=1280"
-  },
-  {
-    "id": "60e23a87-675b-42ba-918f-79085f08e5ad",
-    "title": "Nahost-Liveblog: ++ WHO will in Gaza-Stadt bleiben ++",
-    "url": "https://www.tagesschau.de/newsticker/liveblog-nahost-donnerstag-298.html",
-    "summary": "Die Weltgesundheitsorganisation WHO hat angekündigt, trotz der Evakuierungsaufforderung von Israel in Gaza-Stadt zu bleiben. Bundeskanzler Merz will sich vorerst nicht zu möglichen EU-Sanktionen gegen Israel positionieren.",
-    "date": "2025-09-11T11:33:15.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/c27978e4-041c-41f8-8d26-c54a13b9fdcd/AAABmTccWM0/AAABmKJZ-0g/16x9-big/gaza-stadt-170.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/business/2025/sep/11/green-energy-entrepreneurs-urge-uk-allow-new-north-sea-oil-gas-projects",
@@ -43,33 +79,6 @@
     "date": "2025-09-11T09:59:02.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/93c0648b-f47d-435a-bd3c-46ec35fd781f/AAABmTgv37U/AAABmKJZ-0g/16x9-big/notfallalarm-smartphone-100.jpg?width=1280"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/11/sydney-water-erred-when-claiming-there-were-no-known-pfas-hotspots-in-drinking-water-catchments-committee-finds",
-    "title": "Sydney Water failed to properly test before declaring ‘no known Pfas hotspots’ in catchments, inquiry finds",
-    "url": "https://www.theguardian.com/environment/2025/sep/11/sydney-water-erred-when-claiming-there-were-no-known-pfas-hotspots-in-drinking-water-catchments-committee-finds",
-    "summary": "More attention needs to be given to rapidly evolving issue of contamination of waterways with ‘forever chemicals’, committee’s chair says Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Sydney Water did not perform “an appropriate level of due diligence” before claiming there were no known Pfas hotspots within its drinking water catchments, a state parliamentary committee has found. The New South Wales upper house committee tabled its 16 findings and 32 recommendations on Thursday following an inquiry triggered by reporting in the Sydney Morning Herald that detected elevated levels of some “forever chemicals” in parts of Sydney’s drinking water catchment. Continue reading...",
-    "date": "2025-09-11T06:45:53.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/1e5afc6b9db428edfdf5660328b6c51d9f8f6a72/0_0_2254_1803/master/2254.jpg?width=700&quality=85&auto=format&fit=max&s=2c3670a52598a6a0b17a07ee43b8e330"
-  },
-  {
-    "id": "https://www.theguardian.com/world/2025/sep/11/hedgehog-highways-requirement-new-buildings-lords-planning-bill-government",
-    "title": "Hedgehog highways could become requirement for new buildings",
-    "url": "https://www.theguardian.com/world/2025/sep/11/hedgehog-highways-requirement-new-buildings-lords-planning-bill-government",
-    "summary": "Lords amend planning bill to include protections for wild animals, including bird-safe glass and swift bricks Hedgehog highways and bird-safe glass could become requirements for all new buildings as members of the House of Lords push through amendments to the government’s planning bill. This may cause a headache for ministers, who have tried to avoid burdening developers with laws on nature measures such as “swift bricks”. The new Lords amendments include mandated provision for these nesting boxes, which campaigners say are crucial for the survival of the threatened species. Continue reading...",
-    "date": "2025-09-11T05:00:23.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/612b9d42cb4668e8985325801a3398d89ed96881/392_0_4157_3326/master/4157.jpg?width=700&quality=85&auto=format&fit=max&s=57d56e1592051774510115a8208254bd"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/10/link-oil-giants-heatwaves-research-legal-liability",
-    "title": "Carbon emissions from oil giants directly linked to dozens of deadly heatwaves for first time",
-    "url": "https://www.theguardian.com/environment/2025/sep/10/link-oil-giants-heatwaves-research-legal-liability",
-    "summary": "Study shows how individual fossil fuel companies are making previously impossible heatwaves happen and could have to pay compensation Carbon emissions from the world’s biggest fossil fuel companies have been directly linked to dozens of deadly heatwaves for the first time, according to a new analysis. The research has been hailed as a “leap forward” in the legal battle to hold big oil accountable for the damages being caused by the climate crisis. The research found that the emissions from any one of the 14 biggest companies were by themselves enough to cause more than 50 heatwaves that would otherwise have been virtually impossible. The study shows, in effect, that those emissions caused the heatwaves. Continue reading...",
-    "date": "2025-09-10T15:00:09.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/929420b99f1d4700ac864a7efc6f7583bd53abaa/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=ff37d4b577adfd73fe23bc7c3cffbd4f"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58985",
@@ -129,7 +138,7 @@
     "id": "https://www.theguardian.com/environment/2025/sep/09/against-the-tide-tendring-essex-youth-jobs-opportunities-seaside-deprivation-arts-music-theatre",
     "title": "‘I say where I’m from and they tell me they’re sorry’: growing up in the most deprived place in England",
     "url": "https://www.theguardian.com/environment/2025/sep/09/against-the-tide-tendring-essex-youth-jobs-opportunities-seaside-deprivation-arts-music-theatre",
-    "summary": "The faded resorts and coastal towns of Tendring in Essex offer few job opportunities but many of its 20-somethings are set on finding their way in an area with one of England’s oldest populations Share your experiences of living in a coastal town Photographs by Polly Braden The village where 22-year-old Millicent has lived all her whole life is often her most closely guarded secret – at least until first impressions have been established. “It’s almost like a superpower,” she says. “I wait until people are comfortable with me, and then I’ll do the big reveal.” It doesn’t matter where she goes, the story is always the same. “I’ll go to meet new friends and at some point I’ll tell them I’m from Jaywick,” says Millicent. “And it’s as if they go through the five stages of grief. They’ll say: ‘Oh, you’re not … oh, I’m so sorry’.” Kyle, Matt and Finn at Jaywick’s Martello Tower, now an arts site Continue reading...",
+    "summary": "The faded resorts and coastal towns of Tendring in Essex offer few job opportunities but many of its 20-somethings are set on finding their way in an area with one of England’s oldest populations Share your experiences of living in a coastal town Photographs by Polly Braden The village where 22-year-old Millicent has lived all her life is often her most closely guarded secret – at least until first impressions have been established. “It’s almost like a superpower,” she says. “I wait until people are comfortable with me, and then I’ll do the big reveal.” It doesn’t matter where she goes, the story is always the same. “I’ll go to meet new friends and at some point I’ll tell them I’m from Jaywick,” says Millicent. “And it’s as if they go through the five stages of grief. They’ll say: ‘Oh, you’re not … oh, I’m so sorry’.” Kyle, Matt and Finn at Jaywick’s Martello Tower, now an arts site Continue reading...",
     "date": "2025-09-09T10:00:52.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/67e82d9e91d19245941b26d8498bb2fdd86026a4/728_0_10928_8742/master/10928.jpg?width=700&quality=85&auto=format&fit=max&s=ef29055be734b93493d50a034c870d6f"
@@ -459,6 +468,15 @@
     "image": null
   },
   {
+    "id": "CBMiswFBVV95cUxNWFF2TWoxQm1POXZNcnJfOENNdm1WaEZ1U2dYYzdtcFpXMG9LeWQwSHJhOVNRRFp4aThXdGRlX0tiMkl2UENiZGYzbEFvaU9nUUt0VnVUaFhwRU55ZDA4dUNHVERGQnBXVTVkOUo4bDNGbDhjYzgtbEhTVExQTEZjZWtId1FCLXBZdGpBUllsZmlDR0FjblA3RnVOWktwYmpOZ3UxNm40cGJGVmRZblVfQnVUTQ",
+    "title": "Integration von GAP und Green Deal - Die Zukunft nachhaltiger Landwirtschaft? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFF2TWoxQm1POXZNcnJfOENNdm1WaEZ1U2dYYzdtcFpXMG9LeWQwSHJhOVNRRFp4aThXdGRlX0tiMkl2UENiZGYzbEFvaU9nUUt0VnVUaFhwRU55ZDA4dUNHVERGQnBXVTVkOUo4bDNGbDhjYzgtbEhTVExQTEZjZWtId1FCLXBZdGpBUllsZmlDR0FjblA3RnVOWktwYmpOZ3UxNm40cGJGVmRZblVfQnVUTQ?oc=5",
+    "summary": "Integration von GAP und Green Deal - Die Zukunft nachhaltiger Landwirtschaft? Euractiv Events",
+    "date": "2022-10-26T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw",
     "title": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw?oc=5",
@@ -473,6 +491,15 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk9xTGtreTFFMEhSUllaSl81dnVLYnZ3RGgzSnVBdGxnVmpMQmFvZlNfYkxYbzN1eUdIc1dxNGdCTTFHdnllNmFmZTVCZC16UTB2MXlLUkZjdmplMFRfZXBhYzkxLXVuR1YtNVlCeHJySk14cUNoUHc2Nkl1OWJVaHctZWRtV2dvVV9rSXJaMUVjZm9HcVNGTFFIakRmSHlCYlE5NE5tMA?oc=5",
     "summary": "Reducing European methane emissions – The potential of EU livestock Euractiv Events",
     "date": "2022-06-21T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMipwFBVV95cUxNWEhIUkhzQ2tSNEZDZG5PU2prYmNMbHJRYWVSLUhNajVLMXF4dFJEcWFpT01NLWIxTXRvU0ZjSjFkUmtQNXRsUDJiUHJGSmwyVlNCOS1QU1FDbkZsRnB0dXJrbG43YjlpLXJ3enVUTnM2ODhVakRsSmVzSmFlazRXazBScWZxMnk0Ym8tNjJ1ZnduRG52VjVCZ0ZxRndtSWFXLWhyM2NqSQ",
+    "title": "#EAAGRIFOOD TWITTER CHAT | FOOD SECURITY IN LIGHT OF THE UKRAINE WAR - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWEhIUkhzQ2tSNEZDZG5PU2prYmNMbHJRYWVSLUhNajVLMXF4dFJEcWFpT01NLWIxTXRvU0ZjSjFkUmtQNXRsUDJiUHJGSmwyVlNCOS1QU1FDbkZsRnB0dXJrbG43YjlpLXJ3enVUTnM2ODhVakRsSmVzSmFlazRXazBScWZxMnk0Ym8tNjJ1ZnduRG52VjVCZ0ZxRndtSWFXLWhyM2NqSQ?oc=5",
+    "summary": "#EAAGRIFOOD TWITTER CHAT | FOOD SECURITY IN LIGHT OF THE UKRAINE WAR Euractiv Events",
+    "date": "2022-05-19T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -509,33 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
-    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
-    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
-    "date": "2021-11-29T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
-    "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
-    "summary": "Media Partnership: Healthy soils for sustainable agriculture Euractiv Events",
-    "date": "2021-11-17T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
