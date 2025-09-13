@@ -1,5 +1,14 @@
 [
   {
+    "id": "https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology",
+    "title": "Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable",
+    "url": "https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology",
+    "summary": "Quantum sensing, satellite tracking and AI are part of an accelerating arms race in detection that should prompt a re-evaluation of Australia’s defence strategy Get our breaking news email, free app or daily news podcast Military history is littered with the corpses of apex predators. The Gatling gun, the battleship, the tank. All once possessed unassailable power – then were undermined, in some cases wiped out, by the march of new technology. Continue reading...",
+    "date": "2025-09-13T20:00:14.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/2f3b9c7f537fc60fbba49c7b6f110f53be7a3e42/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=9a7871bb545e7dd03c78a02fe5d90e2c"
+  },
+  {
     "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
     "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
@@ -88,15 +97,6 @@
     "date": "2025-09-12T11:00:36.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/d674e5faf016409172c8b67a90dc74e6fa139890/0_0_2560_2049/master/2560.jpg?width=700&quality=85&auto=format&fit=max&s=cae0cb524b084e304451be5e8e08e944"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/12/weather-tracker-strongest-tornado-ever-recorded-japan-hits-shizuoka-prefecture",
-    "title": "Strongest tornado ever recorded in Japan hits Shizuoka prefecture",
-    "url": "https://www.theguardian.com/environment/2025/sep/12/weather-tracker-strongest-tornado-ever-recorded-japan-hits-shizuoka-prefecture",
-    "summary": "Devastating twister packs gusts of up to 168mph, injuring 89 people and leaving trail of destruction Japan has experienced the strongest tornado in its recorded history after a devastating twister tore through Shizuoka prefecture. Classified as a JEF3, level 3 out of 5 on Japan’s tornado intensity scale, the tornado packed wind gusts of up to 168mph last Friday, injuring 89 people and leaving a trail of destruction. The hardest hit areas included Makinohara and Yoshida, where vehicles were overturned and more than 1,200 structures were damaged. Since records began in 1961, Japan has experienced 13 level 3 tornadoes, but none have reached level 4. Continue reading...",
-    "date": "2025-09-12T09:52:00.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/94c6beae73f375b199d5a30da5ed3be6ff501015/536_0_3307_2645/master/3307.jpg?width=700&quality=85&auto=format&fit=max&s=b4206abfaba2a2222f5b1cfb281b808f"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59003",
@@ -315,15 +315,6 @@
     "image": null
   },
   {
-    "id": "CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA",
-    "title": "Euractiv Agrifood Pro Briefing - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA?oc=5",
-    "summary": "Euractiv Agrifood Pro Briefing Euractiv Events",
-    "date": "2025-06-25T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
     "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
     "url": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
+    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
+    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
+    "date": "2021-10-26T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
