@@ -1,5 +1,14 @@
 [
   {
+    "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
+    "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
+    "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
+    "summary": "Am Samstag mal dichte Wolken, mal Auflockerungen mit Sonnenschein. Dazu vor allem in der Nordwesthälfte bei lebhaftem Wind Schauer und einzelne Gewitter. 16 bis 23 Grad.",
+    "date": "2025-09-13T08:36:15.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABmUI1uuI/AAABmKJZ-0g/16x9-big/teaserbild-124.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/sep/13/switzerland-alps-fiesch-aletsch-glaciers-retreat-ecosystems-mountains-culture-aoe",
     "title": "‘Like walking through time’: as glaciers retreat, new worlds are being created in their wake",
     "url": "https://www.theguardian.com/environment/2025/sep/13/switzerland-alps-fiesch-aletsch-glaciers-retreat-ecosystems-mountains-culture-aoe",
@@ -25,15 +34,6 @@
     "date": "2025-09-12T17:55:32.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/2220cb68-5d60-4459-ae2a-fc6bbca09767/AAABmT1tkZA/AAABmKJZ-0g/16x9-big/loftus-100.jpg?width=1280"
-  },
-  {
-    "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
-    "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-    "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-    "summary": "Samstag fällt gebietsweise Regen oder es sind Schauer und einzelne Gewitter unterwegs. In der Nordwesthälfte ist es windig. Am Nachmittag zeigt sich die Sonne regional häufiger. 16 und 22 Grad.",
-    "date": "2025-09-12T17:07:22.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABmT7bR8s/AAABmKJZ-0g/16x9-big/teaserbild-124.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/12/trump-supporting-billionaire-stephen-schwarzman-prevented-filling-lake-uk-estate-during-drought",
@@ -396,6 +396,15 @@
     "image": null
   },
   {
+    "id": "CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc",
+    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc?oc=5",
+    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
+    "date": "2024-09-30T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
     "title": "Global Sulphur Levels - UNEP - UN Environment Programme",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw?oc=5",
@@ -428,15 +437,6 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw?oc=5",
     "summary": "Erdoğan prevails in election test of his 20-year rule Euractiv",
     "date": "2023-05-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc",
-    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTBmTGVNN05ZcVlkOVZ1aUlhbzZZdG5GWG55UHRobDF2NGw5bFp0VmJmSG1oRmxLRGJSUEFjOHFqQjB1TFF6S0hPUDZ5ajRtSDhJTU5FeFdGNFE5WDctUmFxUE5rY2hoT1V3ZFdiMzlkVkJUYm00dGtvVU84V2RqbDdNNEw1M0x5N196eHY5QlNOeDhXV1JqVGkzSy1sQmc?oc=5",
-    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
-    "date": "2023-01-13T06:04:51.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -504,6 +504,15 @@
     "image": null
   },
   {
+    "id": "CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR",
+    "title": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkdDMHNSVDYybGJkWDJkU1RudWlxMGJoME5GTTVRY0lTVEdxdTBELTZzV3dZTDg2bGdFS1k4enJYd3hHejAweW1VRUpzNkw4dG1CZzd4VEwwYmpvZzJkUkdNVWVIQkVRWmh5ZUpfand3VHh1VS1fOFFNTUVnSlVGa0ZZa0tLd0JSVF9NQ096ZVY2TEh1WG8yQjFGLTFMM1E5WTNSeGFfWXZ6Uk9NNWpXc2VR?oc=5",
+    "summary": "Landwirtschaftliche Entwicklung im Europäischen Aufbauplan in Deutschland Euractiv Events",
+    "date": "2021-11-29T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s",
     "title": "Media Partnership: Healthy soils for sustainable agriculture - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnlBMFBjUm9DMW1jaGRfVm5Dc0dKdzViUUNVRHlMcDVKSXBJTnlTbXdIam14Qk5hNHJJZ0xxd0hYQW12WjJzempiTDNqcnM1cVJTcDNRZGhHRFYxd2o4ZHZFWnI2UEplRTZGa21TMlkwaTRSZDlJdGozOHE1aWxCUS14bXRYVWpiZUF4MU44Yl8wNUNXcVhfTlJOb1F0Y2s?oc=5",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
-    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
-    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
-    "date": "2021-10-26T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
