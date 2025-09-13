@@ -3,10 +3,19 @@
     "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
     "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
     "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-    "summary": "Am Samstag mal dichte Wolken, mal Auflockerungen mit Sonnenschein. Dazu vor allem in der Nordwesthälfte bei lebhaftem Wind Schauer und einzelne Gewitter. 16 bis 23 Grad.",
-    "date": "2025-09-13T08:36:15.000Z",
+    "summary": "Sonntag gibts in den östlichen Landesteilen zunächst gebietsweise Regen und örtlich Gewitter, sonst einen teilweise freundlichen Mix aus Sonne und Wolken mit nur einzelnen Schauern. 15 bis 22 Grad.",
+    "date": "2025-09-13T16:11:56.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABmUI1uuI/AAABmKJZ-0g/16x9-big/teaserbild-124.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABmUPOpqI/AAABmKJZ-0g/16x9-big/teaserbild-124.jpg?width=1280"
+  },
+  {
+    "id": "7250b64b-73df-46e7-856e-e51f6f3fea57",
+    "title": "Nach Aufruf von Rechtsextremen: Zehntausende demonstrieren in London gegen Einwanderung",
+    "url": "https://www.tagesschau.de/ausland/europa/london-demo-einwanderung-100.html",
+    "summary": "Mehr als 110.000 Menschen sind in London dem Aufruf des Rechtsextremen Robinson gefolgt und protestieren gegen Einwanderung. Auch der US-Amerikaner Steve Bannon ist vor Ort. Tausende schlossen sich einer Gegendemo an.",
+    "date": "2025-09-13T15:15:48.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/3882b6f2-1072-47f5-9ffd-629d51f203d9/AAABmUPcqC8/AAABmKJZ-0g/16x9-big/london-demonstration-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/13/switzerland-alps-fiesch-aletsch-glaciers-retreat-ecosystems-mountains-culture-aoe",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
     "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
     "date": "2021-10-26T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
-    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
-    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
-    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
