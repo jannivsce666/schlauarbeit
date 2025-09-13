@@ -99,15 +99,6 @@
     "image": "https://i.guim.co.uk/img/media/94c6beae73f375b199d5a30da5ed3be6ff501015/536_0_3307_2645/master/3307.jpg?width=700&quality=85&auto=format&fit=max&s=b4206abfaba2a2222f5b1cfb281b808f"
   },
   {
-    "id": "dcc6abdd-57fe-41fe-8826-ddccd68cad04",
-    "title": "Deutscher Umweltpreis für Mikrozink und Klimaforschung",
-    "url": "https://www.tagesschau.de/wissen/forschung/deutscher-umweltpreis-112.html",
-    "summary": "Der Deutsche Umweltpreis würdigt Leistungen zum Schutz und Erhalt der Umwelt. Dieses Jahr geht er an eine Klimaforscherin und ein Unternehmerduo, welches ein neues Verfahren zum Schutz vor Rost entwickelt hat.",
-    "date": "2025-09-12T07:13:38.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/6478b071-08f8-4827-ab44-7670b36902ef/AAABmTyQc_Y/AAABmKJZ-0g/16x9-big/seneviratne-100.jpg?width=1280"
-  },
-  {
     "id": "https://www.carbonbrief.org/?p=59003",
     "title": "Analysis: UK foreign aid for nature hits £800m record due to cash for carbon credits",
     "url": "https://www.carbonbrief.org/analysis-uk-foreign-aid-for-nature-hits-800m-record-due-to-cash-for-carbon-credits/",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
+    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
+    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
+    "date": "2021-10-26T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
