@@ -1,14 +1,5 @@
 [
   {
-    "id": "48b3998c-6036-46af-937d-9cf4ea1829cf",
-    "title": "Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten",
-    "url": "https://www.tagesschau.de/wetter/deutschland/wettervorhersage-deutschland-100.html",
-    "summary": "Sonntag im Osten und Südosten zunächst viele Wolken mit Regen und einzelnen Gewittern, sonst zeitweise freundlich. Gegen Abend im Westen und Südwesten wieder Wolkenverdichtung. 15 bs 22 Grad.",
-    "date": "2025-09-14T08:15:49.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/e7904a01-0786-494a-996d-b1dfd43b3049/AAABmUdBny0/AAABmKJZ-0g/16x9-big/teaserbild-124.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology",
     "title": "Billion-dollar coffins? New technology could make oceans transparent and Aukus submarines vulnerable",
     "url": "https://www.theguardian.com/australia-news/2025/sep/14/aukus-australian-submarines-vulnerable-new-technology",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU?oc=5",
     "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
     "date": "2021-10-14T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMikAFBVV95cUxPQTVlNzNYV2JHbUtORXkxSTJDWjc2UXlFZGN2aVFTX21JRkxQODE4NmNjRDVjVE52QlJ2Y2lJemxFeXQ3LVQ0czZDYUpCNkhTTEU5TTdlcUxUZEVDTDBLSFNFVEZxYUlvbmU0YnZXUmZIbUVQTXdvRVRHNFg4bjhXR2pUTnBONzYwcS10SkJWRUM",
+    "title": "Farm to Fork: What the analysis and data tell us - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTVlNzNYV2JHbUtORXkxSTJDWjc2UXlFZGN2aVFTX21JRkxQODE4NmNjRDVjVE52QlJ2Y2lJemxFeXQ3LVQ0czZDYUpCNkhTTEU5TTdlcUxUZEVDTDBLSFNFVEZxYUlvbmU0YnZXUmZIbUVQTXdvRVRHNFg4bjhXR2pUTnBONzYwcS10SkJWRUM?oc=5",
+    "summary": "Farm to Fork: What the analysis and data tell us Euractiv Events",
+    "date": "2021-10-12T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
