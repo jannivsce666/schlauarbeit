@@ -1,5 +1,23 @@
 [
   {
+    "id": "a6c74d9f-56ef-4637-bfac-0fd2e3bb20d1",
+    "title": "Studien zur Energiewende: Erneuerbare billiger als Gas",
+    "url": "https://www.tagesschau.de/wissen/technologie/energiewende-erneuerbare-gas-100.html",
+    "summary": "Wirtschaftsministerin Reiche setzt in der Energiewende auf mehr Gaskraftwerke und lässt prüfen, ob ein längerer Umstieg Kosten dämpfen würde. Forschende warnen: Das könnte teuer werden. Von S. Kästner.",
+    "date": "2025-09-15T10:29:40.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/2ed6c3d9-9bc4-46b6-869e-59eada79c0a8/AAABmS7D6jo/AAABmKJZ-0g/16x9-big/photovoltaikanlage-windkraftraeder-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/sep/15/bali-worst-floods-decade-landslides-rain-india-pakistan-australia",
+    "title": "Bali battles worst floods in more than a decade",
+    "url": "https://www.theguardian.com/environment/2025/sep/15/bali-worst-floods-decade-landslides-rain-india-pakistan-australia",
+    "summary": "At least 17 dead as torrential downpours trigger landslides, while heavy rain lashes India, Pakistan and Australia At least 17 people have been confirmed dead in Bali, Indonesia, after the island’s worst flooding in more than a decade. Torrential rain last Tuesday and Wednesday triggered widespread flooding and landslides, leaving a trail of destruction. Eight victims were found in Denpasar, the island’s capital, and rescue teams continue to search for several others who remain missing. Continue reading...",
+    "date": "2025-09-15T09:18:22.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/403aa8fc896ee13dc806790796aeaf95295b1c39/0_0_4175_3341/master/4175.jpg?width=700&quality=85&auto=format&fit=max&s=eca22a9a786de3a535cd847549490611"
+  },
+  {
     "id": "https://www.theguardian.com/australia-news/2025/sep/15/millions-of-australians-at-risk-from-rising-sea-levels-and-heat-deaths-could-soar-landmark-climate-report-warns",
     "title": "Millions of Australians at risk from rising sea levels and heat deaths to soar, national climate risk assessment report warns",
     "url": "https://www.theguardian.com/australia-news/2025/sep/15/millions-of-australians-at-risk-from-rising-sea-levels-and-heat-deaths-could-soar-landmark-climate-report-warns",
@@ -393,7 +411,7 @@
     "summary": "Media Partnership: Decarbonising fertilizer production. Pathways to sustainable food Euractiv Events",
     "date": "2023-11-14T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw",
@@ -468,6 +486,15 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
+    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
+    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
+    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
+    "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
     "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
@@ -509,33 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNF9yWVhXQjlTVWtpa2tMNUZBZDBRckd2SEx5bVJIQnJGLW5teElCdnJTSjJtRGtOTE0yQkg1bzZmSkVOOV9UV3Z2R1FXMWN6aWtHTVU2cDVhNUlSTGJrMkljdEpBVThPczRUYm8ybm9ZYjh4dmpKZk1Bd2UxY1hXYnVvX3RZeU9vUkZaQ254LThIcHBPVm56MkFoLU5xMktTRXpERzF6azBkd2pMVnhpdDUtNGhYdw?oc=5",
     "summary": "Policy Dialogue: Can Glyphosate play a role in achieving greater biodiversity? Euractiv Events",
     "date": "2021-11-04T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM",
-    "title": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
-    "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
-    "date": "2021-10-29T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF",
-    "title": "Concrete measures for the food industry to go carbon-neutral - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWpoTm5ZM3VIWnpESjZlM1pBbEtJdTZWX0MwcTlHS0U1Z0RwTEpOMklxUlpmY0hBUTN5MjM5MEMxVEpHTlRQRnA3NFBoOU1zS0phUjUzNFgweWJpMUFONzItZkxzdWdNd1I3T0VMcm5SYkZYWmlCMUNMd00tZHpTd0ZuT2s1dnJvamlvR01kdmYzVFBRaV9UWkE1YVd2c0NF?oc=5",
-    "summary": "Concrete measures for the food industry to go carbon-neutral Euractiv Events",
-    "date": "2021-10-26T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
-    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
-    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
-    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
