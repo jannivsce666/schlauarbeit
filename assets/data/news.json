@@ -1,9 +1,18 @@
 [
   {
+    "id": "4c07d60c-4fff-4a37-94be-b2983a00584e",
+    "title": "Kritik an Klima- und Handelspolitik: Misstrauensanträge gegen EU-Kommission",
+    "url": "https://www.tagesschau.de/ausland/europa/eu-kommission-misstrauensantrag-100.html",
+    "summary": "Nur gut zwei Monate nach einem überstandenen Votum sieht sich die EU-Kommission unter Ursula von der Leyen wieder mit Misstrauensanträgen konfrontiert. Diesmal richtet sich die Kritik auch gegen das Zollabkommen mit Trump.",
+    "date": "2025-09-16T12:57:45.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/4c078129-fe56-46c2-b0c4-4e5e3d1abb37/AAABmVKSckg/AAABmKJZ-0g/16x9-big/eu-kommission-vonderleyen-108.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/film/2025/sep/16/robert-redford-oscar-winning-actor-and-director-dies",
     "title": "Robert Redford, giant of American cinema, dies aged 89",
     "url": "https://www.theguardian.com/film/2025/sep/16/robert-redford-oscar-winning-actor-and-director-dies",
-    "summary": "Redford achieved huge critical and commercial success in the 60s and 70s with a string of hits including Butch Cassidy and the Sundance Kid, The Way We Were and The Sting, before becoming an Oscar-winning director • Peter Bradshaw on Robert Redford Robert Redford, star of Hollywood classics including Butch Cassidy and the Sundance Kid, The Sting and All the President’s Men, has died aged 89. In a statement to the New York Times, his publicist said the actor died in his sleep at his home in Utah. Continue reading...",
+    "summary": "Redford achieved huge critical and commercial success in the 60s and 70s with a string of hits including Butch Cassidy and the Sundance Kid, The Way We Were and The Sting, before becoming an Oscar-winning director ‘The incandescently handsome star who changed Hollywood forever’: Peter Bradshaw on Robert Redford Robert Redford – a life in pictures Tributes paid to Robert Redford – latest updates Robert Redford, star of Hollywood classics including Butch Cassidy and the Sundance Kid, The Sting and All the President’s Men, has died aged 89. In a statement, his publicist Cindi Berger said the actor died on Tuesday at his home “at Sundance in the mountains of Utah - the place he loved, surrounded by those he loved”. Continue reading...",
     "date": "2025-09-16T12:24:47.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/06fbf32735c6a9a8d9214a947c42404734a998ca/24_364_1813_1450/master/1813.jpg?width=700&quality=85&auto=format&fit=max&s=4e06fa217ad6fee6d3aa37037b38a3b3"
@@ -61,15 +70,6 @@
     "date": "2025-09-16T04:50:09.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/b18f0570-383e-4e11-9931-dcde243a87c2/AAABmSmXLNU/AAABmKJZ-0g/16x9-big/cylib-e-auto-batterie-recycling-100.jpg?width=1280"
-  },
-  {
-    "id": "ca61fdb6-e93b-40de-af28-e86b6e2e6002",
-    "title": "Warum Rheinmetall jetzt auch Schiffe bauen will",
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/rheinmetall-schiffbau-marine-100.html",
-    "summary": "Rheinmetall stellt Panzer, Munition oder auch Flugabwehr-Systeme her - aber bislang keine Marineschiffe. Das ändert sich nun mit der Übernahme mehrerer Werften. Welche Logik steht dahinter? Von Detlev Landmesser.",
-    "date": "2025-09-15T16:42:20.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/c526fb2f-ca5f-4e19-98d0-013dfe4a4e10/AAABmUzgqfE/AAABmKJZ-0g/16x9-big/naval-vessels-luerssen-100.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59022",
@@ -324,6 +324,15 @@
     "image": null
   },
   {
+    "id": "CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA",
+    "title": "Euractiv Agrifood Pro Briefing - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16dTRvNjRKWXB0SUs3UUtUMkhzQ2RDWDFjbmkwYWR5YWNCU3VKSktGeDJrRzVhdmVac0hMTDg3VkluaExhUi0tLXpRMU1UdTdwMzRaQmJhMGxRaWRVYlEzM0xDVkh2TXFhcG9lUzFDdzd6WVBZZ3JrOA?oc=5",
+    "summary": "Euractiv Agrifood Pro Briefing Euractiv Events",
+    "date": "2025-06-25T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
     "title": "Mexico factory that imports US toxic waste to relocate after Guardian report",
     "url": "https://www.theguardian.com/us-news/2025/may/03/mexico-zinc-nacional-factory-hazardous-waste-relocation",
@@ -369,15 +378,6 @@
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
-    "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
-    "title": "German Liberals swap out key leaders after government sabotage revelations - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ?oc=5",
-    "summary": "German Liberals swap out key leaders after government sabotage revelations Euractiv",
-    "date": "2024-12-02T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-  },
-  {
     "id": "CBMiuAFBVV95cUxQRTZpNFQxUGVaNWtuZkN4R1g2amhsRVBCYThtczVXUG5tNERQdkk5YjlyU040Zm1jbTdzQ1dLUkZyUy14cjR1WHl0WkNmeDduVmNtVzZUMWJaRjRpaWw2bjlrSUhlOEZrMjVRTnY2QnVPRFVBNUNXY2tsMzZwck52X1loMlVqVHhmeGRqWHY4RGJvb09xejBLdTY5UzZGMjhWbC1laUdqQUc5ZW1FYUM1eFNXSVloajY2",
     "title": "Nourishing Europe - Financing the path to resilient and sustainable food systems - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRTZpNFQxUGVaNWtuZkN4R1g2amhsRVBCYThtczVXUG5tNERQdkk5YjlyU040Zm1jbTdzQ1dLUkZyUy14cjR1WHl0WkNmeDduVmNtVzZUMWJaRjRpaWw2bjlrSUhlOEZrMjVRTnY2QnVPRFVBNUNXY2tsMzZwck52X1loMlVqVHhmeGRqWHY4RGJvb09xejBLdTY5UzZGMjhWbC1laUdqQUc5ZW1FYUM1eFNXSVloajY2?oc=5",
@@ -414,6 +414,15 @@
     "image": null
   },
   {
+    "id": "CBMitwFBVV95cUxQalQ0OGFhRWNNdllnS3EtTGZETkllVU51UzhudVhaNWVQZ2RhSlhCcHQ5Uk0td3ZOREFScnpXN25oOG4wUVl6Q3BmbGxfaUN1U2ZITjZNWWFiQUZ0b3JIRzloRlBfclB0WW1jaFE3cUZBR2xBT3ZCbzhKMFdneU9kZ0pwNGFkeW9NeFZfWFpnWDRkdVUtQXQ3amc4dnh1WERHdDRRemx1cTZ5XzBqUE9feG5Hb0N1ams",
+    "title": "Food for Thought - How can we reshape our food systems for a sustainable future? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalQ0OGFhRWNNdllnS3EtTGZETkllVU51UzhudVhaNWVQZ2RhSlhCcHQ5Uk0td3ZOREFScnpXN25oOG4wUVl6Q3BmbGxfaUN1U2ZITjZNWWFiQUZ0b3JIRzloRlBfclB0WW1jaFE3cUZBR2xBT3ZCbzhKMFdneU9kZ0pwNGFkeW9NeFZfWFpnWDRkdVUtQXQ3amc4dnh1WERHdDRRemx1cTZ5XzBqUE9feG5Hb0N1ams?oc=5",
+    "summary": "Food for Thought - How can we reshape our food systems for a sustainable future? Euractiv Events",
+    "date": "2023-06-20T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
     "id": "CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw",
     "title": "Erdoğan prevails in election test of his 20-year rule - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw?oc=5",
@@ -428,6 +437,15 @@
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX052aEJwLWNxQ2dXVmVGSkVWYkhwcTU3MV9CZmRacjYwMmIyTnE3TlNVRWJ5Z1BqcGVyWHg3aG1fRjl3a0Vnel9BV0dSeS1EeGZXN0NkQ1Y3TjdiQm5hcGV0VzR6NWVlNms2RGt2VDJrUm9jX2tiRVhnZGEzanVGcEEtZDJKaHF1VVc1dGNtalowTTVxVWo4OWYwMkYtdXJiQXh6NUJsOU8xMUtsWEkwY2E0Zng5ZkFm?oc=5",
     "summary": "Lawyer claims Eva Kaili followed EU Parliament chief’s orders in Qatar Euractiv",
     "date": "2022-12-14T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw",
+    "title": "#EAAGRIFOOD TWITTER SPACE | READY, STEADY, CAP! - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw?oc=5",
+    "summary": "#EAAGRIFOOD TWITTER SPACE | READY, STEADY, CAP! Euractiv Events",
+    "date": "2022-12-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
@@ -448,15 +466,6 @@
     "date": "2022-06-21T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
-  },
-  {
-    "id": "CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA",
-    "title": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcElLRHNLQzFQZWloaExydW5lVkJBSTlkUzgzMGh0UGQyY1lxLW1iNXZJXzJqejhwam9pUzVKaDJLNWI2c2tkVElpNHkzYnREUm93T3BOT0VBYnlxOWRpUU5rLWpvclZlbXRZRnNJNkJzaXdzRjhYcGxDalB4TUZEV2NQMndnN29OY1VHbllONS02VkNvdFp2WFM1VjRKNGxONmh6ZFlQN2dCdVJBTkx2bHNiSzNXRHJNSHp0dDJFZ0dWeDl5a3Y5ZA?oc=5",
-    "summary": "Braucht Deutschland eine neue Waldpolitik? Potential und Problematik der Waldstrategie 2050 Euractiv Events",
-    "date": "2022-04-29T23:49:03.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
     "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
     "date": "2021-10-20T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU",
-    "title": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU?oc=5",
-    "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
-    "date": "2021-10-14T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
