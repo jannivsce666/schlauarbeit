@@ -1,5 +1,23 @@
 [
   {
+    "id": "7963bbe4-a86d-48be-969a-6a2c15ab4e01",
+    "title": "Marktbericht: US-Märkte nach Zinsentscheid unentschlossen",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-nach-kurssturz-fed-zinsen-gold-oel-100.html",
+    "summary": "Der Zinsentscheid und die neue Zinsprojektion der Fed haben die Märkte gründlich durchgeschüttelt. Wenn sich der Staub legt, könnten dem deutschen Aktienmarkt schwierige Tage bevorstehen.",
+    "date": "2025-09-17T20:15:30.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/446181a6-ed42-4d86-8717-fb93667f250b/AAABldis7y4/AAABmKJZ-0g/16x9-big/nyse-334.jpg?width=1280"
+  },
+  {
+    "id": "32b85fe9-3c99-4585-a3cc-2ae0e8950e5d",
+    "title": "Recherche zu Jan Marsalek: \"Deutschland hätte viel aktiver sein können\"",
+    "url": "https://www.tagesschau.de/ausland/marsalek-gefunden-moskau-recherche-100.html",
+    "summary": "Journalisten haben den flüchtigen Ex-Wirecard-Manager Jan Marsalek in Moskau aufgespürt. Er soll dort für den russischen Geheimdienst arbeiten. Wie Marsalek gefunden wurde, berichtet Investigativ-Reporter Christo Grozev in den tagesthemen.",
+    "date": "2025-09-17T19:31:40.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/4fd8ddc4-4703-4e9c-9e8c-8e8866e5dca2/AAABkyUuGTY/AAABmKJZ-0g/16x9-big/marsalek-untersuchungsausschuss-wirecard-101.jpg?width=1280"
+  },
+  {
     "id": "bd47cd53-cea6-4bfa-8811-77e72fa2ac11",
     "title": "US-Präsident Trump trifft König Charles III. - Proteste in London",
     "url": "https://www.tagesschau.de/ausland/europa/trump-charles-treffen-london-100.html",
@@ -106,15 +124,6 @@
     "date": "2025-09-17T06:01:02.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/c675c229-6198-429a-a18d-f70cc55f2376/AAABmVZKUoY/AAABmKJZ-0g/16x9-big/trump-london-110.jpg?width=1280"
-  },
-  {
-    "id": "1f0b733b-fcf3-4d7b-9e63-db5e1d80de87",
-    "title": "Von der Leyens Plan: EU soll schneller weg von russischer Energie",
-    "url": "https://www.tagesschau.de/ausland/europa/eu-ausstieg-russische-energie-100.html",
-    "summary": "Noch beziehen EU-Länder große Mengen Gas und Öl aus Russland. Nun soll der geplante Ausstieg beschleunigt werden, wie Kommissionspräsidentin von der Leyen ankündigte - das dürfte auch mit Druck von Seiten des US-Präsidenten zu tun haben.",
-    "date": "2025-09-17T05:27:01.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5a0a29ba-ddfc-4f2b-979e-eebc10548e35/AAABmVY1SCY/AAABmKJZ-0g/16x9-big/von-der-leyen-680.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/commentisfree/2025/sep/17/australia-has-an-everest-to-climb-if-it-wants-to-protect-itself-from-climate-catastrophe-but-do-we-have-the-political-resolve",
@@ -286,15 +295,6 @@
     "date": "2025-09-10T14:00:00.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2021/09/hero-5-01-2.png"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/10/south-dakota-solar-energy",
-    "title": "Misinformation, fear and politics – how a South Dakota county drove away millions in solar energy",
-    "url": "https://www.theguardian.com/environment/2025/sep/10/south-dakota-solar-energy",
-    "summary": "Colton Berens was looking forward to the added income from his farm, but armed with rightwing falsehoods, other Selby residents opposed the move Like most of South Dakota, Walworth county is built on farming. To the east of Selby, the county seat, vast fields of soybeans and wheat grow between roads that run straight to the horizon. To the west, beyond the county line, the Standing Rock Indian reservation spreads across miles of rumpled green prairie studded with creamy erratics and dark clumps of trees. Like many farming regions, Walworth’s deeply conservative population has been steadily declining and aging, from roughly 8,000 in the 1960s to 5,200 today. The grain elevator that towers over Main Street in Selby is among the busiest in the region, but most of the squat brick buildings in its shadow are weathered and lifeless. Continue reading...",
-    "date": "2025-09-10T12:00:03.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/5403ae4c0bc7d8b174d8092c18f0013782e4347e/821_422_4474_3578/master/4474.jpg?width=700&quality=85&auto=format&fit=max&s=972296e574bc50789003ebbe8f4b599d"
   },
   {
     "id": "https://www.carbonbrief.org/?p=58968",
@@ -537,6 +537,6 @@
     "summary": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING Euractiv Events",
     "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   }
 ]
