@@ -1,7 +1,16 @@
 [
   {
+    "id": "bd47cd53-cea6-4bfa-8811-77e72fa2ac11",
+    "title": "US-Präsident Trump trifft König Charles III. - Proteste in London",
+    "url": "https://www.tagesschau.de/ausland/europa/trump-charles-treffen-london-100.html",
+    "summary": "Mit einer angeblich \"beispiellosen\" Militärparade ist US-Präsident Trump auf Schloss Windsor empfangen worden. In London demonstrierten dagegen Tausende gegen ihn. Am Vorabend hatte schon eine Aktion am Schloss Aufsehen erregt.",
+    "date": "2025-09-17T17:02:47.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/1f01faa7-7de8-4ce5-a864-9e08eab49606/AAABmVekERI/AAABmKJZ-0g/16x9-big/trump-charles-100.jpg?width=1280"
+  },
+  {
     "id": "db0ceb17-14e3-45df-924c-02f327964817",
-    "title": "Streit mit Unilever: Ben & Jerry's bald ohne Gründer Jerry",
+    "title": "Streit mit Unilever: Mitgründer von Ben & Jerry's verlässt Firma",
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ben-und-jerry-bald-ohne-jerry-100.html",
     "summary": "Die US-Eishersteller Ben & Jerry's gehört seit vielen Jahren zum Großkonzern Unilever. Nun verlässt einer der Mitgründer das Unternehmen - im Streit über die politische Positionierung der Marke.",
     "date": "2025-09-17T15:08:24.000Z",
@@ -52,15 +61,6 @@
     "date": "2025-09-17T14:28:40.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/b8206b55-ea4e-48f3-9f38-e404d4ba85d1/AAABmVfCRnk/AAABmKJZ-0g/16x9-big/machu-picchu-pueblo-100.jpg?width=1280"
-  },
-  {
-    "id": "bd47cd53-cea6-4bfa-8811-77e72fa2ac11",
-    "title": "US-Präsident Trump trifft König Charles III. - Proteste in London",
-    "url": "https://www.tagesschau.de/ausland/europa/trump-charles-treffen-london-100.html",
-    "summary": "Mit einer angeblich \"beispiellosen\" Militärparade ist US-Präsident Trump auf Schloss Windsor empfangen worden. In London wollen dagegen Tausende gegen ihn demonstrieren. Am Abend hatte schon eine Aktion am Schloss Aufsehen erregt.",
-    "date": "2025-09-17T13:07:34.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/1f01faa7-7de8-4ce5-a864-9e08eab49606/AAABmVekERI/AAABmKJZ-0g/16x9-big/trump-charles-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/film/2025/sep/17/robert-redford-remembered-beautiful-man-decent-human-being",
@@ -124,15 +124,6 @@
     "date": "2025-09-17T03:10:17.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/a1e8e22a55351865e3957876729eedde0bb152f6/456_0_4560_3648/master/4560.jpg?width=700&quality=85&auto=format&fit=max&s=5ec59931016fec7feb9fd7eafd4d22b6"
-  },
-  {
-    "id": "bb38d993-4152-40c7-b069-01bb478408e7",
-    "title": "Deutschlandticket könnte ab 2026 teurer werden",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/deutschlandticket-preis-erhoehung-100.html",
-    "summary": "Derzeit kostet das Deutschlandticket 58 Euro pro Monat - das könnte sich im kommenden Jahr aber ändern. Von 62 bis 64 Euro ist die Rede. Bei einer Verkehrsministerkonferenz der Länder am Donnerstag wird weiter beraten.",
-    "date": "2025-09-16T18:32:50.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/13f5a83f-3806-4a28-a4e4-1c786f34fd93/AAABmVO0OSU/AAABmKJZ-0g/16x9-big/deutschlandticket-204.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59066",
@@ -538,5 +529,14 @@
     "date": "2022-10-26T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
+  },
+  {
+    "id": "CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw",
+    "title": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw?oc=5",
+    "summary": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING Euractiv Events",
+    "date": "2022-09-20T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   }
 ]
