@@ -1,5 +1,23 @@
 [
   {
+    "id": "7f9bf622-14ef-4b8c-b335-79392903c60d",
+    "title": "11KM-Podcast: Wie viel Fleisch verträgt Deutschland?",
+    "url": "https://www.tagesschau.de/11km-podcast-fleischkonsum-deutschland-100.html",
+    "summary": "Die Deutschen essen zu viel Fleisch, sagt die Wissenschaft - das schadet Gesundheit und Klima. Aber die Sache ist kompliziert. 11KM über eine emotionale Debatte, in der wissenschaftliche Erkenntnisse in den Hintergrund rücken.",
+    "date": "2025-09-19T05:11:26.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/ac161711-17a7-40c8-a3cb-60c0c83d82f3/AAABloYx4mY/AAABmKJZ-0g/16x9-big/11km-neutrales-teaserbild-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/sep/19/revealed-corporate-capture-un-aviation-body-icao",
+    "title": "Revealed: ‘Corporate capture’ of UN aviation body by industry",
+    "url": "https://www.theguardian.com/environment/2025/sep/19/revealed-corporate-capture-un-aviation-body-icao",
+    "summary": "Exclusive: Industry delegates outnumbered climate experts by 14 to one at recent ICAO meeting, thinktank says The UN aviation organisation has been captured by the industry, a report has concluded, leading to the urgent action required to tackle the sector’s high carbon emissions being blocked. Industry delegates outnumbered climate experts by 14 to one at the recent “environmental protection” meeting of the UN International Civil Aviation Organization (ICAO), the report found. The ICAO is the forum where nations agree the rules governing international aviation. Continue reading...",
+    "date": "2025-09-19T05:00:34.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/f61cbb0c9730ec9703b23ffa301c3a612b91d89e/1200_359_2615_2092/master/2615.jpg?width=700&quality=85&auto=format&fit=max&s=3b13ffd0a047bccf8f8c57be8382509e"
+  },
+  {
     "id": "https://www.theguardian.com/uk-news/2025/sep/19/tfl-persistent-ulez-offenders-unpaid-fines",
     "title": "TfL says persistent offenders owe more than £700m in Ulez fines",
     "url": "https://www.theguardian.com/uk-news/2025/sep/19/tfl-persistent-ulez-offenders-unpaid-fines",
@@ -106,24 +124,6 @@
     "date": "2025-09-18T08:00:37.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/e590b873525b792ebee49ababd1518a8895ea0bd/541_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2cbb466e8dcbf0181266757b22b43488"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
-    "title": "Whale and her calf entangled in shark net off Queensland coast",
-    "url": "https://www.theguardian.com/environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
-    "summary": "‘Heartbreaking’ drone footage has captured the moment a mother and calf became trapped. Four humpbacks have been snared in recent days Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A whale entangled in a shark net about five days ago with her calf is yet to be fully freed, two of four humpback whales to be entangled in shark nets off the coast of Queensland in recent days. Dr Olaf Meynecke, who researches marine mammals at Griffith University, said humpback whales were caught in shark nets every year, but this was the first time involving four whales trapped at the same time. Continue reading...",
-    "date": "2025-09-18T07:41:24.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/1bcc64a2e53f0de4ed7f49f66696251dd823fb27/237_0_1330_1064/master/1330.jpg?width=700&quality=85&auto=format&fit=max&s=9dbd0d2def1ef1be147f45eb54082788"
-  },
-  {
-    "id": "https://www.theguardian.com/australia-news/2025/sep/18/albanese-unveils-responsible-new-climate-target-to-slash-emissions-over-next-decade",
-    "title": "Bowen says cutting emissions by more than 70% ‘not achievable’ as 2035 target criticised from all sides",
-    "url": "https://www.theguardian.com/australia-news/2025/sep/18/albanese-unveils-responsible-new-climate-target-to-slash-emissions-over-next-decade",
-    "summary": "Albanese says 62% to 70% range represents ‘the sweet spot’ as Coalition rejects ‘economy wrecking’ target while Greens label it a ‘betrayal’ What is a climate target, and how does Australia’s stack up? Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The Albanese government insists its new 2035 emissions reduction target of 62% to 70% represents the “maximum level of ambition”, as climate campaigners warn it falls short of what Australia should be doing to combat global heating. The climate change minister, Chris Bowen, said a 2035 target above 70% on 2005 levels was “not achievable” as he claimed the government’s new goal was aligned with the global aim of limiting temperature rise to 1.5C. Continue reading...",
-    "date": "2025-09-18T07:35:13.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/5e25e7238edcdd3aecb470287520b3a687eeb9d5/1752_1029_2213_1771/master/2213.jpg?width=700&quality=85&auto=format&fit=max&s=992db6457a2d710f63a85d545138fd68"
   },
   {
     "id": "c44eb422-4ca6-4bf8-a7d9-719c8e63ca2f",
@@ -441,15 +441,6 @@
     "image": null
   },
   {
-    "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
-    "title": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ?oc=5",
-    "summary": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? Euractiv Events",
-    "date": "2023-02-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
     "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
@@ -465,7 +456,7 @@
     "summary": "Lawyer claims Eva Kaili followed EU Parliament chief’s orders in Qatar Euractiv",
     "date": "2022-12-14T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
+    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
+    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
+    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
