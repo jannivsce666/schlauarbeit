@@ -1,5 +1,14 @@
 [
   {
+    "id": "cdda85a1-35e0-4dca-b6db-f66094685634",
+    "title": "Seltene Erden: Chinas Exportkontrollen führen zu Produktionsstopps",
+    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-exportkontrollen-seltene-erden-100.html",
+    "summary": "Viele Firmen aus Europa warten derzeit vergeblich auf eine Erlaubnis der chinesischen Behörden für den Export von seltenen Erden. In den Fabriken kommt es deshalb bereits zu Produktionsausfällen - und hohen Kosten. Von Eva Lamby-Schmitt.",
+    "date": "2025-09-19T09:33:29.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/470f97f7-b2f2-4871-9c28-1751420a7d07/AAABmWFIHk8/AAABmKJZ-0g/16x9-big/arbeiter-bayan-obo-mine-100.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/australia-news/2025/sep/19/sussan-ley-says-she-misspoke-after-comments-that-coalition-doesnt-believe-in-setting-climate-targets",
     "title": "Sussan Ley says she ‘misspoke’ after comments that Coalition doesn’t believe in setting climate targets",
     "url": "https://www.theguardian.com/australia-news/2025/sep/19/sussan-ley-says-she-misspoke-after-comments-that-coalition-doesnt-believe-in-setting-climate-targets",
@@ -25,15 +34,6 @@
     "date": "2025-09-19T05:00:34.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/f61cbb0c9730ec9703b23ffa301c3a612b91d89e/1200_359_2615_2092/master/2615.jpg?width=700&quality=85&auto=format&fit=max&s=3b13ffd0a047bccf8f8c57be8382509e"
-  },
-  {
-    "id": "https://www.theguardian.com/uk-news/2025/sep/19/tfl-persistent-ulez-offenders-unpaid-fines",
-    "title": "TfL says persistent offenders owe more than £700m in Ulez fines",
-    "url": "https://www.theguardian.com/uk-news/2025/sep/19/tfl-persistent-ulez-offenders-unpaid-fines",
-    "summary": "Transport body promises to crack down on the small minority of people with four or more penalty notices Transport for London is promising to crack down on drivers who flout its ultra-low emission zone (Ulez) after revealing that 94% of the £790m owed in fines has been racked up by persistent offenders. Non-payers have been fined up to £17,000 this year, including one driver whose car was seized and sold at auction after he ignored 130 warning letters and 14 visits by enforcement officers. Continue reading...",
-    "date": "2025-09-19T04:01:33.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/ec9b59ccc37be93f9cbc2bf8cc605b696db788f9/224_0_2918_2333/master/2918.jpg?width=700&quality=85&auto=format&fit=max&s=7a6bf83aa98b06e095501d5dd64d6c22"
   },
   {
     "id": "d259b769-c137-4842-86dd-9b2971eef09c",
@@ -97,15 +97,6 @@
     "date": "2025-09-18T10:53:35.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/b694bad6d8016caeaab8a28025d5becda6145b7f/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=15a2c62882a48a30629559f04d826f5e"
-  },
-  {
-    "id": "985e582a-4fa0-4d0a-b37c-866b7f312e56",
-    "title": "Europas Klimaziele wegen Deutschland auf der Kippe",
-    "url": "https://www.tagesschau.de/ausland/europa/eu-umweltminister-klimaziele-100.html",
-    "summary": "Auf dem Weg zur Klimaneutralität sollte die EU sich eigentlich ein klares Zwischenziel setzen. Doch daraus wird beim heutigen Treffen der EU-Minister wohl nichts - gerade wegen der neuen deutschen Position. Von Kathrin Schmid.",
-    "date": "2025-09-18T09:31:50.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/4b33c118-aa8d-423e-835a-3fda33b68c8d/AAABkr-UIPs/AAABmKJZ-0g/16x9-big/schornstein-112.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/commentisfree/2025/sep/18/expert-panel-australias-2035-emissions-target",
@@ -428,6 +419,15 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw?oc=5",
     "summary": "Erdoğan prevails in election test of his 20-year rule Euractiv",
     "date": "2023-05-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ",
+    "title": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUZ0c2p6aHkyRC1qU3RTZkdQNnQyTk5SZ2ZwZGRTVmd5REx2TndtZG1XLW43OVBrU2NZT2YtblBnSC1aMDdEM3NCZmUtLWFCRnM4eHNVQnNEem1USnhpcEItcjBkcWp4LXFOY0tla2hyWXZKenNaLUJjT2thR3hFb3BkTWotQXNHRWxrX2ZxUlpFcnBORXZwbVQ1QVZncTY1cF9TY0FaUVBFRTQtaGNZNHZwcFhzZHI1MU5aVWVjTTlnclB6LWVQaQ?oc=5",
+    "summary": "Comment le nouveau gouvernement français envisage-t-il la mise en œuvre d'une PAC efficace ? Euractiv Events",
+    "date": "2023-02-06T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
