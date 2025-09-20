@@ -1,9 +1,27 @@
 [
   {
+    "id": "ef495879-1a85-4574-b6bf-e6175e80017e",
+    "title": "DB-Regio-Chefin Palla soll neue Bahnchefin werden",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-chefin-palla-100.html",
+    "summary": "Die Nachfolge von Bahnchef Lutz ist geklärt: Die bisherige Chefin von DB Regio, Evelyn Palla, soll den Posten übernehmen. Auf sie warten viele Probleme: Verspätungen, Sanierungen und unzufriedene Kunden.",
+    "date": "2025-09-20T18:00:12.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/f55ca329-0c03-43d0-8c17-4c49ec1fac56/AAABmWggAvM/AAABmKJZ-0g/16x9-big/evelyn-palla-deutsche-bahn-100.jpg?width=1280"
+  },
+  {
+    "id": "82d67d8f-455c-4df7-bd79-c83f5514197b",
+    "title": "Tausende protestieren gegen \"Gasrausch\" der Bundesregierung",
+    "url": "https://www.tagesschau.de/inland/fridays-for-future-weltweit-aktionstag-100.html",
+    "summary": "Mit ihren Gaskraftwerke-Plänen heize Ministerin Reiche die Klimakrise weiter an: Bundesweit haben Tausende Menschen für mehr Umweltschutz demonstriert. Organisationen wie Fridays for Future hatten weltweit zu einem Aktionstag aufgerufen.",
+    "date": "2025-09-20T17:09:33.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/8d97b8cf-fe17-438d-8b3f-fd4ec1ec9ec3/AAABmWgaOsc/AAABmKJZ-0g/16x9-big/fridays-for-future-protest-100.jpg?width=1280"
+  },
+  {
     "id": "b5720023-b193-47a1-bba9-abed145592c1",
     "title": "Hamas schürt Angst vor Verschwinden der Geiseln für immer",
     "url": "https://www.tagesschau.de/ausland/gaza-hamas-geiseln-drohung-100.html",
-    "summary": "Israel hat seine Offensive in Gaza-Stadt mit schweren Bombardierungen fortgesetzt. Die Hamas reagiert mit einer Fotomontage. Sie wird in Israel als Drohung verstanden, dass die verbliebenen Geiseln für immer verschwinden könnten.",
+    "summary": "Israel hat seine Offensive in Gaza-Stadt mit schweren Bombardierungen fortgesetzt. Die Hamas reagierte mit einer Fotomontage. Diese wird in Israel als Drohung verstanden, dass die verbliebenen Geiseln für immer verschwinden könnten.",
     "date": "2025-09-20T15:22:41.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/69287094-a82b-4e02-ae28-bf994dbfc2a3/AAABmWe4Y-U/AAABmKJZ-0g/16x9-big/hamas-geiseln-israel-104.jpg?width=1280"
@@ -106,15 +124,6 @@
     "date": "2025-09-19T10:30:12.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/b0f6a7222b691f2e02a5679071ffeb55f0eeaf51/568_26_6769_5415/master/6769.jpg?width=700&quality=85&auto=format&fit=max&s=4425f5305e32f34c8ee597ce097685c7"
-  },
-  {
-    "id": "cdda85a1-35e0-4dca-b6db-f66094685634",
-    "title": "Seltene Erden: Chinas Exportkontrollen führen zu Produktionsstopps",
-    "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-exportkontrollen-seltene-erden-100.html",
-    "summary": "Viele europäische Firmen warten derzeit vergeblich auf eine Erlaubnis der chinesischen Behörden für den Export von seltenen Erden. Dies führt zu Produktionsausfällen - und hohen Kosten. Von Eva Lamby-Schmitt.",
-    "date": "2025-09-19T09:33:29.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/470f97f7-b2f2-4871-9c28-1751420a7d07/AAABmWFIHk8/AAABmKJZ-0g/16x9-big/arbeiter-bayan-obo-mine-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050",
@@ -375,7 +384,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU's battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
     "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
     "date": "2021-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMitgFBVV95cUxPNF9yWVhXQjlTVWtpa2tMNUZBZDBRckd2SEx5bVJIQnJGLW5teElCdnJTSjJtRGtOTE0yQkg1bzZmSkVOOV9UV3Z2R1FXMWN6aWtHTVU2cDVhNUlSTGJrMkljdEpBVThPczRUYm8ybm9ZYjh4dmpKZk1Bd2UxY1hXYnVvX3RZeU9vUkZaQ254LThIcHBPVm56MkFoLU5xMktTRXpERzF6azBkd2pMVnhpdDUtNGhYdw",
-    "title": "Policy Dialogue: Can Glyphosate play a role in achieving greater biodiversity? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNF9yWVhXQjlTVWtpa2tMNUZBZDBRckd2SEx5bVJIQnJGLW5teElCdnJTSjJtRGtOTE0yQkg1bzZmSkVOOV9UV3Z2R1FXMWN6aWtHTVU2cDVhNUlSTGJrMkljdEpBVThPczRUYm8ybm9ZYjh4dmpKZk1Bd2UxY1hXYnVvX3RZeU9vUkZaQ254LThIcHBPVm56MkFoLU5xMktTRXpERzF6azBkd2pMVnhpdDUtNGhYdw?oc=5",
-    "summary": "Policy Dialogue: Can Glyphosate play a role in achieving greater biodiversity? Euractiv Events",
-    "date": "2021-11-04T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
