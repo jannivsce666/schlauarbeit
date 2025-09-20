@@ -1,5 +1,14 @@
 [
   {
+    "id": "3e095bce-a45f-47d6-a24a-be7c87f6f2b8",
+    "title": "Schnieder und Klingbeil: Streit über mehr Geld für Autobahnen",
+    "url": "https://www.tagesschau.de/inland/verkehrsinfrastruktur-klingbeil-schnieder-100.html",
+    "summary": "In einem Zeitungsinterview forderte Verkehrsminister Schnieder mehr Geld für den Aus- und Neubau von Autobahnen. Finanzminister Klingbeil macht seinem Kollegen in einem Brief nun eine Ansage - und verlangt Informationen.",
+    "date": "2025-09-20T14:14:41.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/6c35d64b-7afc-4821-b332-7fe2e1202798/AAABmVyOt6I/AAABmKJZ-0g/16x9-big/autobahn-baustelle-106.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/sep/20/just-add-water-how-to-bring-back-ancient-plants-in-a-norfolk-ghost-pond",
     "title": "‘It’s resurrection’: 1,000-year-old seeds could grow ancient plants in England’s ice-age ghost ponds",
     "url": "https://www.theguardian.com/environment/2025/sep/20/just-add-water-how-to-bring-back-ancient-plants-in-a-norfolk-ghost-pond",
@@ -366,7 +375,7 @@
     "summary": "German vice-chancellor eyes 'sovereignty transfer to Brussels' as he becomes Green lead candidate Euractiv",
     "date": "2025-02-04T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiuAFBVV95cUxQRTZpNFQxUGVaNWtuZkN4R1g2amhsRVBCYThtczVXUG5tNERQdkk5YjlyU040Zm1jbTdzQ1dLUkZyUy14cjR1WHl0WkNmeDduVmNtVzZUMWJaRjRpaWw2bjlrSUhlOEZrMjVRTnY2QnVPRFVBNUNXY2tsMzZwck52X1loMlVqVHhmeGRqWHY4RGJvb09xejBLdTY5UzZGMjhWbC1laUdqQUc5ZW1FYUM1eFNXSVloajY2",
@@ -423,9 +432,9 @@
     "image": null
   },
   {
-    "id": "CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw",
+    "id": "CBMijAFBVV95cUxOMmpCN0pyWElmQXA2dkhNblZvZnVqTFZxcEc0OGFJRWRDVk1OSk0wWXd0ano1LVdMWm5ScUNqRnlEUVc2eVBDdVFyVDVvbW9iN1lCNHAyanVfMjVSeXVSR21CVlNhRzJnMUVLS3NKWmdXTG9PM2J5bWNkWWgyVjJnUU1TQVFqbnZVYzNiRg",
     "title": "Erdoğan prevails in election test of his 20-year rule - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmt0WUZhbWxLeEdTeFg3MFFtR1VFZlBDWUFGeDhyRlNjN0RURldqSmRPdWFBUWdXYTF5bVhZUVl5YlRaS2lCQThZSDdJdnpPbE1STkVZTThoNWkxNENNTzE0QnpOWDI0SEs2eDN3YUpXVHRTakhGM3FSdVNRcVh3SVRJd2g5eEhuLVBWNGozSk5jNGtKN3FlOGJveVNSX1J3cGF3YThqUmlUdw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmpCN0pyWElmQXA2dkhNblZvZnVqTFZxcEc0OGFJRWRDVk1OSk0wWXd0ano1LVdMWm5ScUNqRnlEUVc2eVBDdVFyVDVvbW9iN1lCNHAyanVfMjVSeXVSR21CVlNhRzJnMUVLS3NKWmdXTG9PM2J5bWNkWWgyVjJnUU1TQVFqbnZVYzNiRg?oc=5",
     "summary": "Erdoğan prevails in election test of his 20-year rule Euractiv",
     "date": "2023-05-29T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
     "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
     "date": "2021-10-20T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU",
-    "title": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU?oc=5",
-    "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
-    "date": "2021-10-14T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
