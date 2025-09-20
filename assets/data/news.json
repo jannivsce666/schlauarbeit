@@ -108,15 +108,6 @@
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/2HACTRJ.jpg"
   },
   {
-    "id": "8d3da3be-a755-426c-a237-ca3ac42bc390",
-    "title": "Copernicus: Waldbrände sorgen für CO2-Emissionen in Rekordhöhe",
-    "url": "https://www.tagesschau.de/wissen/copernicus-co2-waldbraende-100.html",
-    "summary": "Im Jahr 2025 haben Waldbrände in Europa so viel CO2 freigesetzt wie nie seit Beginn der Messungen. Den größten Anteil hatten laut Erdbeobachtungsdienst Copernicus die Brände in Spanien und Portugal.",
-    "date": "2025-09-19T11:06:12.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/9f082faa-0699-4d9a-a9b3-42d66e24fd87/AAABmWFm1Yo/AAABmKJZ-0g/16x9-big/waldbrand-550.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/sep/19/ministers-tell-environment-agency-to-wave-planning-applications-through",
     "title": "Ministers tell Environment Agency to wave planning applications through",
     "url": "https://www.theguardian.com/environment/2025/sep/19/ministers-tell-environment-agency-to-wave-planning-applications-through",
@@ -366,7 +357,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU's battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
+    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
+    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
+    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
