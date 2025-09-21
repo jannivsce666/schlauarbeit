@@ -63,15 +63,6 @@
     "image": "https://images.tagesschau.de/image/e4a10768-6f23-49c2-8314-b45d00b7d8a4/AAABmWHSjJA/AAABmKJZ-0g/16x9-big/fridays-for-future-266.jpg?width=1280"
   },
   {
-    "id": "75708157-956a-46a2-ac29-40055df5d923",
-    "title": "ZDF-Fernsehrat verteidigt Hayali und Theveßen gegen Anfeindungen",
-    "url": "https://www.tagesschau.de/inland/gesellschaft/zdf-hayali-thevessen-100.html",
-    "summary": "\"In weiten Teilen keine Kritik mehr\": Das ZDF hat die Journalisten Hayali und Theveßen nach Drohungen in Schutz genommen. Beide waren in Zusammenhang mit der Berichterstattung über Charlie Kirk heftigen Anfeindungen ausgesetzt.",
-    "date": "2025-09-19T15:41:32.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/ba066662-580b-4cc8-a117-c9c0f85543c8/AAABmWJ0hqM/AAABmKJZ-0g/16x9-big/hayali-102.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/sep/20/labor-has-good-reason-sweat-over-2035-climate-target-but-dishevelled-coalition-response-rings-hollow",
     "title": "Labor has good reason to sweat over its 2035 climate target – but the dishevelled Coalition response rings hollow | Tom McIlroy",
     "url": "https://www.theguardian.com/environment/2025/sep/20/labor-has-good-reason-sweat-over-2035-climate-target-but-dishevelled-coalition-response-rings-hollow",
@@ -384,7 +375,7 @@
     "summary": "German Liberals swap out key leaders after government sabotage revelations Euractiv",
     "date": "2024-12-02T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiuAFBVV95cUxQRTZpNFQxUGVaNWtuZkN4R1g2amhsRVBCYThtczVXUG5tNERQdkk5YjlyU040Zm1jbTdzQ1dLUkZyUy14cjR1WHl0WkNmeDduVmNtVzZUMWJaRjRpaWw2bjlrSUhlOEZrMjVRTnY2QnVPRFVBNUNXY2tsMzZwck52X1loMlVqVHhmeGRqWHY4RGJvb09xejBLdTY5UzZGMjhWbC1laUdqQUc5ZW1FYUM1eFNXSVloajY2",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFBseE5neWZKNWl5X211SjJjNU5yTWNoWXhWQ1JlYnZGY1o0TTFmanlCMTNKZXNETUpqQ2pYQWJZZHRaVjVsX1gtQTdscGx3SXIwenhkdHFMS01qaU10NEJVZFpiZ1RnN3NXem1LVEJob0tVZ0lNU3NZOVc5U0dnN0VlSXlDQjZZS0N2bGpIWlpIc3NqeDRkbE5HZWRDNUdM?oc=5",
     "summary": "Zero carbon brewing and beverages - How can stakeholder co-operation achieve it? Euractiv Events",
     "date": "2021-10-29T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR",
+    "title": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
+    "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
+    "date": "2021-10-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
