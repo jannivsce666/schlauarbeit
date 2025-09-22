@@ -1,5 +1,14 @@
 [
   {
+    "id": "aea8b083-1d49-4963-b42d-47ebe45453c5",
+    "title": "Drohnen über Flughafen Kopenhagen - Flugverkehr eingestellt",
+    "url": "https://www.tagesschau.de/ausland/europa/kopenhagen-flughafen-drohnen-100.html",
+    "summary": "In der Gegend von Dänemarks größtem Flughafen in Kopenhagen sind mehrere Drohnen gesichtet worden. Der komplette Flugverkehr wurde daraufhin eingestellt.",
+    "date": "2025-09-22T21:08:02.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/5a945a34-6bbf-402c-8846-58b6dd58a643/AAABmXMQa5g/AAABmKJZ-0g/16x9-big/kopenhagen-208.jpg?width=1280"
+  },
+  {
     "id": "f842e7ab-bcc8-4bca-9852-2e60d1f0f17f",
     "title": "Gewerkschaft EVG will Wahl neuer Bahnspitze blockieren",
     "url": "https://www.tagesschau.de/inland/innenpolitik/bahnstrategie-schnieder-vorstellung-102.html",
@@ -375,7 +384,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU's battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -423,22 +432,13 @@
     "image": null
   },
   {
-    "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
-    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
-    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
-    "date": "2024-09-30T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMiowFBVV95cUxNTW5iZEJhQjJkTUc3QVkybXJreENUNklyX3ZkX19OWjhnbkNwcDRMOThJdGZIZXFaV2hTWURXRjZqQ3ViVnVVZVBqVUZKaG9IUDdNQjczdkhxa19PQmNScnVVX3NoRy0wS1Z4c285akdvX0JrdW1CWU0xeXJHejNwRTNwTklONlNVRE1zNnNWRUJhend2bS11MEFLMXVma0hObHVj",
     "title": "Biofuels election promise, a renewed mandate for renewables - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW5iZEJhQjJkTUc3QVkybXJreENUNklyX3ZkX19OWjhnbkNwcDRMOThJdGZIZXFaV2hTWURXRjZqQ3ViVnVVZVBqVUZKaG9IUDdNQjczdkhxa19PQmNScnVVX3NoRy0wS1Z4c285akdvX0JrdW1CWU0xeXJHejNwRTNwTklONlNVRE1zNnNWRUJhend2bS11MEFLMXVma0hObHVj?oc=5",
     "summary": "Biofuels election promise, a renewed mandate for renewables Euractiv",
     "date": "2024-05-10T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -486,6 +486,15 @@
     "image": null
   },
   {
+    "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
+    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
+    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
+    "date": "2023-01-13T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
     "id": "CBMiuAFBVV95cUxPX052aEJwLWNxQ2dXVmVGSkVWYkhwcTU3MV9CZmRacjYwMmIyTnE3TlNVRWJ5Z1BqcGVyWHg3aG1fRjl3a0Vnel9BV0dSeS1EeGZXN0NkQ1Y3TjdiQm5hcGV0VzR6NWVlNms2RGt2VDJrUm9jX2tiRVhnZGEzanVGcEEtZDJKaHF1VVc1dGNtalowTTVxVWo4OWYwMkYtdXJiQXh6NUJsOU8xMUtsWEkwY2E0Zng5ZkFm",
     "title": "Lawyer claims Eva Kaili followed EU Parliament chief’s orders in Qatar - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX052aEJwLWNxQ2dXVmVGSkVWYkhwcTU3MV9CZmRacjYwMmIyTnE3TlNVRWJ5Z1BqcGVyWHg3aG1fRjl3a0Vnel9BV0dSeS1EeGZXN0NkQ1Y3TjdiQm5hcGV0VzR6NWVlNms2RGt2VDJrUm9jX2tiRVhnZGEzanVGcEEtZDJKaHF1VVc1dGNtalowTTVxVWo4OWYwMkYtdXJiQXh6NUJsOU8xMUtsWEkwY2E0Zng5ZkFm?oc=5",
@@ -504,6 +513,15 @@
     "image": null
   },
   {
+    "id": "CBMipwFBVV95cUxPMk9xTGtreTFFMEhSUllaSl81dnVLYnZ3RGgzSnVBdGxnVmpMQmFvZlNfYkxYbzN1eUdIc1dxNGdCTTFHdnllNmFmZTVCZC16UTB2MXlLUkZjdmplMFRfZXBhYzkxLXVuR1YtNVlCeHJySk14cUNoUHc2Nkl1OWJVaHctZWRtV2dvVV9rSXJaMUVjZm9HcVNGTFFIakRmSHlCYlE5NE5tMA",
+    "title": "Reducing European methane emissions – The potential of EU livestock - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk9xTGtreTFFMEhSUllaSl81dnVLYnZ3RGgzSnVBdGxnVmpMQmFvZlNfYkxYbzN1eUdIc1dxNGdCTTFHdnllNmFmZTVCZC16UTB2MXlLUkZjdmplMFRfZXBhYzkxLXVuR1YtNVlCeHJySk14cUNoUHc2Nkl1OWJVaHctZWRtV2dvVV9rSXJaMUVjZm9HcVNGTFFIakRmSHlCYlE5NE5tMA?oc=5",
+    "summary": "Reducing European methane emissions – The potential of EU livestock Euractiv Events",
+    "date": "2022-06-21T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMingFBVV95cUxPYWhhRm90ckRVYW9sMnJYRjRsOHB6d2pEcjVDbzFFOFdhclRCTUp2SjR3dW12d1dsQ2Y2cDZyZFVuSHhxb1c3LXdnM1RzUHoxOHc2QzFlSVZIeHJnbFAwYVk5VUJGcXFkRnJhVWV5SzB5SkFjZEdMZzVFQU9KalhGcVhPSDR2NmZ5Ukk3bW0tMldFazBXNXdzZ21oQjF2dw",
     "title": "The role of food supplements in improving health in the EU - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWhhRm90ckRVYW9sMnJYRjRsOHB6d2pEcjVDbzFFOFdhclRCTUp2SjR3dW12d1dsQ2Y2cDZyZFVuSHhxb1c3LXdnM1RzUHoxOHc2QzFlSVZIeHJnbFAwYVk5VUJGcXFkRnJhVWV5SzB5SkFjZEdMZzVFQU9KalhGcVhPSDR2NmZ5Ukk3bW0tMldFazBXNXdzZ21oQjF2dw?oc=5",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc",
-    "title": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc?oc=5",
-    "summary": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution Euractiv Events",
-    "date": "2022-02-23T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
-    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
-    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
-    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
