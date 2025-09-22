@@ -1,5 +1,32 @@
 [
   {
+    "id": "6777fe0f-dae8-4c27-917b-bf3b60552f6c",
+    "title": "Marktbericht: Kaum Veränderung beim DAX erwartet",
+    "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-aktien-112.html",
+    "summary": "Der DAX dürfte sich auch in der neuen Woche schwer damit tun, eine klare Richtung zu finden. Immerhin sollte die Zinsfantasie in den USA eine nachhaltige Korrektur am deutschen Aktienmarkt verhindern.",
+    "date": "2025-09-22T06:01:25.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/afd0f471-6be5-49a9-ae5a-3e5ac396e211/AAABldcpwIk/AAABmKJZ-0g/16x9-big/boerse-358.jpg?width=1280"
+  },
+  {
+    "id": "d738f8d7-6bb7-4e02-80c0-1fc07922c713",
+    "title": "Verkehrsminister Schnieder stellt Strategie zur Bahnsanierung vor",
+    "url": "https://www.tagesschau.de/inland/bahn-strategie-schnieder-100.html",
+    "summary": "Unpünktliche Züge, hohe Kosten, fehlendes Spitzenpersonal: Bundesverkehrsminister Schnieder stellt heute seine Strategie zur Sanierung der Deutschen Bahn vor - inklusive neuer Chefin.",
+    "date": "2025-09-22T05:54:52.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/0064862a-1806-4f2f-b522-7e7598b5fe01/AAABmW_OVwk/AAABmKJZ-0g/16x9-big/bahn-956.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/video/2025/sep/22/leopard-sharks-mating-in-the-wild-captured-on-camera-for-first-time-video",
+    "title": "Leopard sharks mating in the wild captured on camera for first time – video",
+    "url": "https://www.theguardian.com/environment/video/2025/sep/22/leopard-sharks-mating-in-the-wild-captured-on-camera-for-first-time-video",
+    "summary": "The leopard shark 'threesome' between two males and a female was filmed by a university researcher off New Caledonia. Scientists believe it to be the world's first recorded observation of two males of the globally endangered species mating in quick succession with a female 'Involved sequentially': leopard sharks observed mating for first time in wild have threesome Continue reading...",
+    "date": "2025-09-22T05:05:07.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/1eef3384d74f77c29b6c1f04e158128f7710a558/176_0_1138_910/master/1138.jpg?width=700&quality=85&auto=format&fit=max&s=089b51feb320988eae03f02fd422337b"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/sep/22/fossil-fuels-coal-gas-oil-extraction-climate-goals-beyond-reach",
     "title": "Nations’ plans to ramp up coal, gas and oil extraction ‘will put climate goals beyond reach’",
     "url": "https://www.theguardian.com/environment/2025/sep/22/fossil-fuels-coal-gas-oil-extraction-climate-goals-beyond-reach",
@@ -99,15 +126,6 @@
     "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK.png"
   },
   {
-    "id": "https://www.theguardian.com/environment/2025/sep/19/red-squirrel-population-thriving-on-isle-of-wight-and-could-almost-double-study-finds",
-    "title": "Red squirrel population thriving on Isle of Wight and could almost double, study finds",
-    "url": "https://www.theguardian.com/environment/2025/sep/19/red-squirrel-population-thriving-on-isle-of-wight-and-could-almost-double-study-finds",
-    "summary": "Researchers mapping how red squirrels would fare under climate breakdown scenarios found ‘a natural ability to adapt’ Red squirrels are thriving on the Isle of Wight where they have enough food and a suitable habitat to support a population that could almost double, a study has found. Using climate models, the researchers mapped how the red squirrel population would fare under different climate breakdown scenarios such as temperature changes and low levels of rainfall, finding no direct impact on their survivability and “a natural ability to adapt to a range of climatic conditions”. Continue reading...",
-    "date": "2025-09-19T12:00:50.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/2c8a4e4e4caad35fced7a78c0c14b02bdddd5447/0_305_3666_2933/master/3666.jpg?width=700&quality=85&auto=format&fit=max&s=11430de148693eec8b20995a849d63d1"
-  },
-  {
     "id": "https://www.carbonbrief.org/?p=59134",
     "title": "Growing trees for shade has ‘enormous’ potential for cutting cocoa emissions",
     "url": "https://www.carbonbrief.org/growing-trees-for-shade-has-enormous-potential-for-cutting-cocoa-emissions/",
@@ -187,15 +205,6 @@
     "date": "2025-09-18T08:00:37.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/e590b873525b792ebee49ababd1518a8895ea0bd/541_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=2cbb466e8dcbf0181266757b22b43488"
-  },
-  {
-    "id": "https://www.theguardian.com/australia-news/video/2025/sep/18/australian-government-announces-2035-emissions-reduction-target-video",
-    "title": "Australian government announces 2035 emissions reduction target – video",
-    "url": "https://www.theguardian.com/australia-news/video/2025/sep/18/australian-government-announces-2035-emissions-reduction-target-video",
-    "summary": "The prime minister, Anthony Albanese, announced the Labor government will set a 62-70% emissions reduction target by 2035, taking the advice of the Climate Change Authority. In his announcement, Albanese said 'It is the right target to protect our environment, to protect and advance our economy and jobs and to ensure that we act in our national interest and in the interest of this and future generations.' Continue reading...",
-    "date": "2025-09-18T03:47:45.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/3eb76621da7d053537e95f2d6169dc83ad28f82f/0_855_3765_3014/master/3765.jpg?width=700&quality=85&auto=format&fit=max&s=606de3e746ffe9677d30fb95d26cf393"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59021",
@@ -468,22 +477,13 @@
     "image": null
   },
   {
-    "id": "CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw",
-    "title": "#EAAGRIFOOD TWITTER SPACE | READY, STEADY, CAP! - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iV3hHOVVQaDduTlhoN2JURktJT203UjFLRHZTQzRyM1BIb0JFYndDVEdrblVqT01zSmpNdzk2SnNVeHlsWm9kZGx4VzRfYnlTMVpqeS1QWFVXREc3SWo4NFVaaktxZw?oc=5",
-    "summary": "#EAAGRIFOOD TWITTER SPACE | READY, STEADY, CAP! Euractiv Events",
-    "date": "2022-12-06T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw",
     "title": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING - Euractiv Events",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzlmd2h3U0RwVHVOcEdVZkxHaEpfNkFBekwwN19wdEN4N2gxbl9uWUdvLWViSnJoM3ZQR1ZybkhPcGJwWEdKb2JGZ3J4MUFXTkJ1SkxWVnZ2TFJlMkJhdVBCblpWRk1mWjJtOTdnb2djVjhnTnJCX2gxLVJPdW5FVHpYbmkxRTBXa3pqV2YyeEx6dw?oc=5",
     "summary": "#EAAGRIFOOD TWITTER CHAT | ENERGY CRISIS AND FARMING Euractiv Events",
     "date": "2022-09-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMipwFBVV95cUxPMk9xTGtreTFFMEhSUllaSl81dnVLYnZ3RGgzSnVBdGxnVmpMQmFvZlNfYkxYbzN1eUdIc1dxNGdCTTFHdnllNmFmZTVCZC16UTB2MXlLUkZjdmplMFRfZXBhYzkxLXVuR1YtNVlCeHJySk14cUNoUHc2Nkl1OWJVaHctZWRtV2dvVV9rSXJaMUVjZm9HcVNGTFFIakRmSHlCYlE5NE5tMA",
@@ -510,7 +510,7 @@
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc",
@@ -531,11 +531,11 @@
     "image": null
   },
   {
-    "id": "CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk",
-    "title": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTC1xdkJBNzdoeW5pRmxZbl9TNUk4REdGV3hUeWhsOE5IZUJhOTloTGhLQ21veHJZTkJOOV9YZjBGVXZBZGxkQkIxaEFoNEM5b2F4V0tmakdzVTRyS1JCc1dZMU44QnBlN25MY0FKWjloSC1venE5UUVydHp0eXdva2tHXzhVdmNJUXNmQ3VaQmRidFMyTWNRTnJnNjVtM2UyR0U3UUNtZUEwSjZWenVicWszWnRweWRlRy1UblctNTEtdFhmOVREV1ktRjdYWW1NMmNSMk00eUpMUUk?oc=5",
-    "summary": "Between Farm and Fork: The role of innovative ingredients and food technology in achieving F2F objectives Euractiv Events",
-    "date": "2021-12-06T08:00:00.000Z",
+    "id": "CBMitgFBVV95cUxPNF9yWVhXQjlTVWtpa2tMNUZBZDBRckd2SEx5bVJIQnJGLW5teElCdnJTSjJtRGtOTE0yQkg1bzZmSkVOOV9UV3Z2R1FXMWN6aWtHTVU2cDVhNUlSTGJrMkljdEpBVThPczRUYm8ybm9ZYjh4dmpKZk1Bd2UxY1hXYnVvX3RZeU9vUkZaQ254LThIcHBPVm56MkFoLU5xMktTRXpERzF6azBkd2pMVnhpdDUtNGhYdw",
+    "title": "Policy Dialogue: Can Glyphosate play a role in achieving greater biodiversity? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNF9yWVhXQjlTVWtpa2tMNUZBZDBRckd2SEx5bVJIQnJGLW5teElCdnJTSjJtRGtOTE0yQkg1bzZmSkVOOV9UV3Z2R1FXMWN6aWtHTVU2cDVhNUlSTGJrMkljdEpBVThPczRUYm8ybm9ZYjh4dmpKZk1Bd2UxY1hXYnVvX3RZeU9vUkZaQ254LThIcHBPVm56MkFoLU5xMktTRXpERzF6azBkd2pMVnhpdDUtNGhYdw?oc=5",
+    "summary": "Policy Dialogue: Can Glyphosate play a role in achieving greater biodiversity? Euractiv Events",
+    "date": "2021-11-04T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
