@@ -1,12 +1,30 @@
 [
   {
+    "id": "28fa5dfd-c3eb-4d4b-aa69-62cedf24a4b8",
+    "title": "Super-Taifun \"Ragasa\" bedroht die Philippinen und China",
+    "url": "https://www.tagesschau.de/ausland/asien/unwetter-taifun-ragasa-100.html",
+    "summary": "Ein Supersturm steuert mit gefährlichen Windböen auf die Philippinen und China zu. Hundertausende Menschen müssen ihre Häuser verlassen, Flüge in die Region werden gestrichen.",
+    "date": "2025-09-22T12:30:03.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/77f30b0e-71d5-4ebe-80d8-76afebcc7d1a/AAABmXAR8Fw/AAABmKJZ-0g/16x9-big/wellen-kueste-philippinen-100.jpg?width=1280"
+  },
+  {
     "id": "73ec670e-c5ad-458f-b619-5536f47ede34",
     "title": "Schnieder verschiebt Pünktlichkeitsziele der Bahn nach hinten",
     "url": "https://www.tagesschau.de/inland/innenpolitik/bahnstrategie-schnieder-vorstellung-100.html",
-    "summary": "Neue Chefin, neue Ziele: Mit seiner Bahnstrategie will der Verkehrsminister den bundeseigenen Konzern aus der Krise führen. In Sachen Pünktlichkeit schraubt Schnieder die Ziele jedoch erstmal zurück.",
-    "date": "2025-09-22T09:14:48.000Z",
+    "summary": "Mit seiner Bahnstrategie will der Verkehrsminister die Bahn aus der Krise führen. In Sachen Pünktlichkeit schraubt Schnieder die Ziele jedoch zurück. Auch personell plant Schnieder eine Neubesetzung. Dagegen regt sich aber bereits Widerstand.",
+    "date": "2025-09-22T11:55:15.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/3977d558-832b-4eec-b4e0-688b87af0509/AAABmXCBdUQ/AAABmKJZ-0g/16x9-big/rompf-palla-schnieder-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2025/sep/22/sun-day-climate-new-york",
+    "title": "Climate activists gather in New York for ‘Sun Day’ solar energy and anti-billionaire rallies",
+    "url": "https://www.theguardian.com/us-news/2025/sep/22/sun-day-climate-new-york",
+    "summary": "Sun Day national action supported renewable energy, day after ‘Make Billionaires Pay’ march ahead of Climate Week Hundreds of environmentalists gathered in New York City’s Stuyvesant Square Park and a nearby Quaker meeting house on Sunday to rally in support of solar power and other forms of renewable energy. The event was part of a national “day of action” billed Sun Day, founded by veteran environmental activist Bill McKibben and first Earth Day coordinator Denis Hayes. “It’s so sad to watch the sun going to waste,” McKibben said at a press conference, standing beside environmentalists and their children. “Every single day, energy from heaven going to waste while we drill down to hell for another dose of the stuff that is wrecking this planet.” Continue reading...",
+    "date": "2025-09-22T11:34:44.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/f1d71054d057f5e482367ccf359dae619d853207/604_2_4225_3380/master/4225.jpg?width=700&quality=85&auto=format&fit=max&s=3578835958b85eb38c5cd40cfb97e366"
   },
   {
     "id": "31ceac71-97af-4c74-91b2-e2be8b6d3cd0",
@@ -339,7 +357,7 @@
     "summary": "German vice-chancellor eyes 'sovereignty transfer to Brussels' as he becomes Green lead candidate Euractiv",
     "date": "2025-02-04T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiqgFBVV95cUxOaWtpVkVDNjNIMHk3Q3JaWDlRdDRmMHJ5a0xwbTJtbVFmbGhSR0JwSDJreVFsa0NENTc1c1RtelhHMmNoQnBDQ05BSUxQbm51ekJ3dDBkNXp4MF9ybnpoXzJWczFEd0txSFhMN0paREFwSi1OeUxVS2lVTGZaOG5JRHcyNDdUQ21nclk2ekZwOEV5eXVVTUVIeGo3MDAtTU14NUM0NGFJRmlmQQ",
@@ -518,24 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
     "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
     "date": "2021-10-20T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU",
-    "title": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU?oc=5",
-    "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
-    "date": "2021-10-14T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMizAFBVV95cUxQUWNiS1NvTHJqYmJldFJucHNOWnU0WjZLQ194bXlSbmxwR2xDM3dBa0YtTXZ2VEM2bkI4YlI0WVBGT19nTUU4b29BSGVtUzJrc3h0X3p2aUpQTElpWS1WOXAzZkxpYVBRQ25WTlR2OXF2Tk1YLWR5NDBzSXo3cEw1UmFVUVRDZHJuOW5QZTg3c2JDQ1Q2RmJEeUVQN1pMR1EwZW1UbllJanhnVVA0VHhSZ01sZVlsS2oya3hzdXFEeTItd0dtMWQ2dHJTOTc",
-    "title": "Shaping the agriculture of tomorrow - How can farmers and consumers benefit from a reformed CAP? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNiS1NvTHJqYmJldFJucHNOWnU0WjZLQ194bXlSbmxwR2xDM3dBa0YtTXZ2VEM2bkI4YlI0WVBGT19nTUU4b29BSGVtUzJrc3h0X3p2aUpQTElpWS1WOXAzZkxpYVBRQ25WTlR2OXF2Tk1YLWR5NDBzSXo3cEw1UmFVUVRDZHJuOW5QZTg3c2JDQ1Q2RmJEeUVQN1pMR1EwZW1UbllJanhnVVA0VHhSZ01sZVlsS2oya3hzdXFEeTItd0dtMWQ2dHJTOTc?oc=5",
-    "summary": "Shaping the agriculture of tomorrow - How can farmers and consumers benefit from a reformed CAP? Euractiv Events",
-    "date": "2021-06-01T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
