@@ -1,10 +1,10 @@
 [
   {
     "id": "aea8b083-1d49-4963-b42d-47ebe45453c5",
-    "title": "Drohnen über Flughafen Kopenhagen - Flugverkehr eingestellt",
+    "title": "Drohnen über Flughäfen von Kopenhagen und Oslo gesichtet",
     "url": "https://www.tagesschau.de/ausland/europa/kopenhagen-flughafen-drohnen-100.html",
-    "summary": "In der Gegend von Dänemarks größtem Flughafen in Kopenhagen sind mehrere Drohnen gesichtet worden. Der komplette Flugverkehr wurde daraufhin eingestellt.",
-    "date": "2025-09-22T21:08:02.000Z",
+    "summary": "In der Gegend der Flughafen von Kopenhagen und Oslo sind mehrere Drohnen gesichtet worden.Der komplette Flugverkehr wurde daraufhin vorübergehend eingestellt. Die Herkunft der Flugkörper ist bisher unklar.",
+    "date": "2025-09-23T01:19:30.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/5a945a34-6bbf-402c-8846-58b6dd58a643/AAABmXMQa5g/AAABmKJZ-0g/16x9-big/kopenhagen-208.jpg?width=1280"
   },
@@ -115,15 +115,6 @@
     "date": "2025-09-22T04:01:02.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/b0520a9a0c8854327786deba4c661621fa617df8/707_0_7108_5686/master/7108.jpg?width=700&quality=85&auto=format&fit=max&s=8ca0b3183e1abef4e049dd17f0f46e3d"
-  },
-  {
-    "id": "e0d22ade-813d-4051-b0e9-e529c4584d17",
-    "title": "Pläne für fossile Energieproduktion sprengen Klimaziele",
-    "url": "https://www.tagesschau.de/wissen/klima/fossile-brennstoffe-klimaziele-energieproduktion-100.html",
-    "summary": "Die Weltgemeinschaft will laut Pariser Klimaabkommen die Erderwärmung auf deutlich unter zwei Grad begrenzen. Aber sie will auch mehr Kohle, Erdgas und Erdöl produzieren. Das passt nicht zusammen, kritisiert ein neuer Bericht. Von Sven Kästner.",
-    "date": "2025-09-22T04:00:32.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/71cd13a4-b245-4c40-8476-d2e34771a7d3/AAABmWKB9Dk/AAABmKJZ-0g/16x9-big/raffinerie-erdoel-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/sep/21/chicago-river-swim",
@@ -384,7 +375,7 @@
     "summary": "Northvolt bankruptcy raises pressure on EU's battery industry Euractiv",
     "date": "2025-03-13T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/mar/05/oregon-bill-ban-leaded-fuel-portland-racetrack",
@@ -432,13 +423,22 @@
     "image": null
   },
   {
+    "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
+    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
+    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
+    "date": "2024-09-30T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
     "id": "CBMiowFBVV95cUxNTW5iZEJhQjJkTUc3QVkybXJreENUNklyX3ZkX19OWjhnbkNwcDRMOThJdGZIZXFaV2hTWURXRjZqQ3ViVnVVZVBqVUZKaG9IUDdNQjczdkhxa19PQmNScnVVX3NoRy0wS1Z4c285akdvX0JrdW1CWU0xeXJHejNwRTNwTklONlNVRE1zNnNWRUJhend2bS11MEFLMXVma0hObHVj",
     "title": "Biofuels election promise, a renewed mandate for renewables - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTW5iZEJhQjJkTUc3QVkybXJreENUNklyX3ZkX19OWjhnbkNwcDRMOThJdGZIZXFaV2hTWURXRjZqQ3ViVnVVZVBqVUZKaG9IUDdNQjczdkhxa19PQmNScnVVX3NoRy0wS1Z4c285akdvX0JrdW1CWU0xeXJHejNwRTNwTklONlNVRE1zNnNWRUJhend2bS11MEFLMXVma0hObHVj?oc=5",
     "summary": "Biofuels election promise, a renewed mandate for renewables Euractiv",
     "date": "2024-05-10T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMiVEFVX3lxTE1sM1pDWEtEV3dSXzAwYWE0eG9MMDFFdktRSjJPUTNmczBkLTdUS1hYNkkyY3lhMVlJb1NsNnhjOFpOT1EyVm5xbFZtanF2SV9yUkNrQw",
@@ -486,15 +486,6 @@
     "image": null
   },
   {
-    "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
-    "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
-    "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
-    "date": "2023-01-13T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-  },
-  {
     "id": "CBMiuAFBVV95cUxPX052aEJwLWNxQ2dXVmVGSkVWYkhwcTU3MV9CZmRacjYwMmIyTnE3TlNVRWJ5Z1BqcGVyWHg3aG1fRjl3a0Vnel9BV0dSeS1EeGZXN0NkQ1Y3TjdiQm5hcGV0VzR6NWVlNms2RGt2VDJrUm9jX2tiRVhnZGEzanVGcEEtZDJKaHF1VVc1dGNtalowTTVxVWo4OWYwMkYtdXJiQXh6NUJsOU8xMUtsWEkwY2E0Zng5ZkFm",
     "title": "Lawyer claims Eva Kaili followed EU Parliament chief’s orders in Qatar - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX052aEJwLWNxQ2dXVmVGSkVWYkhwcTU3MV9CZmRacjYwMmIyTnE3TlNVRWJ5Z1BqcGVyWHg3aG1fRjl3a0Vnel9BV0dSeS1EeGZXN0NkQ1Y3TjdiQm5hcGV0VzR6NWVlNms2RGt2VDJrUm9jX2tiRVhnZGEzanVGcEEtZDJKaHF1VVc1dGNtalowTTVxVWo4OWYwMkYtdXJiQXh6NUJsOU8xMUtsWEkwY2E0Zng5ZkFm?oc=5",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVF5ckxTLUV6NjJIMHdFT01YOGhrT2lFSElYTHRWbzZXMHZxY2NOampHaUpYS3dqMWU1eTltaVZyQmswUndYdzRmTkJyMXN2VEpUNWk0S01PbnR0TFBCdmVjMTk3UjRQQmNHX0Vhek5XQlVyVnc4ODFyQ0MyTmZGd0dJUmdpYXlGTVpsVWhoMEhuSk1JOHBOWURsZHdEUlU4Z2xGUHZTb2ZJX0Nrb2FlMWZuMnc?oc=5",
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc",
+    "title": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc?oc=5",
+    "summary": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution Euractiv Events",
+    "date": "2022-02-23T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
