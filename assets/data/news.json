@@ -4,9 +4,45 @@
     "title": "Ukraine-Liveblog: ++ Russland meldet massiven Drohnenangriff ++",
     "url": "https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-530.html",
     "summary": "Russland hat einen massiven Drohnenangriff auf seine Energie- und Treibstoffinfrastruktur gemeldet. Frankreichs Präsident Macron hat die Aussagen von US-Präsident Trump zum Krieg in der Ukraine begrüßt.",
-    "date": "2025-09-24T08:30:25.000Z",
+    "date": "2025-09-24T10:23:21.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/834a4832-a730-43c7-8e84-bc2f10d6cc60/AAABmXrW798/AAABmKJZ-0g/16x9-big/karte-ukraine-frontverlaeufe-1892.jpg?width=1280"
+  },
+  {
+    "id": "6e99518d-6a05-4f19-b117-0df48a140681",
+    "title": "Liveblog zur Generaldebatte: ++ Grüne werfen Merz \"Rückwärtsgang\" vor ++",
+    "url": "https://www.tagesschau.de/newsticker/liveblog-generaldebatte-104.html",
+    "summary": "Der Bundestag hat seine Beratungen über den Etat 2026 fortgesetzt. Die Grünen werfen Kanzler Merz vor, in der Energiepolitik den \"Rückwärtsgang\" einzulegen. Merz betonte zuvor die Notwendigkeit von Wirtschaftsreformen.",
+    "date": "2025-09-24T10:17:46.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/86194282-4fbd-44a0-8601-45ebf760525a/AAABmXsHKNU/AAABmKJZ-0g/16x9-big/britta-hasselmann-102.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/us-news/2025/sep/24/trump-wind-power-threats-homes",
+    "title": "How Trump’s assault on US wind industry threatens jobs and power for nearly 5m homes",
+    "url": "https://www.theguardian.com/us-news/2025/sep/24/trump-wind-power-threats-homes",
+    "summary": "US president’s offshore wind crackdown targets nine projects, threatening jobs, homes and the clean energy transition Donald Trump has jettisoned Republicans’ long-standing “all of the above” approach to energy by using the US government to aggressively stamp out clean energy projects – particularly offshore wind turbines. The scale of the intervention is remarkable – a total of nine already permitted offshore wind projects that were set to provide electricity to nearly 5m households and create around 9,000 jobs in the US are under investigation or have already been paused by the Trump administration. Continue reading...",
+    "date": "2025-09-24T10:00:23.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/35b06669aa51187e4cb1eb6504fa6d355bceb509/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=0e985b3952c5d62f0d040f61e5802f37"
+  },
+  {
+    "id": "https://www.theguardian.com/environment/2025/sep/24/fossil-fuel-burning-threat-health-16bn-people-data-shows",
+    "title": "Fossil fuel burning poses threat to health of 1.6bn people, data shows",
+    "url": "https://www.theguardian.com/environment/2025/sep/24/fossil-fuel-burning-threat-health-16bn-people-data-shows",
+    "summary": "New interactive map tracking PM2.5 air pollution reveals 900m people in path of ‘super-emitting’ industrial facilities Fossil fuel burning is not just damaging the world’s climate; it is also threatening the health of at least 1.6 billion people through the toxic pollutants it produces, data shows. Carbon dioxide, the main greenhouse gas from fossil fuel burning, does not directly damage health, but leads to global heating. However, coal and oil burning for power generation, and the burning of fossil fuels in industrial facilities, pollute the air with particulate matter called PM2.5, which has serious health impacts when breathed in. Continue reading...",
+    "date": "2025-09-24T10:00:23.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/d2568ad0eaaf4cd58c4a997db09e5ab51f448630/293_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=e133a01669e2dd661e4b820b1d342ebb"
+  },
+  {
+    "id": "6516cf31-aabd-43c8-b57f-63e5c67f44dd",
+    "title": "ifo-Geschäftsklima: Stimmung in Firmen verschlechtert sich überraschend",
+    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-stimmung-september-100.html",
+    "summary": "Die Stimmung in den Chefetagen deutscher Unternehmen hat sich im September wieder verschlechtert - nach einer Serie von sechs Anstiegen. Auch Forschungsinstitute erwarten nur ein Mini-Wachstum in diesem Jahr.",
+    "date": "2025-09-24T09:01:10.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/47fe3999-1172-4df9-b0dd-3f959593f701/AAABmXrTeTs/AAABmKJZ-0g/16x9-big/maschinenbau-156.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/society/2025/sep/24/almost-15m-homes-could-be-built-on-brownfield-sites-in-england-report-finds",
@@ -151,15 +187,6 @@
     "date": "2025-09-19T11:59:29.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/2HACTRJ.jpg"
-  },
-  {
-    "id": "https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050",
-    "title": "Wildfire smoke will kill nearly 1.4m each year by end of century if emissions not curbed – study",
-    "url": "https://www.theguardian.com/us-news/2025/sep/18/wildfire-smoke-global-deaths-2050",
-    "summary": "Separate research found that at the current rate of global heating, more than 70,000 people will die in the US by 2050 Smoke billowing from wildfires will cause a growing number of deaths around the world in the decades ahead as the planet continues to heat up, new research has found. Wildfire smoke is expected to kill as many as 1.4 million people globally each year by the end of the century if planet-heating emissions are not curbed, according to a study published on Thursday. Continue reading...",
-    "date": "2025-09-18T15:00:22.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/af0ff28117d194286cf8d9f065d1ad4ad83e0264/421_0_4219_3374/master/4219.jpg?width=700&quality=85&auto=format&fit=max&s=0d1932fa7d482c7faadb08fcc7d0fc01"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59116",
@@ -330,7 +357,7 @@
     "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
     "date": "2025-01-05T14:31:59.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
@@ -510,33 +537,6 @@
     "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
     "date": "2021-10-14T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMizAFBVV95cUxQUWNiS1NvTHJqYmJldFJucHNOWnU0WjZLQ194bXlSbmxwR2xDM3dBa0YtTXZ2VEM2bkI4YlI0WVBGT19nTUU4b29BSGVtUzJrc3h0X3p2aUpQTElpWS1WOXAzZkxpYVBRQ25WTlR2OXF2Tk1YLWR5NDBzSXo3cEw1UmFVUVRDZHJuOW5QZTg3c2JDQ1Q2RmJEeUVQN1pMR1EwZW1UbllJanhnVVA0VHhSZ01sZVlsS2oya3hzdXFEeTItd0dtMWQ2dHJTOTc",
-    "title": "Shaping the agriculture of tomorrow - How can farmers and consumers benefit from a reformed CAP? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNiS1NvTHJqYmJldFJucHNOWnU0WjZLQ194bXlSbmxwR2xDM3dBa0YtTXZ2VEM2bkI4YlI0WVBGT19nTUU4b29BSGVtUzJrc3h0X3p2aUpQTElpWS1WOXAzZkxpYVBRQ25WTlR2OXF2Tk1YLWR5NDBzSXo3cEw1UmFVUVRDZHJuOW5QZTg3c2JDQ1Q2RmJEeUVQN1pMR1EwZW1UbllJanhnVVA0VHhSZ01sZVlsS2oya3hzdXFEeTItd0dtMWQ2dHJTOTc?oc=5",
-    "summary": "Shaping the agriculture of tomorrow - How can farmers and consumers benefit from a reformed CAP? Euractiv Events",
-    "date": "2021-06-01T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMimwFBVV95cUxPZEpsOU5fODBoeVN0YkI2TWJsRDdwVmhLeGFxRXU3bWx6cGw2T3F5QldJUUstY2lHT0N4b2tFd2VLalFLTlBQekhZRWV2a2QtcE5NN2JSTEdfTVA4NjAyZENZbktDNE1QZ0d5djJxeDJSMFo3b3I5RjlCTU5YVlNpQklXc1h5WjVSUzdjUUh1UHlVa0hsV3RZSUY2Yw",
-    "title": "Animal Health and Welfare: What role for Animal Nutrition? - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEpsOU5fODBoeVN0YkI2TWJsRDdwVmhLeGFxRXU3bWx6cGw2T3F5QldJUUstY2lHT0N4b2tFd2VLalFLTlBQekhZRWV2a2QtcE5NN2JSTEdfTVA4NjAyZENZbktDNE1QZ0d5djJxeDJSMFo3b3I5RjlCTU5YVlNpQklXc1h5WjVSUzdjUUh1UHlVa0hsV3RZSUY2Yw?oc=5",
-    "summary": "Animal Health and Welfare: What role for Animal Nutrition? Euractiv Events",
-    "date": "2021-05-19T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMinAJBVV95cUxQdzhwU05VWkgxSXNFSk5EbkZLWXpFc2gxZ2lpNFpPaklRSU52QkNWNHF0YVFaeXhLLXRqVHFHY2VfWVBBdmg2QnBSN3hUdE80a0piYzhCbU9nelNCM0FLRVFYQWZDaTZHMkNOS2Z5Q2h0NlUzME5rNzJwckRVQXNVNncxZXRoV0xnUFVWNHNtWkRFbEVUdm5lanZocWlORGhIbmJkdGg5VzAwUHdiRDhZVjhXV2gzNTZlTElITk5HRlg4a3JCaDgzMVYzSnBwblBiTVEzamhjZVlySF9B",
-    "title": "Decision XXX/10: Revised data reporting forms and global-warming-potential values for HCFC-123, HCFC-124, HCFC-141 and HCFC-142 - UNEP Ozone Secretariat",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQdzhwU05VWkgxSXNFSk5EbkZLWXpFc2gxZ2lpNFpPaklRSU52QkNWNHF0YVFaeXhLLXRqVHFHY2VfWVBBdmg2QnBSN3hUdE80a0piYzhCbU9nelNCM0FLRVFYQWZDaTZHMkNOS2Z5Q2h0NlUzME5rNzJwckRVQXNVNncxZXRoV0xnUFVWNHNtWkRFbEVUdm5lanZocWlORGhIbmJkdGg5VzAwUHdiRDhZVjhXV2gzNTZlTElITk5HRlg4a3JCaDgzMVYzSnBwblBiTVEzamhjZVlySF9Ba2JUa081OWkya2JmVDlsdFB6bnhNYU5RVUtiRnNJUl9zcnIxNWs1MUlZTWlyd3QyZHF4dDU3T0RxSTlCMDJfYw?oc=5",
-    "summary": "Decision XXX/10: Revised data reporting forms and global-warming-potential values for HCFC-123, HCFC-124, HCFC-141 and HCFC-142 UNEP Ozone Secretariat",
-    "date": "2020-12-11T23:57:56.000Z",
-    "source": "UNEP",
     "image": null
   }
 ]
