@@ -1,5 +1,23 @@
 [
   {
+    "id": "66a9c3fe-53f4-436b-9bec-43ec6bee8ad0",
+    "title": "Konsumklima verbessert sich leicht",
+    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/gfk-nim-konsumklima-konjunktur-einkommenserwartung-100.html",
+    "summary": "Nach drei Rückgängen in Folge hat das Konsumklima in Deutschland seinen Abwärtstrend vorerst gestoppt. Die Kauflaune der Verbraucher bleibt aber stark getrübt. Hohe Preise schrecken viele Menschen ab.",
+    "date": "2025-09-25T08:10:32.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/0b3edcc7-3733-4db4-bf88-137c28734063/AAABmX-0RM0/AAABmKJZ-0g/16x9-big/konsum-228.jpg?width=1280"
+  },
+  {
+    "id": "https://www.carbonbrief.org/?p=59209",
+    "title": "Revealed: Use of heat ‘emergencies’ for rough sleepers hits record in England and Wales",
+    "url": "https://www.carbonbrief.org/revealed-use-of-heat-emergencies-for-rough-sleepers-hits-record-in-england-and-wales/",
+    "summary": "A record number of heat-related “emergencies” have been triggered by councils this year to help... The post Revealed: Use of heat ‘emergencies’ for rough sleepers hits record in England and Wales appeared first on Carbon Brief.",
+    "date": "2025-09-25T07:00:00.000Z",
+    "source": "Carbon Brief",
+    "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/2E1KF2F.jpg"
+  },
+  {
     "id": "c80fadb6-a744-47c0-9196-498f7e15e1e2",
     "title": "Die ARD-Doku \"Evil-E - Eva Ries und der Wu-Tang Clan\"",
     "url": "https://www.tagesschau.de/kultur/eva-ries-wu-tang-clan-100.html",
@@ -30,7 +48,7 @@
     "id": "04ca918e-04be-49c5-9c28-39a8b8babc74",
     "title": "Beschleunigt sich die Erderwärmung?",
     "url": "https://www.tagesschau.de/wissen/klima/erderwaermung-beschleunigung-102.html",
-    "summary": "Ein Bericht deutscher Wissenschaftler macht auf eine mögliche Beschleunigung des Klimawandels aufmerksam. Das hätte gravierende Auswirkungen. Doch Forschende sind sich dazu uneinig. Von A. Frank und V. Mischitz.",
+    "summary": "Ein Bericht deutscher Wissenschaftler macht auf eine mögliche Beschleunigung des Klimawandels aufmerksam. Das hätte gravierende Auswirkungen. Doch Forschende sind sich dazu uneinig. Von A. Franck und V. Mischitz.",
     "date": "2025-09-24T22:59:42.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/8cf433b9-af05-4c80-aca9-7b8a301d6c01/AAABmX30PQQ/AAABmKJZ-0g/16x9-big/faecher-102.jpg?width=1280"
@@ -106,15 +124,6 @@
     "date": "2025-09-24T10:00:23.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/35b06669aa51187e4cb1eb6504fa6d355bceb509/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=0e985b3952c5d62f0d040f61e5802f37"
-  },
-  {
-    "id": "6516cf31-aabd-43c8-b57f-63e5c67f44dd",
-    "title": "ifo-Geschäftsklima: Stimmung in Firmen verschlechtert sich überraschend",
-    "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-stimmung-september-100.html",
-    "summary": "Die Stimmung in den Chefetagen deutscher Unternehmen hat sich im September wieder verschlechtert - nach einer Serie von sechs Anstiegen. Auch Forschungsinstitute erwarten nur ein Mini-Wachstum in diesem Jahr.",
-    "date": "2025-09-24T09:01:10.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/47fe3999-1172-4df9-b0dd-3f959593f701/AAABmXrTeTs/AAABmKJZ-0g/16x9-big/maschinenbau-156.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/23/billionaires-musk-divide-distract-humanity-come-together-resist",
@@ -268,15 +277,6 @@
     "date": "2025-09-16T15:38:18.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/3CF7YC1.jpg"
-  },
-  {
-    "id": "https://www.carbonbrief.org/?p=59057",
-    "title": "Analysis: IPCC’s seventh assessment has record-high representation from global south",
-    "url": "https://www.carbonbrief.org/analysis-ipccs-seventh-assessment-has-record-high-representation-from-global-south/",
-    "summary": "The upcoming assessment cycle of the Intergovernmental Panel on Climate Change (IPCC) will be authored... The post Analysis: IPCC’s seventh assessment has record-high representation from global south appeared first on Carbon Brief.",
-    "date": "2025-09-16T14:31:20.000Z",
-    "source": "Carbon Brief",
-    "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/IISD-ENB_-_IPCC62_-_Anastasia_Rodopoulou_-_26Feb_-_Photo-15.jpg"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/15/california-ultra-processed-foods-schools",
