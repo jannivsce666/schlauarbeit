@@ -1,5 +1,23 @@
 [
   {
+    "id": "c80fadb6-a744-47c0-9196-498f7e15e1e2",
+    "title": "Die ARD-Doku \"Evil-E - Eva Ries und der Wu-Tang Clan\"",
+    "url": "https://www.tagesschau.de/kultur/eva-ries-wu-tang-clan-100.html",
+    "summary": "Eine Frau aus Ladenburg und eine der radikalsten Hip-Hop-Bands der Welt - eigentlich völlig unwahrscheinlich, dass sie aufeinandertreffen. Doch genau das ist passiert: Eva Ries wurde Managerin des legendären Wu-Tang Clans. Von Niels Grevsen.",
+    "date": "2025-09-25T05:09:40.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/b6976ba9-4bb9-4d05-a986-8f80933c3c5e/AAABmXxdv1E/AAABmKJZ-0g/16x9-big/ries-102.jpg?width=1280"
+  },
+  {
+    "id": "https://www.theguardian.com/news/2025/sep/25/weatherwatch-flash-droughts-come-on-quickly-but-effects-can-wreak-havoc",
+    "title": "Weatherwatch: Flash droughts come on quickly but effects can wreak havoc",
+    "url": "https://www.theguardian.com/news/2025/sep/25/weatherwatch-flash-droughts-come-on-quickly-but-effects-can-wreak-havoc",
+    "summary": "Better water management and efficient irrigation required to tackle issue, which can increase risk of wildfires Droughts have occurred throughout history, but in recent years meteorologists have discovered a new and distinct form of this old threat: flash droughts. Flash droughts came to prominence in the 2010s, with Prof Jason Otkin of the University of Wisconsin proposing a formal definition in 2018: a period of less than three weeks in which the moisture level in the top 40 centimetres of soil drops severely enough to affect vegetation. Continue reading...",
+    "date": "2025-09-25T05:00:28.000Z",
+    "source": "The Guardian – Environment",
+    "image": "https://i.guim.co.uk/img/media/1da464aad90b8e31fc84317997453c9face734f7/574_0_4921_3937/master/4921.jpg?width=700&quality=85&auto=format&fit=max&s=b20fbf5cf6ca70853e17da381d6697b2"
+  },
+  {
     "id": "b9877397-c2d1-4a35-8e46-54a42fa43bc3",
     "title": "China macht beim UN-Klima-Gipfel eine überraschende Ankündigung",
     "url": "https://www.tagesschau.de/ausland/amerika/china-klima-treibhausgase-100.html",
@@ -43,15 +61,6 @@
     "date": "2025-09-24T18:39:58.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/99d53755b734fccd3e313a3dd0c119b00516ef42/1212_1221_2628_2102/master/2628.jpg?width=700&quality=85&auto=format&fit=max&s=2ba32356d7365744ee15b1295aefd639"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/24/chris-bowen-meets-turkeys-first-lady-as-lobbying-to-hold-cop31-intensifies",
-    "title": "Chris Bowen meets Turkey’s first lady as lobbying to hold Cop31 intensifies",
-    "url": "https://www.theguardian.com/environment/2025/sep/24/chris-bowen-meets-turkeys-first-lady-as-lobbying-to-hold-cop31-intensifies",
-    "summary": "Exclusive: Climate minister, who is trying to persuade Turkey to allow Australia to host the summit, appears with Emine Erdoğan at New York event Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast Australia’s climate change and energy minister, Chris Bowen, has appeared with Turkey’s first lady, Emine Erdoğan, at a major environment event in New York as negotiations over hosting rights for the Cop31 summit come down to the wire. Bowen – who is in the US for talks at the UN general assembly – has been lobbying Turkey to drop its rival bid to host the conference in 2026 in order to secure the event on behalf of Australia and Pacific nations. Continue reading...",
-    "date": "2025-09-24T17:49:53.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/bfb8b17b0bb708fbf766db418fdb5616bc81c96e/20_0_605_484/master/605.jpg?width=700&quality=85&auto=format&fit=max&s=40540829933602a76fb359b4286a466e"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59204",
@@ -492,7 +501,7 @@
     "summary": "Medienpartnerschaft: Energiewende - Herausforderungen und Chancen in Brasilien Euractiv Events",
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdUxINnJNUDZacnMyejJaQzBranBZOGZ6b2sxMnhyTnNCM3pBLS1MNkJHYkNWc21aeldzVXhZVUtiZThaM29mbW93clNqRGhQMm5GalZ2MEtpWDV4ejYwcEFsTG5tbmxISWs4TE5fYmJ5MkQxMEUwTnloeks1cldSMFBLTjhqOXdDOTZOT3JNSTZXdGxtaHJ0QURudkh2eUM5TXJqaUo0UnFGSXdYT2RCQTZR?oc=5",
     "summary": "CAP reform - How will EU Member States deliver on their CAP Strategic Plans? Euractiv Events",
     "date": "2021-10-20T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU",
-    "title": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk1zVWpVUHdvdlZOaXZmN3kyNXd2YllUVV9Ga0tSRXlOZ1J6dTkxYTVyZE1DU1hyTEdUM1o3N2l1ZHI5Tm42NFl0eHZkbzZSa0ZmVVZITzhqc3pDWWFiWHpfQzZtbktxanM2ZUZTWjdXX1dGZlJOam5rcGpsbW9USVBIdU4zRUlrX1VVd3BxaEtPOEh6Yng5aGdSdUszdjgxeXpqZTFvenVuOWtwX3BsSVRpSmpjYV9PWWxoX0hnTk1lTnlPMEd0MjBlRkw4ZWR6d0ItNEp2SXU?oc=5",
-    "summary": "Media Partnership: Corteva Media Club - The Challenge of Food Security | The Global Food Security Index 2021 Euractiv Events",
-    "date": "2021-10-14T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
