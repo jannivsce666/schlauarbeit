@@ -1,5 +1,23 @@
 [
   {
+    "id": "b9877397-c2d1-4a35-8e46-54a42fa43bc3",
+    "title": "China macht beim UN-Klima-Gipfel eine überraschende Ankündigung",
+    "url": "https://www.tagesschau.de/ausland/amerika/china-klima-treibhausgase-100.html",
+    "summary": "Der kurze UN-Klimagipfel hat es in sich: Experten warnen. Staatschefs präsentieren ihre Fortschritte im Kampf gegen den Klimawandel. Die USA nehmen nicht teil. Und Chinas Staatschef Xi prescht überraschend vor. Von Giselle Ucar.",
+    "date": "2025-09-24T23:01:25.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/b651db54-d45c-4256-8325-491a16c2bfec/AAABmX31zZY/AAABmKJZ-0g/16x9-big/china-un-102.jpg?width=1280"
+  },
+  {
+    "id": "04ca918e-04be-49c5-9c28-39a8b8babc74",
+    "title": "Beschleunigt sich die Erderwärmung?",
+    "url": "https://www.tagesschau.de/wissen/klima/erderwaermung-beschleunigung-102.html",
+    "summary": "Ein Bericht deutscher Wissenschaftler macht auf eine mögliche Beschleunigung des Klimawandels aufmerksam. Das hätte gravierende Auswirkungen. Doch Forschende sind sich dazu uneinig. Von A. Frank und V. Mischitz.",
+    "date": "2025-09-24T22:59:42.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/8cf433b9-af05-4c80-aca9-7b8a301d6c01/AAABmX30PQQ/AAABmKJZ-0g/16x9-big/faecher-102.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too",
     "title": "The Guardian view on the climate crisis: green energy is booming – but fossil fuels need to shrink too | Editorial",
     "url": "https://www.theguardian.com/commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too",
@@ -34,15 +52,6 @@
     "date": "2025-09-24T17:49:53.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/bfb8b17b0bb708fbf766db418fdb5616bc81c96e/20_0_605_484/master/605.jpg?width=700&quality=85&auto=format&fit=max&s=40540829933602a76fb359b4286a466e"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/24/worlds-oceans-fail-key-health-check-as-acidity-crosses-critical-threshold-for-marine-life",
-    "title": "World’s oceans fail key health check as acidity crosses critical threshold for marine life",
-    "url": "https://www.theguardian.com/environment/2025/sep/24/worlds-oceans-fail-key-health-check-as-acidity-crosses-critical-threshold-for-marine-life",
-    "summary": "Scientists call for renewed global effort to curb fossil fuels as seven of nine planetary boundaries now transgressed The world’s oceans have failed a key planetary health check for the first time, primarily due to the burning of fossil fuels, a report has shown. In its latest annual assessment, the Potsdam Institute for Climate Impact Research said ocean acidity had crossed a critical threshold for marine life. Continue reading...",
-    "date": "2025-09-24T16:00:11.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/a025f5acd673827d213b81e26bb04b60baa182fc/344_0_3446_2757/master/3446.jpg?width=700&quality=85&auto=format&fit=max&s=64235ea474ea6bfbb3daf9fc6d8c3cbc"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59204",
@@ -97,15 +106,6 @@
     "date": "2025-09-24T09:01:10.000Z",
     "source": "tagesschau",
     "image": "https://images.tagesschau.de/image/47fe3999-1172-4df9-b0dd-3f959593f701/AAABmXrTeTs/AAABmKJZ-0g/16x9-big/maschinenbau-156.jpg?width=1280"
-  },
-  {
-    "id": "5bb6f2ed-a193-4df8-97aa-959a23458440",
-    "title": "Kommentar zu Trumps Rede vor der UN: Es hätte schlimmer kommen können",
-    "url": "https://www.tagesschau.de/kommentar/trump-un-vollversammlung-100.html",
-    "summary": "Der US-Präsident polterte in New York, wie man es von ihm kennt: Er wetterte gegen Migration und erneuerbare Energien und beschimpfte seine Gastgeberin, die UN. Katastrophal war es aber nicht, findet Martin Ganslmeier.",
-    "date": "2025-09-23T23:28:57.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/8fa2f77b-545e-4304-a526-48ddeb75de08/AAABmXjoqQk/AAABmKJZ-0g/16x9-big/trump-4332.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/23/billionaires-musk-divide-distract-humanity-come-together-resist",
@@ -375,7 +375,7 @@
     "summary": "German Liberals swap out key leaders after government sabotage revelations Euractiv",
     "date": "2024-12-02T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiuAFBVV95cUxQRTZpNFQxUGVaNWtuZkN4R1g2amhsRVBCYThtczVXUG5tNERQdkk5YjlyU040Zm1jbTdzQ1dLUkZyUy14cjR1WHl0WkNmeDduVmNtVzZUMWJaRjRpaWw2bjlrSUhlOEZrMjVRTnY2QnVPRFVBNUNXY2tsMzZwck52X1loMlVqVHhmeGRqWHY4RGJvb09xejBLdTY5UzZGMjhWbC1laUdqQUc5ZW1FYUM1eFNXSVloajY2",
