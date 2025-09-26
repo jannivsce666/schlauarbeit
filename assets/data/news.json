@@ -90,15 +90,6 @@
     "image": "https://i.guim.co.uk/img/media/69c2444171bc9fbaa219854940dd54aae0e24890/740_0_5733_4587/master/5733.jpg?width=700&quality=85&auto=format&fit=max&s=c1af12b0868800393c6d2bfa85105e8a"
   },
   {
-    "id": "b69c3ec4-1df1-4249-8ca7-b4220f4dd5bd",
-    "title": "Trump drängt Erdoğan zum Verzicht auf russische Energie",
-    "url": "https://www.tagesschau.de/ausland/usa-tuerkei-trump-erdogan-100.html",
-    "summary": "US-Präsident Trump hat die Türkei zum Verzicht auf russische Energie-Importe aufgefordert. Bestehende wirtschaftliche Sanktionen könnten aufgehoben werden, versprach er seinem türkischen Amtskollegen Erdoğan.",
-    "date": "2025-09-25T19:38:47.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/f08b948b-42a9-4160-84ae-2649575e4864/AAABmYJipvc/AAABmKJZ-0g/16x9-big/trump-erdogan-126.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/environment/2025/sep/25/asheville-north-carolina-restaurants-hurricane-helene",
     "title": "Asheville’s slimmed-down restaurants make a comeback a year after Hurricane Helene: ‘Back to the basics’",
     "url": "https://www.theguardian.com/environment/2025/sep/25/asheville-north-carolina-restaurants-hurricane-helene",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc?oc=5",
     "summary": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution Euractiv Events",
     "date": "2022-02-23T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
+    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
+    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
+    "date": "2022-02-22T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
