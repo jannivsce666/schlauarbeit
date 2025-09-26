@@ -108,15 +108,6 @@
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/2E1KF2F.jpg"
   },
   {
-    "id": "c80fadb6-a744-47c0-9196-498f7e15e1e2",
-    "title": "Die ARD-Doku \"Evil-E - Eva Ries und der Wu-Tang Clan\"",
-    "url": "https://www.tagesschau.de/kultur/eva-ries-wu-tang-clan-100.html",
-    "summary": "Eine Frau aus Ladenburg und eine der radikalsten Hip-Hop-Bands der Welt - eigentlich völlig unwahrscheinlich, dass sie aufeinandertreffen. Doch genau das ist passiert: Eva Ries wurde Managerin des legendären Wu-Tang Clans. Von Niels Grevsen.",
-    "date": "2025-09-25T05:09:40.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/b6976ba9-4bb9-4d05-a986-8f80933c3c5e/AAABmXxdv1E/AAABmKJZ-0g/16x9-big/ries-102.jpg?width=1280"
-  },
-  {
     "id": "https://www.theguardian.com/commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too",
     "title": "The Guardian view on the climate crisis: green energy is booming – but fossil fuels need to shrink too | Editorial",
     "url": "https://www.theguardian.com/commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too",
@@ -384,7 +375,7 @@
     "summary": "Tyre industry pushes back against evidence of plastic pollution Euractiv",
     "date": "2025-01-05T14:31:59.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": null
+    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
   },
   {
     "id": "CBMivwFBVV95cUxPS1BwNUxMUnNLdTNNNWlZM1kxZXZYdlVGbDBmc1lJbUh2S3Rla1dHR1VOR0NqZHFXQ19Od2tQczRVUjlIbE8tallhMHZqX245ZEtSTU1oLThKWkhuNnZWZGlLQThVNDF2TVJ4NEF2S0cxY1ZFQWFzUk00N1l1YUVvYjhvMDFfNlZOTzVlSnlJODAzUUZPbkJzaDc2VGk4MnpfX3BSZE8xUHR0REZJUzdUeVNHM0RvcFBHOE5NajlQSQ",
@@ -536,6 +527,15 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
     "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
     "date": "2022-02-22T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA",
+    "title": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUm5pVFVzaUE1RHFZYkFiTXZlZGN2dkdTamtGSTc1WUNHTVZDY0Q0NU1TV0FENVJjc0xPdTZJQjVDVHFseGR5d0dBSWZFcmh4aVBDTG9QbFZKb25pdGNBbEJhckEyOW90RFctbVBsbG5OZDYtTGRicy1jRDFmOGpSdDZXZUVTdGZZaUx3d1BKYlI1OWlfc0l2YXdLTlR5eXB0X2FfOXlGdDhpdVltZjI5elQ3OWkxUDdOS2FodA?oc=5",
+    "summary": "Farm to Fork Strategy – What are the policy instruments needed to reach the targets? Euractiv Events",
+    "date": "2022-01-27T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
