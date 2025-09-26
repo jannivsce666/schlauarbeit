@@ -1,5 +1,32 @@
 [
   {
+    "id": "5351ad61-79c7-41b4-bc3a-b6f4ca7880f6",
+    "title": "Microsoft verlängert kostenlose Sicherheitsupdates für Windows 10",
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/windows-microsoft-verbraucher-100.html",
+    "summary": "Eigentlich sollten kostenlose Sicherheitsupdates für das Betriebssystem Windows 10 bald enden. Verbraucherschützer kritisierten den Schritt scharf. Nun will Microsoft den Support um ein Jahr verlängern.",
+    "date": "2025-09-26T14:13:57.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/3c52a2c6-ce3f-4efc-93c1-9b57df995dfb/AAABmYZfnBw/AAABmKJZ-0g/16x9-big/microsoft-paris-100.jpg?width=1280"
+  },
+  {
+    "id": "https://www.carbonbrief.org/?p=59249",
+    "title": "DeBriefed 26 September 2025: China leads new climate pledges; Trump calls warming a ‘con job’; What comes next",
+    "url": "https://www.carbonbrief.org/debriefed-26-september-2025-china-leads-new-climate-pledges-trump-calls-warming-a-con-job-what-comes-next/",
+    "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 26 September 2025: China leads new climate pledges; Trump calls warming a ‘con job’; What comes next appeared first on Carbon Brief.",
+    "date": "2025-09-26T13:16:09.000Z",
+    "source": "Carbon Brief",
+    "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK.png"
+  },
+  {
+    "id": "8ec93e48-0d64-49b5-9ed7-4eea36a36474",
+    "title": "Fahrplanwechsel: Was sich für Bahnfahrer ab Mitte Dezember ändert",
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-fahrplanwechsel-fernverkehr-100.html",
+    "summary": "Mit dem Fahrplanwechsel zum Jahresende verdichtet die Deutsche Bahn den Takt im Fernverkehr auf zentralen Strecken. Dafür dünnt der Konzern weniger nachgefragte ICE-Verbindungen aus. Die Neuerungen im Überblick.",
+    "date": "2025-09-26T13:09:55.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/48a1ce1a-cbe6-485c-9113-3fce74545764/AAABmXCJ_eM/AAABmKJZ-0g/16x9-big/ice-deutsche-bahn-100.jpg?width=1280"
+  },
+  {
     "id": "89de7d5c-3fff-484b-8176-8ffaf104d2d8",
     "title": "Was von Chinas Klimazielen zu halten ist",
     "url": "https://www.tagesschau.de/ausland/asien/china-klimaziele-2035-zweifel-100.html",
@@ -88,15 +115,6 @@
     "date": "2025-09-25T15:58:03.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/Screenshot-2025-09-25-at-13.41.02-1024x682.png"
-  },
-  {
-    "id": "b85ad122-c3ae-4a9c-9139-72482ff9cf20",
-    "title": "Abbas vor UN-Vollversammlung: \"Hamas wird keine Rolle spielen\"",
-    "url": "https://www.tagesschau.de/ausland/amerika/un-vollversammlung-abbas-palaestinenser-100.html",
-    "summary": "Wegen seines US-Einreiseverbots sprach Palästinenserpräsident Abbas per Video zur UN-Vollversammlung. Er kündigte ein Ende der Hamas-Herrschaft in Gaza an. Die USA haben einen neuen Friedensplan - Details sind noch unbekannt.",
-    "date": "2025-09-25T15:41:50.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/bdd52e5c-f484-47cf-a699-c9dfe31df8c8/AAABmYFbjRw/AAABmKJZ-0g/16x9-big/un-abbas-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/us-news/2025/sep/25/california-climate-emergency-affordability-crisis-study",
@@ -250,15 +268,6 @@
     "date": "2025-09-18T14:48:25.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2021/05/website-masthead-new-1024x683.png"
-  },
-  {
-    "id": "https://www.carbonbrief.org/?p=59105",
-    "title": "Q&A: Will China and the BRICS fill the ‘leadership gap’ on climate change?",
-    "url": "https://www.carbonbrief.org/qa-will-china-and-the-brics-fill-the-leadership-gap-on-climate-change/",
-    "summary": "Amid a rapidly fracturing geopolitical order, there have been growing calls for China to “step... The post Q&A: Will China and the BRICS fill the ‘leadership gap’ on climate change? appeared first on Carbon Brief.",
-    "date": "2025-09-18T14:39:09.000Z",
-    "source": "Carbon Brief",
-    "image": "https://www.carbonbrief.org/wp-content/uploads/2025/09/3CJPPTG.jpg"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/18/hives-honeybee-boom-tuscan-island-italy-aoe",
@@ -527,15 +536,6 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc?oc=5",
     "summary": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution Euractiv Events",
     "date": "2022-02-23T08:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
-    "id": "CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw",
-    "title": "Media Partnership: The unintended impact of European sustainability standards on global food systems - Euractiv Events",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjMybDFOY3V2XzNDR2RCS2VtcVV3d2ppekZyOVhGa0o0SkphWHNlNU1aVHUyMVhmWUZMUjBaR0djdjRDZ3pyMUNYYkN3aUh3NGRtUWNyNkdUeWhrTkdJVFBwc3VleUc4bWlaYkh3eHowWElMWjBtamMxVUF5d2NqQVRERVN3N1VaNExON2J2R0ROWUROWG9vdkp3OXg5ZHlUNlB2bEhTcnNkbEo5ZGIwcmdpQU5WN1J4OC1VNw?oc=5",
-    "summary": "Media Partnership: The unintended impact of European sustainability standards on global food systems Euractiv Events",
-    "date": "2022-02-22T08:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   }
