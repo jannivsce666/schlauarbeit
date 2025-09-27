@@ -1,12 +1,12 @@
 [
   {
     "id": "tagesschau_fm-story-rbb_gaza-demonstration-berlin-kundgebung-israel-krieg-polizei",
-    "title": "50.000 Menschen demonstrieren in Berlin gegen Krieg im Gazastreifen",
+    "title": "60.000 Menschen demonstrieren in Berlin gegen Krieg im Gazastreifen",
     "url": "https://www.tagesschau.de/inland/regional/berlin/demo-gaza-protest-berlin-102.html",
     "summary": "Unter dem Motto \"All Eyes on Gaza\" haben in Berlin Zehntausende Menschen gegen den Krieg im Gazastreifen demonstriert. In der Stadt kommt es zu Verkehrsbehinderungen, die Polizei ist mit einem Großaufgebot im Einsatz.",
-    "date": "2025-09-27T16:19:37.000Z",
+    "date": "2025-09-27T18:00:09.000Z",
     "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/5bec832c-bb15-4a5d-81c7-04e92f7c7a5a/AAABmYvwRDo/AAABmKJZ-0g/16x9-big/rbb-audio-radio-eins-27-09-2025-torsten-altenhoener-100.jpg?width=1280"
+    "image": "https://images.tagesschau.de/image/5bec832c-bb15-4a5d-81c7-04e92f7c7a5a/AAABmYxYqCg/AAABmKJZ-0g/16x9-big/rbb-audio-radio-eins-27-09-2025-torsten-altenhoener-100.jpg?width=1280"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/27/meat-gas-emissions-reporting",
@@ -70,15 +70,6 @@
     "date": "2025-09-26T13:16:09.000Z",
     "source": "Carbon Brief",
     "image": "https://www.carbonbrief.org/wp-content/uploads/2023/06/debriefed_HERO_BLANK.png"
-  },
-  {
-    "id": "8ec93e48-0d64-49b5-9ed7-4eea36a36474",
-    "title": "Fahrplanwechsel: Was sich für Bahnfahrer ab Mitte Dezember ändert",
-    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-fahrplanwechsel-fernverkehr-100.html",
-    "summary": "Mit dem Fahrplanwechsel zum Jahresende verdichtet die Deutsche Bahn den Takt im Fernverkehr auf zentralen Strecken. Dafür dünnt der Konzern weniger nachgefragte ICE-Verbindungen aus. Die Neuerungen im Überblick.",
-    "date": "2025-09-26T13:09:55.000Z",
-    "source": "tagesschau",
-    "image": "https://images.tagesschau.de/image/48a1ce1a-cbe6-485c-9113-3fce74545764/AAABmXCJ_eM/AAABmKJZ-0g/16x9-big/ice-deutsche-bahn-100.jpg?width=1280"
   },
   {
     "id": "https://www.carbonbrief.org/?p=59250",
@@ -538,5 +529,14 @@
     "date": "2022-03-28T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+  },
+  {
+    "id": "CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc",
+    "title": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcEFvVHJvdXVRZzZqNElSN0hCRFNqV01FT0h6enNGZmx1RGJCRXNHU0gzS3QzVWhSZU4xMnYwRFNObHJLV25yNUJLUTM3MGh4T0pZY2hkRGFEM0hsby1qQ2ZDbkhfNEpBTTNqb3Y1YnkxaFFfekJ1UEVuWWRmR1pmZVpxOGlCLXRjOG9wUDJmdFdZM25vWGZPLUtTeHRVZGZpVnZRSk1jTVJnbGxaNFlrOVdITEFjbkphaXc?oc=5",
+    "summary": "Media Partnership: The Scientific Basis of the Brazilian Agricultural Revolution Euractiv Events",
+    "date": "2022-02-23T08:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
   }
 ]
