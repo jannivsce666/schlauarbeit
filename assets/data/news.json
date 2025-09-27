@@ -1,5 +1,14 @@
 [
   {
+    "id": "tagesschau_fm-story-rbb_gaza-demonstration-berlin-kundgebung-israel-krieg-polizei",
+    "title": "Tausende demonstrieren in Berlin gegen Krieg im Gazastreifen",
+    "url": "https://www.tagesschau.de/inland/regional/berlin/demo-gaza-protest-berlin-102.html",
+    "summary": "Unter dem Motto \"All Eyes on Gaza\" demonstrieren in Berlin Tausende Menschen gegen den Krieg im Gazastreifen. In der Stadt kommt es zu Verkehrsbehinderungen, die Polizei ist mit einem Großaufgebot im Einsatz.",
+    "date": "2025-09-27T14:15:01.000Z",
+    "source": "tagesschau",
+    "image": "https://images.tagesschau.de/image/cf96d37c-b535-4b52-ae58-4dd4ee8816ed/AAABmYtx-J0/AAABmKJZ-0g/16x9-big/rbb-demo-gaza-berlin-549484838-100.jpg?width=1280"
+  },
+  {
     "id": "https://www.theguardian.com/environment/2025/sep/27/meat-gas-emissions-reporting",
     "title": "Meat is a leading emissions source – but few outlets report on it, analysis finds",
     "url": "https://www.theguardian.com/environment/2025/sep/27/meat-gas-emissions-reporting",
@@ -97,15 +106,6 @@
     "date": "2025-09-26T09:08:06.000Z",
     "source": "The Guardian – Environment",
     "image": "https://i.guim.co.uk/img/media/4c5d6b76ad5eb3ad7451ba013ff73e5cc14f4732/0_0_2389_1912/master/2389.jpg?width=700&quality=85&auto=format&fit=max&s=03b092f5c57229f65e4e9a63db8811ff"
-  },
-  {
-    "id": "https://www.theguardian.com/environment/2025/sep/26/fears-of-abnormally-hot-days-in-southern-australia-after-sudden-stratospheric-warming-over-antarctica",
-    "title": "Abnormally hot days may hit Australia’s south-east after rare sudden warming over Antarctica",
-    "url": "https://www.theguardian.com/environment/2025/sep/26/fears-of-abnormally-hot-days-in-southern-australia-after-sudden-stratospheric-warming-over-antarctica",
-    "summary": "Phenomenon extremely unusual in southern hemisphere and last occurred in 2019 when it contributed to worsening of black summer bushfires Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast A rare rise in stratospheric temperatures over Antarctica could influence weather into summer, with previous events driving hotter and drier conditions for south-east Australia. The phenomenon – called sudden stratospheric warming – is extremely unusual in the southern hemisphere. Continue reading...",
-    "date": "2025-09-26T07:53:03.000Z",
-    "source": "The Guardian – Environment",
-    "image": "https://i.guim.co.uk/img/media/74ef78dcb2eb497f1facd26404a6ccd5c23310eb/1012_716_1228_983/master/1228.jpg?width=700&quality=85&auto=format&fit=max&s=aa440f942d24784cd38ec21e34c2981d"
   },
   {
     "id": "https://www.theguardian.com/environment/2025/sep/25/asheville-north-carolina-restaurants-hurricane-helene",
@@ -396,22 +396,13 @@
     "image": null
   },
   {
-    "id": "CBMimgFBVV95cUxPTk9mdXlCc1JfYng5VHJTTW5jTjJqczU2emZ6Y0xGNWsxdzNRSzdPWVBDcEtsLUdrbzhuZURBVThYWHNEVUhMMnJNZGhwdlRJWnBkb0lRWkxvMmR0bEctaTJMNGR0SkVwZzFyMVJzYjdZZ0h1cUZNeTNIUEZCTmo5bk5ZWnUzQnJub0tDS2pGd0NhcDBhdnBIYXd3",
-    "title": "Parliament leaders greenlight Commissioner hearings in November - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTk9mdXlCc1JfYng5VHJTTW5jTjJqczU2emZ6Y0xGNWsxdzNRSzdPWVBDcEtsLUdrbzhuZURBVThYWHNEVUhMMnJNZGhwdlRJWnBkb0lRWkxvMmR0bEctaTJMNGR0SkVwZzFyMVJzYjdZZ0h1cUZNeTNIUEZCTmo5bk5ZWnUzQnJub0tDS2pGd0NhcDBhdnBIYXd3?oc=5",
-    "summary": "Parliament leaders greenlight Commissioner hearings in November Euractiv",
-    "date": "2024-10-03T07:00:00.000Z",
-    "source": "Euractiv – Energy & Environment",
-    "image": null
-  },
-  {
     "id": "CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs",
     "title": "Qatar-gate: MEP Eva Kaili makes new release request - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpWT0VxekV5NGNQUXlLU1kybFJjdXAyMGZibGhRSkFfY05zalhCTW9Jcklxb3Q5dXF4aDNNU21yUjlYZVlWREtzSEZ6clBERzN5eXlqVkctcnVrZFhZSFQtMExfVld3M3JuQy1mX1NSRlhYeEZCZzd6RDB2Y2F6Z0VLenVzUlJs?oc=5",
     "summary": "Qatar-gate: MEP Eva Kaili makes new release request Euractiv",
     "date": "2024-09-30T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
-    "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+    "image": null
   },
   {
     "id": "CBMiowFBVV95cUxNTW5iZEJhQjJkTUc3QVkybXJreENUNklyX3ZkX19OWjhnbkNwcDRMOThJdGZIZXFaV2hTWURXRjZqQ3ViVnVVZVBqVUZKaG9IUDdNQjczdkhxa19PQmNScnVVX3NoRy0wS1Z4c285akdvX0JrdW1CWU0xeXJHejNwRTNwTklONlNVRE1zNnNWRUJhend2bS11MEFLMXVma0hObHVj",
@@ -482,6 +473,15 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazRTMGM0NV9lUUJucEllTXdGa1Q3SjdGVVFrcV92Y3ljM2k4MmNGV0h3RnUtMHBlRUFGdlpCV2JLMWhkdkUtdnlDMXlrbXdzX3BpTUhUaFZCNlhHenRRZk84TFhQVDVUTF9YUjVCZDQzRDAxVm5Welc5bDBVZ2dBMk9xdlRZZU9LY2pnVTJZdjdoRjdjaEFMWkFQZElXdVRiTkdQVGh2RXNhQjZ1b1VIdURIMnR5WWYzQVE?oc=5",
     "summary": "The 'Sustainable Use of Pesticide Regulation' - Navigating the path to a greener EU Euractiv Events",
     "date": "2023-04-26T07:00:00.000Z",
+    "source": "Euractiv – Energy & Environment",
+    "image": null
+  },
+  {
+    "id": "CBMiqgFBVV95cUxNZEFLcF9sRExOc0pocHEtcndQZkJFOHl1TC1zYWp2NEVXUmJMclFISXVFU0JtNFpMZUM5UzJWVzlPOElaM3NxS3g5ZFJyb3RxMUNTbUswX2tTWE9teDB0NWJwSHRmVzRMbHROZlhqSFNiaEREQ1F0Snd4X0dMM1R5NVN5cjh0ajJweENlZWdibHMwNnYzTXNXRjllLXJ3eExEcnZ4eHBJRFB3QQ",
+    "title": "#EAAGRIFOOD TWITTER CHAT | CAP AFTER 2028 - GAZING INTO THE CRYSTAL BALL - Euractiv Events",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEFLcF9sRExOc0pocHEtcndQZkJFOHl1TC1zYWp2NEVXUmJMclFISXVFU0JtNFpMZUM5UzJWVzlPOElaM3NxS3g5ZFJyb3RxMUNTbUswX2tTWE9teDB0NWJwSHRmVzRMbHROZlhqSFNiaEREQ1F0Snd4X0dMM1R5NVN5cjh0ajJweENlZWdibHMwNnYzTXNXRjllLXJ3eExEcnZ4eHBJRFB3QQ?oc=5",
+    "summary": "#EAAGRIFOOD TWITTER CHAT | CAP AFTER 2028 - GAZING INTO THE CRYSTAL BALL Euractiv Events",
+    "date": "2023-04-20T07:00:00.000Z",
     "source": "Euractiv – Energy & Environment",
     "image": null
   },
