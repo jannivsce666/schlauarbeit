@@ -6,6 +6,7 @@ import {
   User
 } from "firebase/auth";
 import { getFirebaseAuth } from "./firebase";
+import { saveUserProfile } from "./db";
 import { isIOS } from "./utils";
 
 export const signInWithGoogle = async () => {
@@ -22,6 +23,13 @@ export const signInWithGoogle = async () => {
     } else {
       // Use popup for desktop
       const result = await signInWithPopup(auth, googleProvider);
+      // Persist user profile in Realtime DB
+      await saveUserProfile({
+        uid: result.user.uid,
+        displayName: result.user.displayName,
+        email: result.user.email,
+        photoURL: result.user.photoURL,
+      });
       return result.user;
     }
   } catch (error) {

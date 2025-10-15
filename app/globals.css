@@ -4,26 +4,26 @@
 
 @layer base {
   :root {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-    --primary: 142.1 76.2% 36.3%;
-    --primary-foreground: 355.7 100% 97.3%;
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 142.4 71.8% 29.2%;
-    --radius: 0.75rem;
+    --background: 140 40% 96%;
+    --foreground: 140 10% 15%;
+    --card: 0 0% 100%;
+    --card-foreground: 140 10% 15%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 140 10% 15%;
+    --primary: 142 71% 45%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 140 20% 90%;
+    --secondary-foreground: 140 10% 15%;
+    --muted: 140 20% 92%;
+    --muted-foreground: 140 8% 40%;
+    --accent: 142 71% 45%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 140 20% 85%;
+    --input: 140 20% 85%;
+    --ring: 142 71% 45%;
+    --radius: 1rem;
   }
 }
 
@@ -39,18 +39,22 @@
 
 @layer utilities {
   .glass {
-    @apply bg-white/5 backdrop-blur-xl border border-white/10;
+    @apply bg-white/40 backdrop-blur-2xl border border-white/60 shadow-xl;
   }
   
   .glass-card {
-    @apply glass rounded-2xl shadow-2xl shadow-black/50;
+    @apply glass rounded-3xl shadow-2xl shadow-green-500/20;
+  }
+  
+  .glass-strong {
+    @apply bg-white/60 backdrop-blur-3xl border-2 border-white/80 shadow-2xl shadow-green-400/30;
   }
   
   .spotlight {
     background: radial-gradient(
-      600px circle at var(--mouse-x) var(--mouse-y),
-      rgba(16, 185, 129, 0.15),
-      transparent 40%
+      800px circle at var(--mouse-x) var(--mouse-y),
+      rgba(34, 197, 94, 0.25),
+      transparent 50%
     );
   }
   
@@ -60,18 +64,28 @@
   
   @keyframes glow {
     from {
-      box-shadow: 0 0 20px -10px rgba(16, 185, 129, 0.5);
+      box-shadow: 0 0 30px -5px rgba(34, 197, 94, 0.6),
+                  0 0 60px -10px rgba(74, 222, 128, 0.4);
     }
     to {
-      box-shadow: 0 0 40px -5px rgba(16, 185, 129, 0.8);
+      box-shadow: 0 0 50px 0px rgba(34, 197, 94, 0.8),
+                  0 0 100px -5px rgba(74, 222, 128, 0.6);
     }
   }
   
   .bg-grid {
     background-image: 
-      linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      linear-gradient(rgba(34, 197, 94, 0.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(34, 197, 94, 0.08) 1px, transparent 1px);
     background-size: 50px 50px;
+  }
+  
+  .glass-blur-light {
+    backdrop-filter: blur(20px) saturate(180%);
+  }
+  
+  .glass-blur-strong {
+    backdrop-filter: blur(40px) saturate(200%);
   }
 }
 

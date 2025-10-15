@@ -8,9 +8,9 @@ export default function HomePage() {
   return (
     <div className="min-h-screen relative overflow-hidden">
       {/* Animated Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black">
+      <div className="absolute inset-0 bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50">
         {/* Grid pattern */}
-        <div className="absolute inset-0 bg-grid opacity-20" />
+        <div className="absolute inset-0 bg-grid opacity-30" />
         
         {/* Animated spotlight */}
         <motion.div
@@ -35,7 +35,7 @@ export default function HomePage() {
             return (
               <motion.div
                 key={i}
-                className="absolute w-1 h-1 bg-brand-400 rounded-full"
+                className="absolute w-1 h-1 bg-brand-500 rounded-full shadow-lg shadow-brand-400"
                 style={{
                   left: hasWindow ? undefined : `${startX}%`,
                   top: hasWindow ? undefined : `${startY}%`,
@@ -68,7 +68,7 @@ export default function HomePage() {
             <motion.div
               initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }}
-              className="text-2xl font-bold text-white"
+              className="text-2xl font-bold text-green-900"
             >
               Schlauarbeit
             </motion.div>
@@ -76,11 +76,11 @@ export default function HomePage() {
             <motion.div
               initial={{ opacity: 0, x: 20 }}
               animate={{ opacity: 1, x: 0 }}
-              className="hidden md:flex space-x-6 text-gray-300"
+              className="hidden md:flex space-x-6 text-green-700"
             >
-              <a href="#" className="hover:text-brand-400 transition-colors">Für Profis</a>
-              <a href="#" className="hover:text-brand-400 transition-colors">Hilfe</a>
-              <a href="#" className="hover:text-brand-400 transition-colors">Kontakt</a>
+              <a href="#" className="hover:text-brand-600 transition-colors">Für Profis</a>
+              <a href="#" className="hover:text-brand-600 transition-colors">Hilfe</a>
+              <a href="#" className="hover:text-brand-600 transition-colors">Kontakt</a>
             </motion.div>
           </nav>
         </header>
@@ -105,7 +105,7 @@ export default function HomePage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
-              className="text-xl text-gray-300 max-w-3xl mx-auto mb-12"
+              className="text-xl text-green-700 max-w-3xl mx-auto mb-12"
             >
               Suche Dienstleister, erstelle Aufträge, lade Bilder hoch und chatte – 
               alles in einem modernen Interface.
@@ -118,17 +118,17 @@ export default function HomePage() {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="flex justify-center space-x-8 mb-16"
             >
-              <div className="flex items-center space-x-2 text-brand-400">
+              <div className="flex items-center space-x-2 text-brand-600">
                 <Sparkles className="w-5 h-5" />
-                <span className="text-sm">KI-Powered</span>
+                <span className="text-sm font-medium">KI-Powered</span>
               </div>
-              <div className="flex items-center space-x-2 text-brand-400">
+              <div className="flex items-center space-x-2 text-brand-600">
                 <Zap className="w-5 h-5" />
-                <span className="text-sm">Blitzschnell</span>
+                <span className="text-sm font-medium">Blitzschnell</span>
               </div>
-              <div className="flex items-center space-x-2 text-brand-400">
+              <div className="flex items-center space-x-2 text-brand-600">
                 <Shield className="w-5 h-5" />
-                <span className="text-sm">Sicher</span>
+                <span className="text-sm font-medium">Sicher</span>
               </div>
             </motion.div>
           </div>
@@ -139,7 +139,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <footer className="container mx-auto px-4 py-12 mt-20">
-          <div className="text-center text-gray-400">
+          <div className="text-center text-green-600">
             <p>&copy; 2024 Schlauarbeit. Alle Rechte vorbehalten.</p>
             <div className="mt-4 space-x-6">
               <a href="#" className="hover:text-brand-400 transition-colors">Datenschutz</a>
