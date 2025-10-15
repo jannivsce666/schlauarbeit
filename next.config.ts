@@ -9,6 +9,10 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
+  // Netlify-kompatible Einstellungen
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
