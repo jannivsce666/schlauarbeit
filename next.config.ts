@@ -6,12 +6,15 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  experimental: {
-    optimizePackageImports: ['lucide-react'],
-  },
+  reactStrictMode: false,
+  swcMinify: true,
   // Netlify-kompatible Einstellungen
   images: {
     unoptimized: true,
+  },
+  // Reduziere Build-Zeit
+  experimental: {
+    optimizePackageImports: ['lucide-react', 'framer-motion'],
   },
 };
 
