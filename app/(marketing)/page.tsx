@@ -68,7 +68,7 @@ export default function HomePage() {
             <motion.div
               initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }}
-              className="text-2xl font-bold text-green-900"
+              className="text-2xl font-bold text-gray-900"
             >
               Schlauarbeit
             </motion.div>
@@ -76,11 +76,11 @@ export default function HomePage() {
             <motion.div
               initial={{ opacity: 0, x: 20 }}
               animate={{ opacity: 1, x: 0 }}
-              className="hidden md:flex space-x-6 text-green-700"
+              className="hidden md:flex space-x-6 text-gray-700 font-medium"
             >
-              <a href="#" className="hover:text-brand-600 transition-colors">Für Profis</a>
-              <a href="#" className="hover:text-brand-600 transition-colors">Hilfe</a>
-              <a href="#" className="hover:text-brand-600 transition-colors">Kontakt</a>
+              <a href="#" className="hover:text-green-600 transition-colors">Für Profis</a>
+              <a href="#" className="hover:text-green-600 transition-colors">Hilfe</a>
+              <a href="#" className="hover:text-green-600 transition-colors">Kontakt</a>
             </motion.div>
           </nav>
         </header>
@@ -92,10 +92,10 @@ export default function HomePage() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8 }}
-              className="text-4xl lg:text-6xl font-bold text-white mb-6"
+              className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6 drop-shadow-sm"
             >
               Schlauarbeit – Finde Profis.{" "}
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-purple-400">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-600 to-emerald-600">
                 Erledige Aufträge.
               </span>{" "}
               Mit KI-Speed.
@@ -105,7 +105,7 @@ export default function HomePage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
-              className="text-xl text-green-700 max-w-3xl mx-auto mb-12"
+              className="text-xl text-gray-700 max-w-3xl mx-auto mb-12"
             >
               Suche Dienstleister, erstelle Aufträge, lade Bilder hoch und chatte – 
               alles in einem modernen Interface.
@@ -118,17 +118,17 @@ export default function HomePage() {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="flex justify-center space-x-8 mb-16"
             >
-              <div className="flex items-center space-x-2 text-brand-600">
+              <div className="flex items-center space-x-2 text-green-700">
                 <Sparkles className="w-5 h-5" />
-                <span className="text-sm font-medium">KI-Powered</span>
+                <span className="text-sm font-semibold">KI-Powered</span>
               </div>
-              <div className="flex items-center space-x-2 text-brand-600">
+              <div className="flex items-center space-x-2 text-green-700">
                 <Zap className="w-5 h-5" />
-                <span className="text-sm font-medium">Blitzschnell</span>
+                <span className="text-sm font-semibold">Blitzschnell</span>
               </div>
-              <div className="flex items-center space-x-2 text-brand-600">
+              <div className="flex items-center space-x-2 text-green-700">
                 <Shield className="w-5 h-5" />
-                <span className="text-sm font-medium">Sicher</span>
+                <span className="text-sm font-semibold">Sicher</span>
               </div>
             </motion.div>
           </div>
@@ -139,7 +139,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <footer className="container mx-auto px-4 py-12 mt-20">
-          <div className="text-center text-green-600">
+          <div className="text-center text-gray-600">
             <p>&copy; 2024 Schlauarbeit. Alle Rechte vorbehalten.</p>
             <div className="mt-4 space-x-6">
               <a href="#" className="hover:text-brand-400 transition-colors">Datenschutz</a>

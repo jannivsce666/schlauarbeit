@@ -31,38 +31,38 @@ export function KiWindow() {
         
         <div className="relative z-10 p-8">
           <Tabs defaultValue="search" className="w-full">
-            <TabsList className="grid w-full grid-cols-5 mb-8 bg-white/30 backdrop-blur-xl border border-white/40 shadow-lg">
+            <TabsList className="grid w-full grid-cols-5 mb-8 bg-white/40 backdrop-blur-xl border border-white/50 shadow-lg">
               <TabsTrigger 
                 value="search" 
-                className="data-[state=active]:bg-brand-500/30 data-[state=active]:text-brand-700 data-[state=active]:shadow-lg flex items-center gap-2 text-green-700"
+                className="data-[state=active]:bg-green-600 data-[state=active]:text-white data-[state=active]:shadow-lg flex items-center gap-2 text-gray-700 font-medium"
               >
                 <Search className="w-4 h-4" />
                 <span className="hidden sm:inline">Suchen</span>
               </TabsTrigger>
               <TabsTrigger 
                 value="job" 
-                className="data-[state=active]:bg-brand-500/30 data-[state=active]:text-brand-700 data-[state=active]:shadow-lg flex items-center gap-2 text-green-700"
+                className="data-[state=active]:bg-green-600 data-[state=active]:text-white data-[state=active]:shadow-lg flex items-center gap-2 text-gray-700 font-medium"
               >
                 <Plus className="w-4 h-4" />
                 <span className="hidden sm:inline">Auftrag</span>
               </TabsTrigger>
               <TabsTrigger 
                 value="upload" 
-                className="data-[state=active]:bg-brand-500/30 data-[state=active]:text-brand-700 data-[state=active]:shadow-lg flex items-center gap-2 text-green-700"
+                className="data-[state=active]:bg-green-600 data-[state=active]:text-white data-[state=active]:shadow-lg flex items-center gap-2 text-gray-700 font-medium"
               >
                 <Upload className="w-4 h-4" />
                 <span className="hidden sm:inline">Bild</span>
               </TabsTrigger>
               <TabsTrigger 
                 value="login" 
-                className="data-[state=active]:bg-brand-500/30 data-[state=active]:text-brand-700 data-[state=active]:shadow-lg flex items-center gap-2 text-green-700"
+                className="data-[state=active]:bg-green-600 data-[state=active]:text-white data-[state=active]:shadow-lg flex items-center gap-2 text-gray-700 font-medium"
               >
                 <LogIn className="w-4 h-4" />
                 <span className="hidden sm:inline">Login</span>
               </TabsTrigger>
               <TabsTrigger 
                 value="chat" 
-                className="data-[state=active]:bg-brand-500/30 data-[state=active]:text-brand-700 data-[state=active]:shadow-lg flex items-center gap-2 text-green-700"
+                className="data-[state=active]:bg-green-600 data-[state=active]:text-white data-[state=active]:shadow-lg flex items-center gap-2 text-gray-700 font-medium"
               >
                 <MessageCircle className="w-4 h-4" />
                 <span className="hidden sm:inline">Chat</span>
